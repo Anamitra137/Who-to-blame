@@ -1,10 +1,10 @@
+import argparse
 import os
 import pygit2
 import subprocess
 import pandas as pd
 import re
 import concurrent.futures
-import multiprocessing
 from tqdm import tqdm
 from datetime import datetime, timezone
 
@@ -172,7 +172,6 @@ def main(repo_path):
     print(f"Saved final dataset with {len(df)} entries.")
 
 if __name__ == "__main__":
-    import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--repo", required=True, help="Path to the Git repository")
