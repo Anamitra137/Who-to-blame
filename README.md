@@ -14,5 +14,5 @@ python blame.py --repo <path-to-repo>
 
 Labels data for `<path-to-repo>_blame_data.csv`
 ```bash
-python classification.py --data <path-to-repo>_blame_data.csv --key <Groq API Key>
+python label.py --data <path-to-repo>_blame_data.csv --key <Groq API Key>
 ```
