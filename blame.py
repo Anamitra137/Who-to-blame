@@ -17,12 +17,26 @@ def keyword_label(message: str) -> int:
     else:
         return 0
 
+EXCLUDED_FOLDERS = {
+    '.git', '.idea', '.vscode', '.settings',
+    'node_modules', 'vendor', 'target', '.venv'
+}
+
+EXCLUDED_EXTENSIONS = {
+    '.md', '.txt', '.rst', '.log', '.csv', '.pdf', '.png', '.jpg', '.gif', '.bmp', 
+    '.tar', '.gz', '.zip', '.class', '.o', '.a', '.so', '.dll', '.exe', '.pyc', '.pyo',
+    # '.json', '.yaml', '.yml', '.xml',
+}
 
 def list_files_scandir(path: str = '.'):
     with os.scandir(path) as entries:
         for entry in entries:
-            if entry.name.startswith('.'):
+            if entry.name.startswith('.') or entry.name in EXCLUDED_FOLDERS:
                 continue
+            _, extension = os.path.splitext(entry.name)
+            if extension in EXCLUDED_EXTENSIONS:
+                continue
+
             if entry.is_file():
                 yield entry.path
             elif entry.is_dir():
