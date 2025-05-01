@@ -1,0 +1,60 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+docs/CNAME,65ef34f,Vinta,use MkDocs to generate a static website,1,1,,,0,2015-06-06 19:36:52,
+LICENSE,ea513dd,Vinta,add LICENSE Fixes #328,1,3,,,0,2015-03-21 17:59:24,
+docs/css/extra.css,13f9cc6,Lint,Removed dead css,1,3,Vinta,21ab061,0,2019-03-03 08:30:47,2018-04-10 18:11:11
+docs/css/extra.css,65ef34f,Vinta,use MkDocs to generate a static website,4,4,,,0,2015-06-06 19:36:52,
+docs/css/extra.css,13f9cc6,Lint,Removed dead css,5,7,Vinta,21ab061,0,2019-03-03 08:30:47,2018-04-10 18:11:11
+docs/css/extra.css,65ef34f,Vinta,use MkDocs to generate a static website,8,9,,,0,2015-06-06 19:36:52,
+Makefile,21ab061,Vinta,update mkdocs config,1,1,Vinta,02a72b1,0,2018-04-10 18:11:11,2017-11-22 17:51:46
+Makefile,97dd417,Vinta,update Makefile,2,2,Vinta,21ab061,0,2019-03-02 16:06:09,2018-04-10 18:11:11
+Makefile,65ef34f,Vinta,use MkDocs to generate a static website,3,3,,,0,2015-06-06 19:36:52,
+Makefile,21ab061,Vinta,update mkdocs config,4,5,Vinta,02a72b1,0,2018-04-10 18:11:11,2017-11-22 17:51:46
+Makefile,4f55f2d,Vinta,fix Makefile,6,6,Vinta,65ef34f,1,2015-06-09 11:19:41,2015-06-06 19:36:52
+Makefile,21ab061,Vinta,update mkdocs config,7,7,Vinta,02a72b1,0,2018-04-10 18:11:11,2017-11-22 17:51:46
+Makefile,65ef34f,Vinta,use MkDocs to generate a static website,8,9,,,0,2015-06-06 19:36:52,
+Makefile,97dd417,Vinta,update Makefile,10,12,Vinta,21ab061,0,2019-03-02 16:06:09,2018-04-10 18:11:11
+Makefile,65ef34f,Vinta,use MkDocs to generate a static website,14,14,,,0,2015-06-06 19:36:52,
+Makefile,21ab061,Vinta,update mkdocs config,13,13,,,0,2018-04-10 18:11:11,
+mkdocs.yml,c56f3b6,Vinta,update mkdocs.yml,1,6,Lint,04c0ba8,0,2019-03-02 16:06:38,2019-02-27 08:58:29
+mkdocs.yml,04c0ba8,Lint,Update .travis.yml for automatic deployment,7,7,Vinta,21ab061,0,2019-02-27 08:58:29,2018-04-10 18:11:11
+mkdocs.yml,c56f3b6,Vinta,update mkdocs.yml,8,8,Lint,04c0ba8,0,2019-03-02 16:06:38,2019-02-27 08:58:29
+mkdocs.yml,ca9220c,Vinta,fancy theme: mkdocs-material  https://github.com/squidfunk/mkdocs-material,9,9,Vinta,618fc17,0,2017-10-26 20:13:31,2017-04-24 13:16:54
+mkdocs.yml,04c0ba8,Lint,Update .travis.yml for automatic deployment,12,12,Vinta,21ab061,0,2019-02-27 08:58:29,2018-04-10 18:11:11
+mkdocs.yml,c56f3b6,Vinta,update mkdocs.yml,10,11,Lint,04c0ba8,0,2019-03-02 16:06:38,2019-02-27 08:58:29
+mkdocs.yml,ca9220c,Vinta,fancy theme: mkdocs-material  https://github.com/squidfunk/mkdocs-material,13,13,Vinta,618fc17,0,2017-10-26 20:13:31,2017-04-24 13:16:54
+mkdocs.yml,c56f3b6,Vinta,update mkdocs.yml,14,19,Lint,04c0ba8,0,2019-03-02 16:06:38,2019-02-27 08:58:29
+mkdocs.yml,ca9220c,Vinta,fancy theme: mkdocs-material  https://github.com/squidfunk/mkdocs-material,20,20,Vinta,618fc17,0,2017-10-26 20:13:31,2017-04-24 13:16:54
+mkdocs.yml,c56f3b6,Vinta,update mkdocs.yml,21,22,Lint,04c0ba8,0,2019-03-02 16:06:38,2019-02-27 08:58:29
+mkdocs.yml,21ab061,Vinta,update mkdocs config,23,24,Vinta,ca9220c,0,2018-04-10 18:11:11,2017-10-26 20:13:31
+mkdocs.yml,04c0ba8,Lint,Update .travis.yml for automatic deployment,25,25,Vinta,21ab061,0,2019-02-27 08:58:29,2018-04-10 18:11:11
+mkdocs.yml,b9278e8,Vinta,prune,26,26,,,0,2015-06-06 19:58:27,
+sort.py,396b17f,Regev Golan,Sort readme and add to docs build,1,1,xatier,6a502dd,0,2020-08-02 06:51:49,2019-08-08 05:30:38
+sort.py,a96f889,Vinta,apply PEP,2,3,Ahmed Mustafa,87fee42,0,2014-07-03 06:30:24,2014-07-02 22:35:39
+sort.py,3a3a011,Vinta,fix sort.py,16,16,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,87fee42,Ahmed Mustafa,Added python 3 script to sort entries in README.md,4,15,,,0,2014-07-02 22:35:39,
+sort.py,53cc1fa,Ahmed Abdelaal,Update sort.py,17,17,Ahmed Abdelaal,ebab050,0,2016-11-11 14:57:50,2016-11-11 13:45:39
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,18,18,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,20,20,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,87fee42,Ahmed Mustafa,Added python 3 script to sort entries in README.md,19,19,,,0,2014-07-02 22:35:39,
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,32,32,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,3a3a011,Vinta,fix sort.py,27,27,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,22,26,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,3a3a011,Vinta,fix sort.py,29,31,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,3a3a011,Vinta,fix sort.py,21,21,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,87fee42,Ahmed Mustafa,Added python 3 script to sort entries in README.md,28,28,,,0,2014-07-02 22:35:39,
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,34,34,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,6a502dd,xatier,Minor code fix,33,33,Vinta,3a3a011,1,2019-08-08 05:30:38,2016-11-12 14:26:46
+sort.py,3a3a011,Vinta,fix sort.py,35,35,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,6a502dd,xatier,Minor code fix,36,36,Vinta,3a3a011,1,2019-08-08 05:30:38,2016-11-12 14:26:46
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,37,39,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,ebab050,Ahmed Abdelaal,Update sort.py,43,43,Vinta,a96f889,0,2016-11-11 13:45:39,2014-07-03 06:30:24
+sort.py,3a3a011,Vinta,fix sort.py,40,41,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,a96f889,Vinta,apply PEP,44,44,Ahmed Mustafa,87fee42,0,2014-07-03 06:30:24,2014-07-02 22:35:39
+sort.py,53cc1fa,Ahmed Abdelaal,Update sort.py,45,71,Ahmed Abdelaal,ebab050,0,2016-11-11 14:57:50,2016-11-11 13:45:39
+sort.py,87fee42,Ahmed Mustafa,Added python 3 script to sort entries in README.md,42,42,,,0,2014-07-02 22:35:39,
+sort.py,6a502dd,xatier,Minor code fix,72,74,Vinta,3a3a011,1,2019-08-08 05:30:38,2016-11-12 14:26:46
+sort.py,53cc1fa,Ahmed Abdelaal,Update sort.py,75,76,Ahmed Abdelaal,ebab050,0,2016-11-11 14:57:50,2016-11-11 13:45:39
+sort.py,3a3a011,Vinta,fix sort.py,80,80,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,53cc1fa,Ahmed Abdelaal,Update sort.py,78,79,Ahmed Abdelaal,ebab050,0,2016-11-11 14:57:50,2016-11-11 13:45:39
+sort.py,3a3a011,Vinta,fix sort.py,77,77,Ahmed Abdelaal,53cc1fa,1,2016-11-12 14:26:46,2016-11-11 14:57:50
+sort.py,87fee42,Ahmed Mustafa,Added python 3 script to sort entries in README.md,81,83,,,0,2014-07-02 22:35:39,

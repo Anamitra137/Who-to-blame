@@ -1,0 +1,194 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+epub-metadata.yaml,55d09f6,Simon Knott,Add Ebook generation script (#207),1,3,,,0,2019-05-12 10:21:14,
+resources/study_guide.graffle,408a3f4,Donne Martin,Add study guide OmniGraffle diagram and image,1,24,,,0,2017-04-02 12:24:06,
+generate-epub.sh,55d09f6,Simon Knott,Add Ebook generation script (#207),2,36,,,0,2019-05-12 10:21:14,
+generate-epub.sh,6020231,Sainadh Devireddy,Check dependencies in Ebook gen script (#406),38,50,Simon Knott,55d09f6,0,2020-07-04 01:24:24,2019-05-12 10:21:14
+generate-epub.sh,55d09f6,Simon Knott,Add Ebook generation script (#207),51,54,,,0,2019-05-12 10:21:14,
+generate-epub.sh,6020231,Sainadh Devireddy,Check dependencies in Ebook gen script (#406),1,1,Simon Knott,55d09f6,0,2020-07-04 01:24:24,2019-05-12 10:21:14
+generate-epub.sh,7a094ce,Kian-Meng Ang,Fix typos (#661),37,37,Sainadh Devireddy,6020231,1,2022-04-23 13:14:45,2020-07-04 01:24:24
+solutions/object_oriented_design/call_center/call_center.ipynb,98819e2,Donne Martin,Add Call Center solution,1,6,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/call_center/call_center.ipynb,ffbcd9a,Ali,Fix wording in call center solution (#197),27,27,Girish Raman,cd7ac6d,1,2018-08-09 12:01:27,2018-08-05 13:52:03
+solutions/object_oriented_design/call_center/call_center.ipynb,ffbcd9a,Ali,Fix wording in call center solution (#197),29,29,Girish Raman,cd7ac6d,1,2018-08-09 12:01:27,2018-08-05 13:52:03
+solutions/object_oriented_design/call_center/call_center.ipynb,98819e2,Donne Martin,Add Call Center solution,28,28,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/call_center/call_center.ipynb,cd7ac6d,Girish Raman,Fix broken URL (#194),7,7,Donne Martin,98819e2,1,2018-08-05 13:52:03,2017-03-04 02:52:50
+solutions/object_oriented_design/call_center/call_center.ipynb,98819e2,Donne Martin,Add Call Center solution,8,26,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/call_center/call_center.ipynb,98819e2,Donne Martin,Add Call Center solution,30,206,,,0,2017-03-04 02:52:50,
+resources/flash_cards/OO Design.apkg,ed2d35e,Donne Martin,Add Anki flashcards,1,54,,,0,2017-03-08 05:27:48,
+solutions/object_oriented_design/call_center/call_center.py,e50f269,Christian Clauss,Change raise NotImplemented to raise NotImplementedError (#345),69,69,cclauss,f099a0a,0,2019-12-27 01:11:57,2018-03-07 00:37:46
+solutions/object_oriented_design/call_center/call_center.py,98819e2,Donne Martin,Add Call Center solution,1,68,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/call_center/call_center.py,98819e2,Donne Martin,Add Call Center solution,70,114,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/call_center/call_center.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),115,122,Donne Martin,98819e2,0,2018-03-07 00:37:46,2017-03-04 02:52:50
+solutions/object_oriented_design/call_center/__init__.py,98819e2,Donne Martin,Add Call Center solution,1,0,,,0,2017-03-04 02:52:50,
+solutions/object_oriented_design/deck_of_cards/__init__.py,0f517c7,Donne Martin,Add Deck of Cards solution,1,0,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/hash_table/__init__.py,7595e2a,Donne Martin,Add Hash Table solution,1,0,,,0,2017-03-04 02:53:41,
+solutions/object_oriented_design/hash_table/hash_map.ipynb,1f939ec,Narendra Choudhary Legha,Resolve #195: Fix broken GitHub URLs (#199),7,7,Donne Martin,7595e2a,1,2018-08-13 00:49:30,2017-03-04 02:53:41
+solutions/object_oriented_design/hash_table/hash_map.ipynb,7595e2a,Donne Martin,Add Hash Table solution,1,6,,,0,2017-03-04 02:53:41,
+solutions/object_oriented_design/hash_table/hash_map.ipynb,7595e2a,Donne Martin,Add Hash Table solution,8,121,,,0,2017-03-04 02:53:41,
+solutions/object_oriented_design/hash_table/hash_map.py,7595e2a,Donne Martin,Add Hash Table solution,1,37,,,0,2017-03-04 02:53:41,
+solutions/object_oriented_design/hash_table/hash_map.py,924570e,cclauss,Add newlines - PEP8 style (#173),38,38,Donne Martin,7595e2a,0,2018-07-19 06:09:09,2017-03-04 02:53:41
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,0f517c7,Donne Martin,Add Deck of Cards solution,72,94,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,0f517c7,Donne Martin,Add Deck of Cards solution,1,70,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,b156e48,cclauss,Add missing self variables to Deck of Cards solution (#145),71,71,cclauss,f099a0a,0,2018-03-18 13:21:52,2018-03-07 00:37:46
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),95,95,Donne Martin,0f517c7,0,2018-03-07 00:37:46,2017-03-04 02:53:01
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),116,117,Donne Martin,0f517c7,0,2018-03-07 00:37:46,2017-03-04 02:53:01
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,0f517c7,Donne Martin,Add Deck of Cards solution,96,104,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,0f517c7,Donne Martin,Add Deck of Cards solution,106,106,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,0f517c7,Donne Martin,Add Deck of Cards solution,108,115,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,b156e48,cclauss,Add missing self variables to Deck of Cards solution (#145),105,105,cclauss,f099a0a,0,2018-03-18 13:21:52,2018-03-07 00:37:46
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.py,b156e48,cclauss,Add missing self variables to Deck of Cards solution (#145),107,107,cclauss,f099a0a,0,2018-03-18 13:21:52,2018-03-07 00:37:46
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,0f517c7,Donne Martin,Add Deck of Cards solution,1,6,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,1f939ec,Narendra Choudhary Legha,Resolve #195: Fix broken GitHub URLs (#199),7,7,Bryan Jennings,6c4c2ab,1,2018-08-13 00:49:30,2017-12-02 01:51:33
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,6c4c2ab,Bryan Jennings,Simplify logic for is_ace and is_face_card in deck of cards solution (#113),96,96,Donne Martin,0f517c7,0,2017-12-02 01:51:33,2017-03-04 02:53:01
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,0f517c7,Donne Martin,Add Deck of Cards solution,93,95,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,0f517c7,Donne Martin,Add Deck of Cards solution,97,124,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,6c4c2ab,Bryan Jennings,Simplify logic for is_ace and is_face_card in deck of cards solution (#113),92,92,Donne Martin,0f517c7,0,2017-12-02 01:51:33,2017-03-04 02:53:01
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,0f517c7,Donne Martin,Add Deck of Cards solution,8,91,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,0f517c7,Donne Martin,Add Deck of Cards solution,126,195,,,0,2017-03-04 02:53:01,
+solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb,06b3ed2,Joilson Cisne,Fix loop bug in deck of cards exercise (#396),125,125,Narendra Choudhary Legha,1f939ec,1,2020-07-08 00:56:05,2018-08-13 00:49:30
+resources/flash_cards/System Design Exercises.apkg,ed2d35e,Donne Martin,Add Anki flashcards,1,279,,,0,2017-03-08 05:27:48,
+resources/flash_cards/System Design.apkg,7e9b9b2,Donne Martin,Update system design flashcards,107,107,,,0,2017-03-08 11:00:32,
+resources/flash_cards/System Design.apkg,aecb070,Donne Martin,Update system design flashcards (#56),108,169,,,0,2017-04-09 17:15:57,
+resources/flash_cards/System Design.apkg,aecb070,Donne Martin,Update system design flashcards (#56),1,106,,,0,2017-04-09 17:15:57,
+solutions/object_oriented_design/lru_cache/__init__.py,ae9832c,Donne Martin,Add LRU Cache solution,1,0,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,8,23,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,1,6,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,17e5fb7,Ian Park,"Add prev to Node class (#82)  For managing an LRU cache, we need to use a doubly linked list for move_to_front() operation.",59,60,Donne Martin,ae9832c,0,2017-06-06 00:25:04,2017-03-04 02:53:54
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,136c0b9,Kevin Vandenborne,Fix typo in LRU cache solution (#182),24,24,Anton Hulikau,e50e200,1,2018-07-23 06:13:03,2018-04-26 01:22:05
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,61,86,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,25,58,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,1f939ec,Narendra Choudhary Legha,Resolve #195: Fix broken GitHub URLs (#199),7,7,Kevin Vandenborne,136c0b9,1,2018-08-13 00:49:30,2018-07-23 06:13:03
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,101,141,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,ae9832c,Donne Martin,Add LRU Cache solution,88,99,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,e50e200,Anton Hulikau,Fix dict KeyError (#152),87,87,Ian Park,17e5fb7,1,2018-04-26 01:22:05,2017-06-06 00:25:04
+solutions/object_oriented_design/lru_cache/lru_cache.ipynb,e50e200,Anton Hulikau,Fix dict KeyError (#152),100,100,Ian Park,17e5fb7,1,2018-04-26 01:22:05,2017-06-06 00:25:04
+solutions/object_oriented_design/online_chat/online_chat.ipynb,1f939ec,Narendra Choudhary Legha,Resolve #195: Fix broken GitHub URLs (#199),7,7,Donne Martin,624e0c2,1,2018-08-13 00:49:30,2017-03-08 05:37:11
+solutions/object_oriented_design/online_chat/online_chat.ipynb,616710f,Donne Martin,Add Online Chat solution,8,71,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.ipynb,616710f,Donne Martin,Add Online Chat solution,1,6,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.ipynb,624e0c2,Donne Martin,Simplify online chat solution,146,146,Donne Martin,616710f,0,2017-03-08 05:37:11,2017-03-04 02:54:08
+solutions/object_oriented_design/online_chat/online_chat.ipynb,616710f,Donne Martin,Add Online Chat solution,147,171,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.ipynb,616710f,Donne Martin,Add Online Chat solution,72,145,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/__init__.py,616710f,Donne Martin,Add Online Chat solution,1,0,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/parking_lot/parking_lot.ipynb,831906f,Donne Martin,Add Parking Lot Solution,1,6,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.ipynb,831906f,Donne Martin,Add Parking Lot Solution,8,73,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.ipynb,831906f,Donne Martin,Add Parking Lot Solution,75,204,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.ipynb,4badddd,Ian Park,Init spot_size member in parking lot exercise (#83),74,74,Donne Martin,831906f,0,2017-05-30 00:55:32,2017-03-04 02:54:23
+solutions/object_oriented_design/parking_lot/parking_lot.ipynb,1f939ec,Narendra Choudhary Legha,Resolve #195: Fix broken GitHub URLs (#199),7,7,Ian Park,4badddd,1,2018-08-13 00:49:30,2017-05-30 00:55:32
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,1,13,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),14,21,Donne Martin,ae9832c,0,2018-03-07 00:37:46,2017-03-04 02:53:54
+solutions/object_oriented_design/lru_cache/lru_cache.py,0178943,cclauss,Add missing colons to class methods (#143),32,32,cclauss,f099a0a,0,2018-03-18 13:19:08,2018-03-07 00:37:46
+solutions/object_oriented_design/lru_cache/lru_cache.py,a70a8f3,Anton Hulikau,Fix dict KeyError (#153),37,37,cclauss,0178943,1,2018-04-26 01:22:26,2018-03-18 13:19:08
+solutions/object_oriented_design/lru_cache/lru_cache.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),34,34,Donne Martin,ae9832c,0,2018-03-07 00:37:46,2017-03-04 02:53:54
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,38,44,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,46,49,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,22,31,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,35,36,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,a70a8f3,Anton Hulikau,Fix dict KeyError (#153),50,50,cclauss,0178943,1,2018-04-26 01:22:26,2018-03-18 13:19:08
+solutions/object_oriented_design/lru_cache/lru_cache.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),66,66,Donne Martin,ae9832c,0,2018-03-07 00:37:46,2017-03-04 02:53:54
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,33,33,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,ae9832c,Donne Martin,Add LRU Cache solution,51,65,,,0,2017-03-04 02:53:54,
+solutions/object_oriented_design/lru_cache/lru_cache.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),45,45,Donne Martin,ae9832c,0,2018-03-07 00:37:46,2017-03-04 02:53:54
+solutions/object_oriented_design/parking_lot/__init__.py,831906f,Donne Martin,Add Parking Lot Solution,1,0,,,0,2017-03-04 02:54:23,
+solutions/system_design/mint/mint_basic.graffle,f8f32e9,Donne Martin,Add mint OmniGraffle diagrams,1,15,,,0,2017-04-02 12:24:47,
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,1,1,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,49,56,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,68,95,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,3,47,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,1b339db,cclauss,Change LARGE to VehicleSize.LARGE in parking lot solution (#146),57,57,cclauss,f099a0a,0,2018-04-09 00:25:11,2018-03-07 00:37:46
+solutions/object_oriented_design/parking_lot/parking_lot.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),96,96,Donne Martin,831906f,0,2018-03-07 00:37:46,2017-03-04 02:54:23
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,101,120,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),2,2,Donne Martin,831906f,0,2018-03-07 00:37:46,2017-03-04 02:54:23
+solutions/object_oriented_design/parking_lot/parking_lot.py,1b339db,cclauss,Change LARGE to VehicleSize.LARGE in parking lot solution (#146),48,48,cclauss,f099a0a,0,2018-04-09 00:25:11,2018-03-07 00:37:46
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,58,66,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,4a7d2e4,cclauss,Adding missing self variable (#158),67,67,cclauss,1b339db,0,2018-05-07 01:25:31,2018-04-09 00:25:11
+solutions/object_oriented_design/parking_lot/parking_lot.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),100,100,Donne Martin,831906f,0,2018-03-07 00:37:46,2017-03-04 02:54:23
+solutions/object_oriented_design/parking_lot/parking_lot.py,831906f,Donne Martin,Add Parking Lot Solution,97,99,,,0,2017-03-04 02:54:23,
+solutions/object_oriented_design/parking_lot/parking_lot.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),121,125,Donne Martin,831906f,0,2018-03-07 00:37:46,2017-03-04 02:54:23
+solutions/system_design/mint/mint.graffle,f8f32e9,Donne Martin,Add mint OmniGraffle diagrams,1,29,,,0,2017-04-02 12:24:47,
+solutions/system_design/mint/mint_mapreduce.py,7fb0ca8,Donne Martin,Add Mint solution,34,37,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_mapreduce.py,7fb0ca8,Donne Martin,Add Mint solution,39,57,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_mapreduce.py,fb66242,cclauss,Fix coding errors (#149),38,38,Donne Martin,7fb0ca8,1,2018-04-26 01:19:04,2017-03-05 05:05:31
+solutions/system_design/mint/mint_mapreduce.py,7fb0ca8,Donne Martin,Add Mint solution,1,32,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_mapreduce.py,ad40b8e,cclauss,Change variable seller to category in Mint solution (#159),33,33,cclauss,fb66242,0,2018-05-23 03:15:42,2018-04-26 01:19:04
+solutions/system_design/mint/__init__.py,7fb0ca8,Donne Martin,Add Mint solution,1,0,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_snippets.py,a360483,cclauss,Add missing enum imports (#157),3,5,Donne Martin,7fb0ca8,0,2018-05-07 01:26:01,2017-03-05 05:05:31
+solutions/system_design/mint/mint_snippets.py,7fb0ca8,Donne Martin,Add Mint solution,6,11,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_snippets.py,7fb0ca8,Donne Martin,Add Mint solution,1,2,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_snippets.py,7fb0ca8,Donne Martin,Add Mint solution,14,50,,,0,2017-03-05 05:05:31,
+solutions/system_design/mint/mint_snippets.py,a360483,cclauss,Add missing enum imports (#157),12,13,Donne Martin,7fb0ca8,0,2018-05-07 01:26:01,2017-03-05 05:05:31
+solutions/system_design/pastebin/pastebin.graffle,0c3a785,Donne Martin,Add pastebin OmniGraffle diagrams,1,28,,,0,2017-04-02 12:25:28,
+solutions/system_design/pastebin/pastebin_basic.graffle,0c3a785,Donne Martin,Add pastebin OmniGraffle diagrams,1,14,,,0,2017-04-02 12:25:28,
+solutions/system_design/pastebin/__init__.py,a2e9217,Donne Martin,Add Pastebin solution,1,0,,,0,2017-03-05 05:05:53,
+solutions/system_design/pastebin/pastebin.py,a2e9217,Donne Martin,Add Pastebin solution,30,46,,,0,2017-03-05 05:05:53,
+solutions/system_design/pastebin/pastebin.py,a2e9217,Donne Martin,Add Pastebin solution,1,28,,,0,2017-03-05 05:05:53,
+solutions/system_design/pastebin/pastebin.py,fb66242,cclauss,Fix coding errors (#149),29,29,Donne Martin,a2e9217,1,2018-04-26 01:19:04,2017-03-05 05:05:53
+solutions/object_oriented_design/online_chat/online_chat.py,a360483,cclauss,Add missing enum imports (#157),2,2,cclauss,f099a0a,0,2018-05-07 01:26:01,2018-03-07 00:37:46
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,7,9,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,1,1,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,3,6,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,62,74,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,60,60,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,80,103,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,24,37,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),38,54,Donne Martin,624e0c2,0,2018-03-07 00:37:46,2017-03-08 05:37:11
+solutions/object_oriented_design/online_chat/online_chat.py,616710f,Donne Martin,Add Online Chat solution,55,59,,,0,2017-03-04 02:54:08,
+solutions/object_oriented_design/online_chat/online_chat.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),10,23,Donne Martin,624e0c2,0,2018-03-07 00:37:46,2017-03-08 05:37:11
+solutions/object_oriented_design/online_chat/online_chat.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),75,79,Donne Martin,624e0c2,0,2018-03-07 00:37:46,2017-03-08 05:37:11
+solutions/object_oriented_design/online_chat/online_chat.py,624e0c2,Donne Martin,Simplify online chat solution,61,61,,,0,2017-03-08 05:37:11,
+solutions/object_oriented_design/online_chat/online_chat.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),104,104,,,0,2018-03-07 00:37:46,
+solutions/system_design/query_cache/query_cache.graffle,1f7d78b,Donne Martin,Add query cache OmniGraffle diagrams,1,25,,,0,2017-04-02 12:25:39,
+solutions/system_design/query_cache/query_cache_basic.graffle,1f7d78b,Donne Martin,Add query cache OmniGraffle diagrams,1,8,,,0,2017-04-02 12:25:39,
+solutions/system_design/query_cache/__init__.py,d484f80,Donne Martin,Add Query Cache solution,1,0,,,0,2017-03-05 05:06:04,
+solutions/system_design/sales_rank/sales_rank.graffle,3544e62,Donne Martin,Add sales rank OmniGraffle diagrams,1,24,,,0,2017-04-02 12:25:47,
+solutions/system_design/sales_rank/sales_rank_basic.graffle,3544e62,Donne Martin,Add sales rank OmniGraffle diagrams,1,19,,,0,2017-04-02 12:25:47,
+solutions/system_design/social_graph/social_graph.graffle,d84d3f5,Donne Martin,Add social graph OmniGraffle diagrams,1,19,,,0,2017-04-02 12:26:11,
+solutions/system_design/sales_rank/__init__.py,edc404e,Donne Martin,Add Sales Rank solution,1,0,,,0,2017-03-05 05:06:17,
+solutions/system_design/scaling_aws/scaling_aws.graffle,9d4bec4,Donne Martin,Add scaling aws OmniGraffle diagram,1,82,,,0,2017-04-02 12:26:02,
+solutions/system_design/query_cache/query_cache_snippets.py,924570e,cclauss,Add newlines - PEP8 style (#173),3,3,cclauss,0178943,0,2018-07-19 06:09:09,2018-03-18 13:19:08
+solutions/system_design/query_cache/query_cache_snippets.py,d484f80,Donne Martin,Add Query Cache solution,1,2,Donne Martin,ae9832c,0,2017-03-05 05:06:04,2017-03-04 02:53:54
+solutions/system_design/query_cache/query_cache_snippets.py,0178943,cclauss,Add missing colons to class methods (#143),56,56,Donne Martin,d484f80,0,2018-03-18 13:19:08,2017-03-05 05:06:04
+solutions/system_design/query_cache/query_cache_snippets.py,d484f80,Donne Martin,Add Query Cache solution,57,90,Donne Martin,ae9832c,0,2017-03-05 05:06:04,2017-03-04 02:53:54
+solutions/system_design/query_cache/query_cache_snippets.py,d484f80,Donne Martin,Add Query Cache solution,4,55,Donne Martin,ae9832c,0,2017-03-05 05:06:04,2017-03-04 02:53:54
+solutions/system_design/social_graph/social_graph_basic.graffle,d84d3f5,Donne Martin,Add social graph OmniGraffle diagrams,1,8,,,0,2017-04-02 12:26:11,
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,edc404e,Donne Martin,Add Sales Rank solution,1,11,,,0,2017-03-05 05:06:17,
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,edc404e,Donne Martin,Add Sales Rank solution,29,76,,,0,2017-03-05 05:06:17,
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,fb66242,cclauss,Fix coding errors (#149),28,28,Donne Martin,edc404e,1,2018-04-26 01:19:04,2017-03-05 05:06:17
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,edc404e,Donne Martin,Add Sales Rank solution,13,27,,,0,2017-03-05 05:06:17,
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,fb66242,cclauss,Fix coding errors (#149),12,12,Donne Martin,edc404e,1,2018-04-26 01:19:04,2017-03-05 05:06:17
+solutions/system_design/sales_rank/sales_rank_mapreduce.py,fb66242,cclauss,Fix coding errors (#149),77,77,Donne Martin,edc404e,1,2018-04-26 01:19:04,2017-03-05 05:06:17
+solutions/system_design/social_graph/__init__.py,66e4348,Donne Martin,Add Social Graph solution,1,0,,,0,2017-03-05 05:06:28,
+solutions/system_design/template/template.graffle,9a8a2fb,Donne Martin,Add OmniGraffle base template,1,23,,,0,2017-04-02 12:21:37,
+solutions/system_design/twitter/twitter.graffle,8fcd565,Donne Martin,Add twitter OmniGraffle diagrams,1,28,,,0,2017-04-02 12:26:21,
+solutions/system_design/twitter/twitter_basic.graffle,8fcd565,Donne Martin,Add twitter OmniGraffle diagrams,1,17,,,0,2017-04-02 12:26:21,
+solutions/system_design/web_crawler/web_crawler.graffle,7f6d52e,Donne Martin,Add web crawler OmniGraffle diagrams,1,27,,,0,2017-04-02 12:26:33,
+solutions/system_design/web_crawler/web_crawler_basic.graffle,7f6d52e,Donne Martin,Add web crawler OmniGraffle diagrams,1,10,,,0,2017-04-02 12:26:33,
+solutions/system_design/web_crawler/web_crawler_mapreduce.py,e60de17,Donne Martin,Add Web Crawler solution,1,25,,,0,2017-03-05 05:06:58,
+solutions/system_design/social_graph/social_graph_snippets.py,ea262de,cclauss,Add deque import to Social Graph solution (#147),2,2,cclauss,f099a0a,0,2018-03-24 23:38:34,2018-03-07 00:37:46
+solutions/system_design/social_graph/social_graph_snippets.py,66e4348,Donne Martin,Add Social Graph solution,1,1,,,0,2017-03-05 05:06:28,
+solutions/system_design/social_graph/social_graph_snippets.py,66e4348,Donne Martin,Add Social Graph solution,10,71,,,0,2017-03-05 05:06:28,
+solutions/system_design/social_graph/social_graph_snippets.py,e116bd7,cclauss,Fix #148: Add State(Enum) to social_graph_snippets.py (#167),3,8,cclauss,ea262de,1,2018-07-15 00:01:57,2018-03-24 23:38:34
+solutions/system_design/social_graph/social_graph_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),72,72,,,0,2018-03-07 00:37:46,
+solutions/system_design/social_graph/social_graph_snippets.py,ea262de,cclauss,Add deque import to Social Graph solution (#147),9,9,,,0,2018-03-24 23:38:34,
+solutions/system_design/web_crawler/__init__.py,e60de17,Donne Martin,Add Web Crawler solution,1,0,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,7,7,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,13,15,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,4,5,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,9,11,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,1,2,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,924570e,cclauss,Add newlines - PEP8 style (#173),3,3,cclauss,f099a0a,0,2018-07-19 06:09:09,2018-03-07 00:37:46
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,25,27,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,21,23,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),6,6,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,29,31,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),18,18,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,17,17,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,19,19,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),16,16,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),8,8,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),32,32,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),24,24,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,46,73,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),12,12,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,e60de17,Donne Martin,Add Web Crawler solution,33,44,,,0,2017-03-05 05:06:58,
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),20,20,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),28,28,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58
+solutions/system_design/web_crawler/web_crawler_snippets.py,f099a0a,cclauss,Convert all .py files to be valid Python (#98),45,45,Donne Martin,e60de17,0,2018-03-07 00:37:46,2017-03-05 05:06:58

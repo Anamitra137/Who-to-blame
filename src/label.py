@@ -115,8 +115,8 @@ def main(file_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", required=True, help="Path to the dataset")
-    parser.add_argument("--key", required=True, help="Groq API key")
+    parser.add_argument("--data", dest="data", required=True, help="Path to the dataset")
+    parser.add_argument("--key", dest="key", required=True, help="Groq API key")
     args = parser.parse_args()
 
     API_KEY = args.key

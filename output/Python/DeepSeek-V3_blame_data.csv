@@ -1,0 +1,173 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+inference/configs/config_16B.json,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,19,,,0,2024-12-26 11:01:57,
+inference/configs/config_236B.json,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,20,,,0,2024-12-26 11:01:57,
+inference/configs/config_671B.json,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,22,,,0,2024-12-26 11:01:57,
+LICENSE-CODE,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,21,,,0,2024-12-26 11:01:57,
+LICENSE-MODEL,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,91,,,0,2024-12-26 11:01:57,
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,64,72,,,0,2024-12-26 11:01:57,
+inference/convert.py,2756e13,Roman Fitzjalen,clarify assertion error,63,63,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/convert.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,34,45,Xingkai Yu,8710ec2,0,2025-01-05 18:18:18,2024-12-31 10:05:55
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,33,,,0,2024-12-26 11:01:57,
+inference/convert.py,8710ec2,Xingkai Yu,require model-parallel in convert.py,93,93,,,0,2024-12-31 10:05:55,
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,74,92,,,0,2024-12-26 11:01:57,
+inference/convert.py,2756e13,Roman Fitzjalen,clarify assertion error,73,73,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,46,62,,,0,2024-12-26 11:01:57,
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,94,94,,,0,2024-12-26 11:01:57,
+inference/convert.py,2756e13,Roman Fitzjalen,clarify assertion error,95,95,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/convert.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,96,96,,,0,2024-12-26 11:01:57,
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,25,37,,,0,2024-12-26 11:01:57,
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,51,51,,,0,2024-12-26 11:01:57,
+inference/generate.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,89,99,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/generate.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,15,24,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/generate.py,2756e13,Roman Fitzjalen,clarify assertion error,52,52,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,14,,,0,2024-12-26 11:01:57,
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,53,88,,,0,2024-12-26 11:01:57,
+inference/generate.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,38,50,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,149,161,,,0,2024-12-26 11:01:57,
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,100,147,,,0,2024-12-26 11:01:57,
+inference/generate.py,2756e13,Roman Fitzjalen,clarify assertion error,148,148,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,185,185,,,0,2024-12-26 11:01:57,
+inference/generate.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,162,175,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/generate.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,176,183,,,0,2024-12-26 11:01:57,
+inference/generate.py,2756e13,Roman Fitzjalen,clarify assertion error,184,184,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,23,33,,,0,2024-12-26 11:01:57,
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,10,,,0,2024-12-26 11:01:57,
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,57,70,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,71,84,,,0,2024-12-26 11:01:57,
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,34,45,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,48,56,,,0,2024-12-26 11:01:57,
+inference/kernel.py,2756e13,Roman Fitzjalen,clarify assertion error,46,47,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,11,22,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,85,89,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,4a65fd9,oyzh,fix an args description.,90,90,Roman Fitzjalen,2756e13,1,2025-02-15 03:02:28,2025-01-28 12:16:54
+inference/kernel.py,2756e13,Roman Fitzjalen,clarify assertion error,99,100,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,91,98,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,101,120,,,0,2024-12-26 11:01:57,
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,140,170,,,0,2024-12-26 11:01:57,
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,121,139,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,171,182,stack-heap-overflow,4c2fdb8,0,2025-01-05 18:18:18,2024-12-26 11:01:57
+inference/kernel.py,2756e13,Roman Fitzjalen,clarify assertion error,183,184,enoch kan,a1296f0,1,2025-01-28 12:16:54,2025-01-05 18:18:18
+inference/kernel.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,185,191,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,12,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,32,37,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",57,62,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,13,31,Yang Wang,8f1c948,0,2025-01-05 18:18:18,2024-12-27 01:34:38
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,38,38,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",39,44,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,a1296f0,enoch kan,Enhance documentation and update .gitignore for model conversion scripts,45,56,Yang Wang,8f1c948,0,2025-01-05 18:18:18,2024-12-27 01:34:38
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,63,63,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,65,66,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",64,64,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",67,69,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",71,71,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,70,70,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,72,73,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",76,83,stack-heap-overflow,4c2fdb8,1,2024-12-27 01:34:38,2024-12-26 11:01:57
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,75,75,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",74,74,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",86,86,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,84,85,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,87,88,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,95,95,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",89,94,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,97,99,,,0,2024-12-26 11:01:57,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",96,96,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",112,112,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,8f1c948,Yang Wang,"handle missing scale_inv_name (#2)  * handle missing scale_inv_name  Fixed an issue where `weight` and `weight_scale_inv` (e.g. `model.layers.39.mlp.experts.92.gate_proj.weight` and `model.layers.39.mlp.experts.92.gate_proj.weight_scale_inv`) were not in the same SafeTensor, causing an assertion error due to scale_inv_name not being in the state_dict.  * sort filename to reduce memory costs  * Add CUDA cache clearing in memory management  Added torch.cuda.empty_cache() to free up unused memory on the GPU,",100,101,,,1,2024-12-27 01:34:38,
+inference/fp8_cast_bf16.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,102,111,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,54,87,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,88,94,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,2756e13,Roman Fitzjalen,clarify assertion error,99,99,enoch kan,bc77f22,1,2025-01-28 12:16:54,2025-01-05 18:24:31
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,21,53,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,1,20,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,95,98,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,100,105,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,106,117,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,118,129,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,130,145,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,165,173,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,174,187,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,147,150,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,6a30b43,XxAlonexX,Fix Linear Layer Bias Initialization,188,188,Roman Fitzjalen,2756e13,1,2025-02-04 05:08:45,2025-01-28 12:16:54
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,151,164,,,0,2024-12-26 11:01:57,
+inference/model.py,5ee97a8,Xingkai Yu,fix comment,146,146,XxAlonexX,6a30b43,1,2025-02-07 08:42:55,2025-02-04 05:08:45
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,189,192,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,202,205,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,193,201,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,206,214,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,215,215,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,221,229,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,217,220,,,0,2024-12-26 11:01:57,
+inference/model.py,2756e13,Roman Fitzjalen,clarify assertion error,216,216,enoch kan,bc77f22,1,2025-01-28 12:16:54,2025-01-05 18:24:31
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,235,243,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,230,234,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,244,244,,,0,2024-12-26 11:01:57,
+inference/model.py,2756e13,Roman Fitzjalen,clarify assertion error,245,245,enoch kan,bc77f22,1,2025-01-28 12:16:54,2025-01-05 18:24:31
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,246,249,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,250,258,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,259,267,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,268,274,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,fd011c1,GeeeekExplorer,torch rmsnorm,277,277,,,0,2025-01-05 06:33:48,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,275,276,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,278,281,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,282,290,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,fd011c1,GeeeekExplorer,torch rmsnorm,291,291,,,0,2025-01-05 06:33:48,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,292,294,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,295,303,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,327,339,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,304,311,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,324,326,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,312,323,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,340,344,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,345,356,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,357,375,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,376,385,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,394,394,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,386,393,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,396,408,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,409,443,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,444,444,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,d29a967,huxuedan,modify the explanation of MLA,395,395,Xingkai Yu,1398800,0,2025-02-26 09:07:39,2025-02-14 12:26:45
+inference/model.py,d29a967,huxuedan,modify the explanation of MLA,445,445,Xingkai Yu,1398800,0,2025-02-26 09:07:39,2025-02-14 12:26:45
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,446,455,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,506,506,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,507,513,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,456,497,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,514,519,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,520,528,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,498,505,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,529,532,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,533,545,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,546,546,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,553,563,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,547,552,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,573,587,,,0,2024-12-26 11:01:57,
+inference/model.py,1398800,Xingkai Yu,fix scores mask,588,589,Xingkai Yu,5ee97a8,1,2025-02-14 12:26:45,2025-02-07 08:42:55
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,564,572,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,599,606,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,590,598,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,607,607,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,608,614,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,621,629,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,615,620,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,630,633,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,646,646,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,653,654,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,647,652,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,634,645,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,2756e13,Roman Fitzjalen,clarify assertion error,655,655,enoch kan,bc77f22,1,2025-01-28 12:16:54,2025-01-05 18:24:31
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,656,666,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,667,675,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,676,693,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,703,703,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,694,702,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,704,710,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,711,717,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,718,729,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,736,746,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,748,753,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,747,747,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,730,735,,,0,2024-12-26 11:01:57,
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,754,769,,,0,2024-12-26 11:01:57,
+inference/model.py,bc77f22,enoch kan,Updated model.py docstrings,770,779,GeeeekExplorer,fd011c1,0,2025-01-05 18:24:31,2025-01-05 06:33:48
+inference/model.py,4c2fdb8,stack-heap-overflow,Release DeepSeek-V3,780,804,,,0,2024-12-26 11:01:57,

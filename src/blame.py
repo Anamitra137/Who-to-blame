@@ -8,6 +8,10 @@ import concurrent.futures
 from tqdm import tqdm
 from datetime import datetime, timezone
 
+
+MAX_PROCESS = 8
+MAX_WORKERS = 8
+
 def keyword_label(message: str) -> int:
     FIX_KEYWORDS = [
     "fix", "fixed", "bug", "crash", "error", "failure", "fault", "defect", "patch", "issue", "correct", "repair", "resolve"
@@ -143,7 +147,7 @@ def process_file(repo_path, file_path):
         return []  # In case file is missing or corrupted in Git history
 
     rows = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=32) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(process_hunk, repo, hunk, file_path) for hunk in blame]
         for future in concurrent.futures.as_completed(futures):
             try:
@@ -162,7 +166,7 @@ def main(repo_path):
 
     all_rows = []
 
-    with concurrent.futures.ProcessPoolExecutor(max_workers=min(os.cpu_count(), 8)) as executor:
+    with concurrent.futures.ProcessPoolExecutor(max_workers=min(os.cpu_count(), MAX_PROCESS)) as executor:
         futures = []
         for file_path in relative_file_list:
             futures.append(executor.submit(process_file, repo_path, file_path))
@@ -188,7 +192,12 @@ def main(repo_path):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--repo", required=True, help="Path to the Git repository")
+    parser.add_argument("--repo", dest="repo", required=True, help="Path to the Git repository")
+    parser.add_argument("--num-process", dest="num_process", default=8, help="Number of process")
+    parser.add_argument("--num-worker", dest="num_worker", default=8, help="Number of workers")
     args = parser.parse_args()
+
+    MAX_PROCESS = args.num_process
+    MAX_WORKERS = args.num_worker
 
     main(args.repo)

@@ -1,0 +1,262 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+scripts/tests/__init__.py,d86c263,Matheus Felipe,Create test structure,1,1,Matheus Felipe,f59cb82,0,2022-01-12 00:09:43,2022-01-11 05:38:26
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,7,7,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,20,20,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,14,14,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,15,19,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,1,6,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,8,13,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,21,33,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,34,34,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,48,49,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,35,47,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,54,55,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,57,57,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9bb225e,Matheus Felipe,Create new workflow to run test of push and pull,50,52,Roelof,4a31955,0,2022-01-17 21:18:39,2020-03-17 10:49:24
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,56,56,,,0,2022-01-17 21:23:39,
+scripts/github_pull_request.sh,9e790e5,Matheus Felipe,Remove old scripts,53,53,,,0,2022-01-17 21:23:39,
+scripts/tests/test_validate_links.py,ef8c4f0,Matheus Felipe,Create basic test to get host from link,8,8,Matheus Felipe,d06a371,0,2022-01-12 04:26:39,2022-01-12 01:32:43
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,5,5,Matheus Felipe,80ba726,0,2022-01-12 01:16:26,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,1866c0d,Matheus Felipe,Create basic test to fake_user_agent,7,7,Matheus Felipe,4edd0d5,0,2022-01-13 19:45:14,2022-01-12 23:00:56
+scripts/tests/test_validate_links.py,8d59069,Matheus Felipe,Create basic test to check_duplicate_links,22,33,Matheus Felipe,1866c0d,0,2022-01-13 20:14:13,2022-01-13 19:45:14
+scripts/tests/test_validate_links.py,4edd0d5,Matheus Felipe,Create basic tests to has_cloudflare_protection,9,16,Matheus Felipe,a707c4b,0,2022-01-12 23:00:56,2022-01-12 04:30:08
+scripts/tests/test_validate_links.py,80ba726,Matheus Felipe,Create TestValidateLinks class,18,18,,,0,2022-01-12 00:13:46,
+scripts/tests/test_validate_links.py,d86c263,Matheus Felipe,Create test structure,1,1,Matheus Felipe,f59cb82,0,2022-01-12 00:09:43,2022-01-11 05:38:26
+scripts/tests/test_validate_links.py,8d59069,Matheus Felipe,Create basic test to check_duplicate_links,6,6,Matheus Felipe,1866c0d,0,2022-01-13 20:14:13,2022-01-13 19:45:14
+scripts/tests/test_validate_links.py,d06a371,Matheus Felipe,Remove whitespace,19,19,Matheus Felipe,80ba726,0,2022-01-12 01:32:43,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,17,17,Matheus Felipe,80ba726,0,2022-01-12 01:16:26,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,4edd0d5,Matheus Felipe,Create basic tests to has_cloudflare_protection,21,21,Matheus Felipe,a707c4b,0,2022-01-12 23:00:56,2022-01-12 04:30:08
+scripts/tests/test_validate_links.py,80ba726,Matheus Felipe,Create TestValidateLinks class,2,4,Matheus Felipe,d86c263,0,2022-01-12 00:13:46,2022-01-12 00:09:43
+scripts/tests/test_validate_links.py,4edd0d5,Matheus Felipe,Create basic tests to has_cloudflare_protection,34,43,Matheus Felipe,bf4dfcd,0,2022-01-12 23:00:56,2022-01-12 01:16:26
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,20,20,Matheus Felipe,80ba726,0,2022-01-12 01:16:26,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,3cc0f49,Matheus Felipe,Remove setUp method,44,45,Matheus Felipe,80ba726,0,2022-01-12 01:19:54,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,3cc0f49,Matheus Felipe,Remove setUp method,65,65,,,0,2022-01-12 01:19:54,
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,64,64,,,0,2022-01-12 01:16:26,
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,46,63,Matheus Felipe,80ba726,0,2022-01-12 01:16:26,2022-01-12 00:13:46
+scripts/tests/test_validate_links.py,8d59069,Matheus Felipe,Create basic test to check_duplicate_links,79,98,Matheus Felipe,1866c0d,0,2022-01-13 20:14:13,2022-01-13 19:45:14
+scripts/tests/test_validate_links.py,ef8c4f0,Matheus Felipe,Create basic test to get host from link,103,123,,,0,2022-01-12 04:26:39,
+scripts/tests/test_validate_links.py,a707c4b,Matheus Felipe,Test get_host_from_link with invalid argument,124,126,,,0,2022-01-12 04:30:08,
+scripts/tests/test_validate_links.py,bf4dfcd,Matheus Felipe,Create basic test to find_link_in_text function,66,78,,,0,2022-01-12 01:16:26,
+scripts/tests/test_validate_links.py,1866c0d,Matheus Felipe,Create basic test to fake_user_agent,99,102,Matheus Felipe,a707c4b,0,2022-01-13 19:45:14,2022-01-12 04:30:08
+scripts/tests/test_validate_links.py,4edd0d5,Matheus Felipe,Create basic tests to has_cloudflare_protection,127,172,Matheus Felipe,a707c4b,0,2022-01-12 23:00:56,2022-01-12 04:30:08
+scripts/validate/__init__.py,f59cb82,Matheus Felipe,Create validate package,1,1,,,0,2022-01-11 05:38:26,
+scripts/validate/__init__.py,ff31b26,Matheus Felipe,Add format and links in validate scope,2,4,Matheus Felipe,f59cb82,0,2022-01-17 22:24:45,2022-01-11 05:38:26
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,27,27,,,0,2022-01-15 23:35:02,
+scripts/validate/format.py,f447f7c,Matheus Felipe,Implement main function,4,4,Matheus Felipe,1d421d8,0,2022-01-17 02:38:14,2022-01-17 02:29:55
+scripts/validate/format.py,6bfe284,Matheus Felipe,Get categories content and check alphabetical order,6,6,Matheus Felipe,2501df6,0,2022-01-16 05:53:25,2022-01-16 04:08:49
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,23,23,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,2,3,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,11,12,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,e2482af,Matheus Felipe,Add temporary replacement of punctuation,8,10,Matheus Felipe,71167b2,0,2022-01-17 02:49:22,2022-01-17 02:41:41
+scripts/validate/format.py,1360d61,Matheus Felipe,Create format.py file,1,1,Matheus Felipe,d86c263,0,2022-01-15 22:29:13,2022-01-12 00:09:43
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,7,7,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,71167b2,Matheus Felipe,Use punctuation constant built-in,5,5,Matheus Felipe,f447f7c,0,2022-01-17 02:41:41,2022-01-17 02:38:14
+scripts/validate/format.py,1d421d8,Matheus Felipe,Add max_description_length constant,25,25,Matheus Felipe,57e288b,0,2022-01-17 02:29:55,2022-01-17 02:11:34
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,29,29,,,0,2022-01-15 23:35:02,
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,13,13,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,6bfe284,Matheus Felipe,Get categories content and check alphabetical order,31,35,Matheus Felipe,2501df6,0,2022-01-16 05:53:25,2022-01-16 04:08:49
+scripts/validate/format.py,bff7f5e,Matheus Felipe,Reorganize constants,22,22,Matheus Felipe,f1cbf01,0,2022-01-17 02:20:43,2022-01-17 02:18:06
+scripts/validate/format.py,a935a05,Matheus Felipe,Change section -> category,28,28,Matheus Felipe,de1b6f5,0,2022-01-17 01:41:33,2022-01-16 22:59:59
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,26,26,,,0,2022-01-15 23:35:02,
+scripts/validate/format.py,2501df6,Matheus Felipe,Create a error message generator,36,39,,,1,2022-01-16 04:08:49,
+scripts/validate/format.py,d200415,Matheus Felipe,Change min_entries_per_section -> min_entries_per_category,24,24,Matheus Felipe,57e288b,0,2022-01-17 02:25:09,2022-01-17 02:11:34
+scripts/validate/format.py,2501df6,Matheus Felipe,Create a error message generator,30,30,Matheus Felipe,c659e65,1,2022-01-16 04:08:49,2022-01-15 23:35:02
+scripts/validate/format.py,6bfe284,Matheus Felipe,Get categories content and check alphabetical order,40,69,Matheus Felipe,2501df6,0,2022-01-16 05:53:25,2022-01-16 04:08:49
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,85,121,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,f1cbf01,Matheus Felipe,Change title_links global to category_title_in_index local,195,195,Matheus Felipe,d578ba7,0,2022-01-17 02:18:06,2022-01-17 01:47:17
+scripts/validate/format.py,c659e65,Matheus Felipe,Set constants,14,21,Matheus Felipe,1360d61,0,2022-01-15 23:35:02,2022-01-15 22:29:13
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,82,84,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,193,194,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,d200415,Matheus Felipe,Change min_entries_per_section -> min_entries_per_category,200,200,Matheus Felipe,6bab161,0,2022-01-17 02:25:09,2022-01-17 02:22:23
+scripts/validate/format.py,9f0174f,Matheus Felipe,Fix error message of max description length,123,123,Matheus Felipe,e2482af,1,2022-01-17 07:27:58,2022-01-17 02:49:22
+scripts/validate/format.py,6bfe284,Matheus Felipe,Get categories content and check alphabetical order,73,77,Matheus Felipe,2501df6,0,2022-01-16 05:53:25,2022-01-16 04:08:49
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,199,199,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,f447f7c,Matheus Felipe,Implement main function,192,192,Matheus Felipe,1d421d8,0,2022-01-17 02:38:14,2022-01-17 02:29:55
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,196,196,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,197,198,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,6bfe284,Matheus Felipe,Get categories content and check alphabetical order,79,81,,,0,2022-01-16 05:53:25,
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,124,191,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,205,205,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,211,212,Matheus Felipe,de1b6f5,0,2022-01-17 01:47:17,2022-01-16 22:59:59
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,70,72,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,1d421d8,Matheus Felipe,Add max_description_length constant,122,122,Matheus Felipe,6bfe284,0,2022-01-17 02:29:55,2022-01-16 05:53:25
+scripts/validate/format.py,a935a05,Matheus Felipe,Change section -> category,207,207,Matheus Felipe,de1b6f5,0,2022-01-17 01:41:33,2022-01-16 22:59:59
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,209,209,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,201,203,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,206,206,Matheus Felipe,a935a05,0,2022-01-17 01:47:17,2022-01-17 01:41:33
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,204,204,Matheus Felipe,a935a05,0,2022-01-17 01:47:17,2022-01-17 01:41:33
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,215,216,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,f1cbf01,Matheus Felipe,Change title_links global to category_title_in_index local,214,214,Matheus Felipe,57e288b,0,2022-01-17 02:18:06,2022-01-17 02:11:34
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,213,213,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,217,217,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,a935a05,Matheus Felipe,Change section -> category,210,210,Matheus Felipe,de1b6f5,0,2022-01-17 01:41:33,2022-01-16 22:59:59
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,218,219,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,78,78,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,f1cbf01,Matheus Felipe,Change title_links global to category_title_in_index local,208,208,Matheus Felipe,57e288b,0,2022-01-17 02:18:06,2022-01-17 02:11:34
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,225,225,Matheus Felipe,a935a05,0,2022-01-17 01:47:17,2022-01-17 01:41:33
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,232,234,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,220,220,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,226,230,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,7d9eac4,Matheus Felipe,Change sections -> columns in error message,237,237,Matheus Felipe,9f0174f,1,2022-01-17 19:07:21,2022-01-17 07:27:58
+scripts/validate/format.py,d200415,Matheus Felipe,Change min_entries_per_section -> min_entries_per_category,221,222,Matheus Felipe,6bab161,0,2022-01-17 02:25:09,2022-01-17 02:22:23
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,236,236,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,231,231,Matheus Felipe,6bfe284,0,2022-01-17 01:47:17,2022-01-16 05:53:25
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,223,223,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,244,245,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,246,248,,,0,2022-01-16 22:59:59,
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,249,251,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,57e288b,Matheus Felipe,Refactor check_alphabetical_order and check_file_format to exist return,238,238,Matheus Felipe,d578ba7,0,2022-01-17 02:11:34,2022-01-17 01:47:17
+scripts/validate/format.py,d578ba7,Matheus Felipe,Change line -> line_content,235,235,Matheus Felipe,6bfe284,0,2022-01-17 01:47:17,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,224,224,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,de1b6f5,Matheus Felipe,Check markdown file format,239,243,Matheus Felipe,6bfe284,0,2022-01-16 22:59:59,2022-01-16 05:53:25
+scripts/validate/format.py,f447f7c,Matheus Felipe,Implement main function,252,277,Matheus Felipe,1d421d8,0,2022-01-17 02:38:14,2022-01-17 02:29:55
+LICENSE,fb5d02b,Pawel Borkar,Create LICENSE,1,2,,,0,2021-03-30 06:38:48,
+LICENSE,fb5d02b,Pawel Borkar,Create LICENSE,4,21,,,0,2021-03-30 06:38:48,
+LICENSE,eb5f4dc,Pawel Borkar,Update year to 2022,3,3,Pawel Borkar,fb5d02b,0,2022-01-01 06:10:12,2021-03-30 06:38:48
+scripts/tests/test_validate_format.py,b42c305,Matheus Felipe,Create tests to check_alphabetical_order,7,7,Matheus Felipe,b68d653,0,2022-01-17 06:19:14,2022-01-17 05:53:35
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,8,8,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,9d1bd19,Matheus Felipe,Create test to get_categories_content,64,69,,,0,2022-01-17 05:53:02,
+scripts/tests/test_validate_format.py,40c5fa7,Matheus Felipe,Test error message return and return type,18,40,Matheus Felipe,d831102,1,2022-01-17 05:13:34,2022-01-17 04:40:49
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,9,9,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,9d1bd19,Matheus Felipe,Create test to get_categories_content,41,62,Matheus Felipe,40c5fa7,0,2022-01-17 05:53:02,2022-01-17 05:13:34
+scripts/tests/test_validate_format.py,9d1bd19,Matheus Felipe,Create test to get_categories_content,6,6,Matheus Felipe,40c5fa7,0,2022-01-17 05:53:02,2022-01-17 05:13:34
+scripts/tests/test_validate_format.py,d831102,Matheus Felipe,Create test case to validate format,1,4,,,0,2022-01-17 04:40:49,
+scripts/tests/test_validate_format.py,40c5fa7,Matheus Felipe,Test error message return and return type,5,5,Matheus Felipe,d831102,1,2022-01-17 05:13:34,2022-01-17 04:40:49
+scripts/tests/test_validate_format.py,d831102,Matheus Felipe,Create test case to validate format,16,17,,,0,2022-01-17 04:40:49,
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,11,11,Matheus Felipe,6ba6c4d,0,2022-01-17 08:55:01,2022-01-17 08:39:07
+scripts/tests/test_validate_format.py,b42c305,Matheus Felipe,Create tests to check_alphabetical_order,70,118,Matheus Felipe,b68d653,0,2022-01-17 06:19:14,2022-01-17 05:53:35
+scripts/tests/test_validate_format.py,eeaa7c0,Matheus Felipe,Create tests to check_entry,13,13,Matheus Felipe,5478755,0,2022-01-17 18:19:36,2022-01-17 17:57:21
+scripts/tests/test_validate_format.py,d04c02a,Matheus Felipe,Create tests to check_cors,12,12,Matheus Felipe,347cd46,0,2022-01-17 08:59:17,2022-01-17 08:55:01
+scripts/tests/test_validate_format.py,b68d653,Matheus Felipe,Remove whitespace,63,63,,,0,2022-01-17 05:53:35,
+scripts/tests/test_validate_format.py,bc02fa5,Matheus Felipe,Create tests to check_file_format,14,14,Matheus Felipe,e0468d1,0,2022-01-17 19:19:39,2022-01-17 18:21:48
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,10,10,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,229b77a,Matheus Felipe,Fix tests of check_title,125,125,Matheus Felipe,d04c02a,1,2022-01-17 09:05:15,2022-01-17 08:59:17
+scripts/tests/test_validate_format.py,40c5fa7,Matheus Felipe,Test error message return and return type,15,15,Matheus Felipe,d831102,1,2022-01-17 05:13:34,2022-01-17 04:40:49
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,126,126,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,229b77a,Matheus Felipe,Fix tests of check_title,134,134,Matheus Felipe,d04c02a,1,2022-01-17 09:05:15,2022-01-17 08:59:17
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,160,160,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,127,133,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,203,203,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,135,145,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,154,154,Matheus Felipe,b42c305,0,2022-01-17 07:35:52,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,229b77a,Matheus Felipe,Fix tests of check_title,146,147,Matheus Felipe,d04c02a,1,2022-01-17 09:05:15,2022-01-17 08:59:17
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,170,174,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,155,159,Matheus Felipe,b42c305,0,2022-01-17 07:35:52,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,148,153,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,22e22b3,Matheus Felipe,Create tests to check_title,119,124,Matheus Felipe,b42c305,0,2022-01-17 06:55:55,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,211,211,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,188,188,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,169,169,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,89e254c,Matheus Felipe,Fix test title of check_auth,212,212,Matheus Felipe,e3f51ae,1,2022-01-17 09:16:23,2022-01-17 09:13:58
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,161,161,Matheus Felipe,b42c305,0,2022-01-17 07:35:52,2022-01-17 06:19:14
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,209,209,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,189,193,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,175,175,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,232,234,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,720c2fd,Matheus Felipe,Fix tests of check_description,194,194,Matheus Felipe,229b77a,1,2022-01-17 09:10:16,2022-01-17 09:05:15
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,176,187,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,220,220,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,162,168,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,213,219,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,204,208,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,195,202,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,e3f51ae,Matheus Felipe,Fix tests of check_auth,235,235,Matheus Felipe,720c2fd,1,2022-01-17 09:13:58,2022-01-17 09:10:16
+scripts/tests/test_validate_format.py,0843afe,Matheus Felipe,Create tests to check_description,210,210,Matheus Felipe,22e22b3,0,2022-01-17 07:35:52,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,221,229,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,241,241,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,ad92d5c,Matheus Felipe,Remove whitespaces,231,231,Matheus Felipe,89e254c,0,2022-01-17 09:19:41,2022-01-17 09:16:23
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,246,246,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,ad92d5c,Matheus Felipe,Remove whitespaces,247,247,Matheus Felipe,89e254c,0,2022-01-17 09:19:41,2022-01-17 09:16:23
+scripts/tests/test_validate_format.py,5478755,Matheus Felipe,Test to check_auth with invalid auth with and without backtick,242,242,Matheus Felipe,ad92d5c,0,2022-01-17 17:57:21,2022-01-17 09:19:41
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,230,230,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,236,238,Matheus Felipe,22e22b3,0,2022-01-17 08:39:07,2022-01-17 06:55:55
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,243,245,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,d04c02a,Matheus Felipe,Create tests to check_cors,293,298,Matheus Felipe,0843afe,0,2022-01-17 08:59:17,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,271,275,Matheus Felipe,0843afe,0,2022-01-17 08:55:01,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,248,253,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,258,258,Matheus Felipe,0843afe,0,2022-01-17 08:55:01,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,6ba6c4d,Matheus Felipe,Create tests to check_auth,256,257,Matheus Felipe,0843afe,0,2022-01-17 08:39:07,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,e3f51ae,Matheus Felipe,Fix tests of check_auth,254,255,Matheus Felipe,720c2fd,1,2022-01-17 09:13:58,2022-01-17 09:10:16
+scripts/tests/test_validate_format.py,eeaa7c0,Matheus Felipe,Create tests to check_entry,316,345,Matheus Felipe,5478755,0,2022-01-17 18:19:36,2022-01-17 17:57:21
+scripts/tests/test_validate_format.py,5478755,Matheus Felipe,Test to check_auth with invalid auth with and without backtick,239,240,Matheus Felipe,ad92d5c,0,2022-01-17 17:57:21,2022-01-17 09:19:41
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,286,292,Matheus Felipe,0843afe,0,2022-01-17 08:55:01,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,5478755,Matheus Felipe,Test to check_auth with invalid auth with and without backtick,263,270,Matheus Felipe,ad92d5c,0,2022-01-17 17:57:21,2022-01-17 09:19:41
+scripts/tests/test_validate_format.py,d04c02a,Matheus Felipe,Create tests to check_cors,299,299,Matheus Felipe,0843afe,0,2022-01-17 08:59:17,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,d04c02a,Matheus Felipe,Create tests to check_cors,309,315,Matheus Felipe,6ba6c4d,0,2022-01-17 08:59:17,2022-01-17 08:39:07
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,276,276,Matheus Felipe,0843afe,0,2022-01-17 08:55:01,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,347cd46,Matheus Felipe,Create tests to check_https,277,285,Matheus Felipe,0843afe,0,2022-01-17 08:55:01,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,5478755,Matheus Felipe,Test to check_auth with invalid auth with and without backtick,259,262,Matheus Felipe,ad92d5c,0,2022-01-17 17:57:21,2022-01-17 09:19:41
+scripts/tests/test_validate_format.py,d04c02a,Matheus Felipe,Create tests to check_cors,300,308,Matheus Felipe,0843afe,0,2022-01-17 08:59:17,2022-01-17 07:35:52
+scripts/tests/test_validate_format.py,bc02fa5,Matheus Felipe,Create tests to check_file_format,346,466,Matheus Felipe,e0468d1,0,2022-01-17 19:19:39,2022-01-17 18:21:48
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,6,6,Matheus Felipe,2eb6d20,0,2022-01-11 23:58:05,2022-01-11 07:33:18
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,53,58,Matheus Felipe,4808d63,0,2022-01-11 07:33:18,2022-01-11 06:59:18
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,41,42,Matheus Felipe,2eb6d20,0,2022-01-11 23:58:05,2022-01-11 07:33:18
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,21,31,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,8ac60e3,Matheus Felipe,Remove whitespaces,104,104,Matheus Felipe,8136aa9,0,2022-01-12 22:25:08,2022-01-12 22:20:31
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,8,8,Matheus Felipe,d728eed,0,2022-01-12 03:55:23,2022-01-11 23:58:05
+scripts/validate/links.py,8650f7f,Matheus Felipe,Make sure the link contains ://,80,80,Matheus Felipe,d728eed,0,2022-01-12 04:23:59,2022-01-11 23:58:05
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,1,2,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,3,3,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,60,60,Matheus Felipe,4808d63,0,2022-01-11 07:33:18,2022-01-11 06:59:18
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,155,166,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,f3146c9,Matheus Felipe,Get content from index 0 if Index section does not exist,32,33,Matheus Felipe,ae7ac00,0,2022-01-15 22:24:35,2022-01-15 20:40:32
+scripts/validate/links.py,8136aa9,Matheus Felipe,Implementing the cloudflare protection check  Related: - #2409 - #2960,95,96,Matheus Felipe,978147c,0,2022-01-12 22:20:31,2022-01-12 05:15:39
+scripts/validate/links.py,c2bdd9e,Matheus Felipe,"Fix false negative http code 404 in verification  Some links when they were being checked returned the http code 404, but the links were working correctly.  This was happening because before the request the link was concatenated with the / character at the end, making it a different link from the original. If the original link didn't have a path that is accessed by / at the end, it would return a 404 error.  This behavior made it a false negative.",52,52,Matheus Felipe,4bc90a8,1,2022-02-07 10:09:01,2022-01-18 05:06:21
+scripts/validate/links.py,c2bdd9e,Matheus Felipe,"Fix false negative http code 404 in verification  Some links when they were being checked returned the http code 404, but the links were working correctly.  This was happening because before the request the link was concatenated with the / character at the end, making it a different link from the original. If the original link didn't have a path that is accessed by / at the end, it would return a 404 error.  This behavior made it a false negative.",20,20,Matheus Felipe,4bc90a8,1,2022-02-07 10:09:01,2022-01-18 05:06:21
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,59,59,Matheus Felipe,4808d63,0,2022-01-11 23:58:05,2022-01-11 06:59:18
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,43,43,Matheus Felipe,4808d63,0,2022-01-11 07:33:18,2022-01-11 06:59:18
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,7,7,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,10,10,Matheus Felipe,d728eed,0,2022-01-12 03:55:23,2022-01-11 23:58:05
+scripts/validate/links.py,8136aa9,Matheus Felipe,Implementing the cloudflare protection check  Related: - #2409 - #2960,9,9,Matheus Felipe,978147c,0,2022-01-12 22:20:31,2022-01-12 05:15:39
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,34,40,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,44,45,Matheus Felipe,4808d63,0,2022-01-11 23:58:05,2022-01-11 06:59:18
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,4,5,Matheus Felipe,d728eed,0,2022-01-12 03:55:23,2022-01-11 23:58:05
+scripts/validate/links.py,4808d63,Matheus Felipe,Implement functions to find links in a text/file,11,19,,,0,2022-01-11 06:59:18,
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,61,62,,,0,2022-01-11 23:58:05,
+scripts/validate/links.py,95ee798,Matheus Felipe,Remove whitespaces,154,154,,,0,2022-01-12 03:58:54,
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,63,64,,,0,2022-01-11 07:33:18,
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,81,94,Matheus Felipe,d728eed,0,2022-01-12 03:55:23,2022-01-11 23:58:05
+scripts/validate/links.py,8ac60e3,Matheus Felipe,Remove whitespaces,97,97,Matheus Felipe,8136aa9,0,2022-01-12 22:25:08,2022-01-12 22:20:31
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,65,79,Matheus Felipe,d728eed,0,2022-01-12 03:55:23,2022-01-11 23:58:05
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,46,51,Matheus Felipe,4808d63,0,2022-01-11 07:33:18,2022-01-11 06:59:18
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,175,177,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,8136aa9,Matheus Felipe,Implementing the cloudflare protection check  Related: - #2409 - #2960,98,103,Matheus Felipe,978147c,0,2022-01-12 22:20:31,2022-01-12 05:15:39
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,168,172,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,8136aa9,Matheus Felipe,Implementing the cloudflare protection check  Related: - #2409 - #2960,173,174,Matheus Felipe,978147c,0,2022-01-12 22:20:31,2022-01-12 05:15:39
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,152,153,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,8136aa9,Matheus Felipe,Implementing the cloudflare protection check  Related: - #2409 - #2960,105,151,Matheus Felipe,978147c,0,2022-01-12 22:20:31,2022-01-12 05:15:39
+scripts/validate/links.py,c2bdd9e,Matheus Felipe,"Fix false negative http code 404 in verification  Some links when they were being checked returned the http code 404, but the links were working correctly.  This was happening because before the request the link was concatenated with the / character at the end, making it a different link from the original. If the original link didn't have a path that is accessed by / at the end, it would return a 404 error.  This behavior made it a false negative.",167,167,Matheus Felipe,4bc90a8,1,2022-02-07 10:09:01,2022-01-18 05:06:21
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,178,180,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,190,193,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,ae7ac00,Matheus Felipe,"Mapped network problem (DNS failure, connection refused, etc)",182,189,Matheus Felipe,a553dd5,1,2022-01-15 20:40:32,2022-01-15 20:12:44
+scripts/validate/links.py,a553dd5,Matheus Felipe,Mapped RequestException Exceptions,194,194,Matheus Felipe,8650f7f,0,2022-01-15 20:12:44,2022-01-12 04:23:59
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,212,212,Matheus Felipe,b62683f,0,2022-01-13 20:49:11,2022-01-13 19:33:03
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,195,196,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,7be0512,Matheus Felipe,Check if a link is working,198,200,,,0,2022-01-12 03:55:23,
+scripts/validate/links.py,2eb6d20,Matheus Felipe,Implement functions to check duplicate links,213,213,,,0,2022-01-11 07:33:18,
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,224,224,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,b62683f,Matheus Felipe,Show one duplicate link per line,221,223,Matheus Felipe,50ad807,0,2022-01-13 19:33:03,2022-01-13 19:23:01
+scripts/validate/links.py,95ee798,Matheus Felipe,Remove whitespaces,181,181,,,0,2022-01-12 03:58:54,
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,214,218,,,0,2022-01-11 23:58:05,
+scripts/validate/links.py,d728eed,Matheus Felipe,Refactor duplicate link checker,225,226,,,0,2022-01-11 23:58:05,
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,246,249,Matheus Felipe,b62683f,0,2022-01-13 20:49:11,2022-01-13 19:33:03
+scripts/validate/links.py,4bc90a8,Matheus Felipe,Add possibility to run duplicate link check only  Changes:  - It is now possible to only check for duplicate   links (without checking if the links are working)  - Check for duplicate links when a push occurs  - Update the scripts documentation accordingly,245,245,Matheus Felipe,f3146c9,0,2022-01-18 05:06:21,2022-01-15 22:24:35
+scripts/validate/links.py,95ee798,Matheus Felipe,Remove whitespaces,197,197,,,0,2022-01-12 03:58:54,
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,242,242,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,4bc90a8,Matheus Felipe,Add possibility to run duplicate link check only  Changes:  - It is now possible to only check for duplicate   links (without checking if the links are working)  - Check for duplicate links when a push occurs  - Update the scripts documentation accordingly,262,269,Matheus Felipe,f3146c9,0,2022-01-18 05:06:21,2022-01-15 22:24:35
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,201,211,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,239,240,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,231,234,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,243,244,Matheus Felipe,b62683f,0,2022-01-13 20:49:11,2022-01-13 19:33:03
+scripts/validate/links.py,50ad807,Matheus Felipe,Show number of links with a possible error,235,238,Matheus Felipe,8ac60e3,1,2022-01-13 19:23:01,2022-01-12 22:25:08
+scripts/validate/links.py,b62683f,Matheus Felipe,Show one duplicate link per line,219,219,Matheus Felipe,50ad807,0,2022-01-13 19:33:03,2022-01-13 19:23:01
+scripts/validate/links.py,978147c,Matheus Felipe,Check if a list of links are working,227,227,,,0,2022-01-12 05:15:39,
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,220,220,Matheus Felipe,b62683f,0,2022-01-13 20:49:11,2022-01-13 19:33:03
+scripts/validate/links.py,4bc90a8,Matheus Felipe,Add possibility to run duplicate link check only  Changes:  - It is now possible to only check for duplicate   links (without checking if the links are working)  - Check for duplicate links when a push occurs  - Update the scripts documentation accordingly,250,252,Matheus Felipe,f3146c9,0,2022-01-18 05:06:21,2022-01-15 22:24:35
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,228,230,Matheus Felipe,8ac60e3,0,2022-01-13 20:49:11,2022-01-12 22:25:08
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,258,261,,,0,2022-01-13 20:49:11,
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,270,272,,,0,2022-01-13 20:49:11,
+scripts/validate/links.py,50ad807,Matheus Felipe,Show number of links with a possible error,241,241,,,1,2022-01-13 19:23:01,
+scripts/validate/links.py,4bc90a8,Matheus Felipe,Add possibility to run duplicate link check only  Changes:  - It is now possible to only check for duplicate   links (without checking if the links are working)  - Check for duplicate links when a push occurs  - Update the scripts documentation accordingly,257,257,Matheus Felipe,f3146c9,0,2022-01-18 05:06:21,2022-01-15 22:24:35
+scripts/validate/links.py,8c28be1,Matheus Felipe,Create start_* functions to start checkers,253,256,Matheus Felipe,b62683f,0,2022-01-13 20:49:11,2022-01-13 19:33:03
+scripts/validate/links.py,4bc90a8,Matheus Felipe,Add possibility to run duplicate link check only  Changes:  - It is now possible to only check for duplicate   links (without checking if the links are working)  - Check for duplicate links when a push occurs  - Update the scripts documentation accordingly,273,273,,,0,2022-01-18 05:06:21,
