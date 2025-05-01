@@ -7,6 +7,8 @@ import re
 import concurrent.futures
 from tqdm import tqdm
 from datetime import datetime, timezone
+import sys
+import traceback
 
 
 MAX_PROCESS = 8
@@ -77,7 +79,7 @@ def get_previous_comparison(repo, commit, file_path, start_line, end_line):
     repo_root = repo.path.rstrip('/.git')
     try:
         result = subprocess.run(
-            ['git', 'log', '-n', '100', '--follow', '--format=%H', '--', file_path],    # Limiting by 100, as a design choice
+            ['git', 'log', '-n', '50', '--follow', '--format=%H', '--', file_path],    # Limiting by 50, as a design choice
             cwd=repo_root,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
@@ -106,8 +108,10 @@ def get_previous_comparison(repo, commit, file_path, start_line, end_line):
                                 prev_commit_date = datetime.fromtimestamp(prev_commit.commit_time, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
                                 return str(prev_commit.id)[:7], prev_author, prev_commit_date
             except Exception:
+                print(f"EXCEPTION:{get_previous_comparison.__name__}:Error doing repo diff", file=sys.stderr)
                 continue
     except subprocess.CalledProcessError:
+        print(f"EXCEPTION:{get_previous_comparison.__name__}:Error in running git log")
         pass
 
     return None, None, None
@@ -144,6 +148,7 @@ def process_file(repo_path, file_path):
         repo = pygit2.Repository(repo_path)
         blame = repo.blame(file_path)
     except Exception:
+        print(f"EXCEPTION:{process_file.__name__}:Error fetching repo blame", file=sys.stderr)
         return []  # In case file is missing or corrupted in Git history
 
     rows = []
@@ -154,6 +159,8 @@ def process_file(repo_path, file_path):
                 row = future.result()
                 rows.append(row)
             except Exception:
+                print(f"EXCEPTION:{process_file.__name__}:Error executing process_hunk", file=sys.stderr)
+                traceback.print_exc()
                 continue
     return rows
 

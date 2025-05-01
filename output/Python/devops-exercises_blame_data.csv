@@ -1,0 +1,331 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+coding/python/merge_sort.py,692a680,Adam Djellouli,Implemented recursive merge sort algorithm with O(n log n) time complexity. (#10553),1,47,,,0,2025-03-26 22:20:09,
+scripts/aws s3 event triggering/aws_s3_event_trigger.sh,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),1,122,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),12,12,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",5,7,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),8,8,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),1,3,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),4,4,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",13,14,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),15,15,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",9,11,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",16,23,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),34,34,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,e58a9cc,Adarsh,chore: added aws s3 event triggering script (#10255),24,24,,,0,2024-06-12 09:17:49,
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",25,33,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+scripts/aws s3 event triggering/s3-lambda/s3-lambda.py,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",35,38,Adarsh,e58a9cc,1,2025-03-26 22:19:33,2024-06-12 09:17:49
+LICENSE,4b67189,Kian-Meng Ang,"Fix typos (#411)  Found via `codespell -L caf,etcp,alle,aks`",40,40,abregman,9ff9236,1,2023-08-24 20:02:53,2019-11-07 16:42:52
+LICENSE,9ff9236,abregman,Add new questions  And change license due to content being copied without providing credit.,1,5,Arie Bregman,1988b68,0,2019-11-07 16:42:52,2019-10-03 17:31:22
+LICENSE,9ff9236,abregman,Add new questions  And change license due to content being copied without providing credit.,7,39,Arie Bregman,1988b68,0,2019-11-07 16:42:52,2019-10-03 17:31:22
+LICENSE,4b67189,Kian-Meng Ang,"Fix typos (#411)  Found via `codespell -L caf,etcp,alle,aks`",6,6,abregman,9ff9236,1,2023-08-24 20:02:53,2019-11-07 16:42:52
+LICENSE,9ff9236,abregman,Add new questions  And change license due to content being copied without providing credit.,41,54,Arie Bregman,1988b68,0,2019-11-07 16:42:52,2019-10-03 17:31:22
+images/linux_master.jpeg,f3f8de0,abregman,"Add a link to linux master application  Also, added a couple of answers.",1,262,,,0,2021-03-30 07:45:52,
+scripts/update_question_number.py,1e535c1,surister,Add update question number script,27,34,,,0,2020-01-09 11:12:42,
+scripts/update_question_number.py,1e535c1,surister,Add update question number script,1,23,,,0,2020-01-09 11:12:42,
+scripts/update_question_number.py,cc848b1,surister,Change 'challenge' into 'exercises' so questions are correctly counted,24,26,surister,1e535c1,0,2020-09-18 08:20:12,2020-01-09 11:12:42
+scripts/count_questions.sh,08cbeb2,abregman,change page format  I got the feedback that people don't want to see the answer right below the question in visible state.,2,2,,,0,2019-10-10 22:02:19,
+scripts/count_questions.sh,e6a8030,abregman,Add Terraform and Linux questions and exercises  Also updated the script that counts questions to actually update the number in README.md,3,9,abregman,99c4e02,0,2022-10-30 20:08:05,2022-08-01 22:53:56
+scripts/count_questions.sh,cf69197,abregman,The end of one long README  Apparently we've reached the limit of GitHub rendering (512K). Time to change the structure accordingly - exercises and questions will move to sub-directories in the exercises directory.  This is the first patch in performing this transition.,1,1,abregman,e54648d,1,2021-11-09 22:55:03,2021-07-11 23:02:57
+tests/scripts_question_utils_unittest.py,b65dc7c,surister,Add unittests,1,3,,,0,2019-12-24 18:34:31,
+tests/scripts_question_utils_unittest.py,b65dc7c,surister,Add unittests,24,30,,,0,2019-12-24 18:34:31,
+tests/scripts_question_utils_unittest.py,a64dece,surister,Fix unittest,23,23,surister,abbb951,1,2020-09-18 08:25:38,2020-01-09 11:13:31
+tests/scripts_question_utils_unittest.py,b65dc7c,surister,Add unittests,5,22,,,0,2019-12-24 18:34:31,
+tests/scripts_question_utils_unittest.py,4cb19b0,surister,Rename files,4,4,,,0,2020-01-09 11:12:06,
+tests/scripts_question_utils_unittest.py,a64dece,surister,Fix unittest,31,31,surister,abbb951,1,2020-09-18 08:25:38,2020-01-09 11:13:31
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",10,24,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",9,9,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",1,7,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",44,52,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",30,37,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,5fde9ba,Adam Djellouli,question_utils.py each long line has been split to ensure that no line exceeds 100 characters (#10568),25,29,Adam Djellouli,70f382d,0,2025-04-24 19:35:49,2025-03-26 22:21:53
+scripts/question_utils.py,299a1fa,Melany Estevez Camata,"changing the function a bit (#314)  * changing the function a bit  using regex  * fixing path  fixing path to get README.md  * os module  removing os module  * Update question_utils.py  running flake8",8,8,surister,cc848b1,0,2023-02-05 18:51:34,2020-09-18 08:20:12
+scripts/question_utils.py,5fde9ba,Adam Djellouli,question_utils.py each long line has been split to ensure that no line exceeds 100 characters (#10568),38,43,Adam Djellouli,70f382d,0,2025-04-24 19:35:49,2025-03-26 22:21:53
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",53,55,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",56,56,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",57,58,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",59,59,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",60,60,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,d4cd1e2,surister,fix trailing space,65,65,,,1,2020-01-09 11:18:19,
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",63,64,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,70f382d,Adam Djellouli,"Refactor question utils for enhanced performance, readability, and extended functionality while preserving backward compatibility (#10551)",61,62,Melany Estevez Camata,299a1fa,0,2025-03-26 22:21:53,2023-02-05 18:51:34
+scripts/question_utils.py,5fde9ba,Adam Djellouli,question_utils.py each long line has been split to ensure that no line exceeds 100 characters (#10568),68,68,Adam Djellouli,70f382d,0,2025-04-24 19:35:49,2025-03-26 22:21:53
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",66,66,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,d4cd1e2,surister,fix trailing space,67,67,,,1,2020-01-09 11:18:19,
+scripts/question_utils.py,5fde9ba,Adam Djellouli,question_utils.py each long line has been split to ensure that no line exceeds 100 characters (#10568),70,77,Adam Djellouli,70f382d,0,2025-04-24 19:35:49,2025-03-26 22:21:53
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",79,80,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",69,69,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,ade931c,surister,"Rename file, add utilities",78,78,,,0,2020-01-09 11:11:34,
+scripts/question_utils.py,299a1fa,Melany Estevez Camata,"changing the function a bit (#314)  * changing the function a bit  using regex  * fixing path  fixing path to get README.md  * os module  removing os module  * Update question_utils.py  running flake8",81,84,surister,cc848b1,0,2023-02-05 18:51:34,2020-09-18 08:20:12
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",4,4,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,e54648d,abregman,"Modify the structure of README.md  Instead of having exercises in their own separate section, they are now part of the main topics sections.  This should make the learning process easier to follow where users have both exercises and questions in the same place.  In addition, added a couple of new questions & exercises and modified existing scripts accordingly.",9,9,Tanuj Dhiman,44a036a,0,2021-07-11 23:02:57,2021-06-27 17:31:11
+coding/python/binary_search.py,deece00,abregman,Add binary search solution,5,5,,,0,2019-12-02 18:54:31,
+coding/python/binary_search.py,44a036a,Tanuj Dhiman,Update binary_search.py (#129),10,10,aman2611,5b6ea4a,0,2021-06-27 17:31:11,2020-01-17 12:45:07
+coding/python/binary_search.py,deece00,abregman,Add binary search solution,1,3,,,0,2019-12-02 18:54:31,
+coding/python/binary_search.py,e54648d,abregman,"Modify the structure of README.md  Instead of having exercises in their own separate section, they are now part of the main topics sections.  This should make the learning process easier to follow where users have both exercises and questions in the same place.  In addition, added a couple of new questions & exercises and modified existing scripts accordingly.",6,6,Tanuj Dhiman,44a036a,0,2021-07-11 23:02:57,2021-06-27 17:31:11
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",7,7,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,44a036a,Tanuj Dhiman,Update binary_search.py (#129),8,8,aman2611,5b6ea4a,0,2021-06-27 17:31:11,2020-01-17 12:45:07
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",11,12,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,5b6ea4a,aman2611,better name for variables,13,13,surister,051fea2,0,2020-01-17 12:45:07,2019-12-20 17:11:43
+coding/python/binary_search.py,5b6ea4a,aman2611,better name for variables,15,15,surister,051fea2,0,2020-01-17 12:45:07,2019-12-20 17:11:43
+coding/python/binary_search.py,deece00,abregman,Add binary search solution,39,39,,,0,2019-12-02 18:54:31,
+coding/python/binary_search.py,deece00,abregman,Add binary search solution,14,14,,,0,2019-12-02 18:54:31,
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",16,16,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,deece00,abregman,Add binary search solution,17,17,,,0,2019-12-02 18:54:31,
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",42,42,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,689a09a,Adam Djellouli,"Convert binary search to iterative, add helper functions and main with complexity docstring while preserving functionality (#10552)  Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",18,38,dwicahyamaulani,9775849,0,2025-03-26 22:22:05,2025-03-26 22:18:33
+coding/python/binary_search.py,e54648d,abregman,"Modify the structure of README.md  Instead of having exercises in their own separate section, they are now part of the main topics sections.  This should make the learning process easier to follow where users have both exercises and questions in the same place.  In addition, added a couple of new questions & exercises and modified existing scripts accordingly.",40,40,,,0,2021-07-11 23:02:57,
+coding/python/binary_search.py,44a036a,Tanuj Dhiman,Update binary_search.py (#129),41,41,,,0,2021-06-27 17:31:11,
+scripts/random_question.py,3d161ad,Hephzi,"python compress and decompress string solution (#309)  * compress string solution  * decompress string solution  * style fix",5,5,MengDanzz,ad20875,1,2022-11-07 06:58:06,2022-11-06 07:58:03
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),1,2,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),10,11,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),4,4,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,ad20875,MengDanzz,Smoother practice experience (#306)  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn>,3,3,abregman,51ecb4f,0,2022-11-06 07:58:03,2021-10-24 19:00:44
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),15,15,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),6,6,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",7,8,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",12,14,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,4b67189,Kian-Meng Ang,"Fix typos (#411)  Found via `codespell -L caf,etcp,alle,aks`",9,9,Hephzi,3d161ad,1,2023-08-24 20:02:53,2022-11-07 06:58:06
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),22,25,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),27,28,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),17,18,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",21,21,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",19,19,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",16,16,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),20,20,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",26,26,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",29,29,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",34,34,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",36,36,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),37,39,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),30,33,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),35,35,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",40,40,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),41,42,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),54,54,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),51,52,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",53,53,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,ad20875,MengDanzz,Smoother practice experience (#306)  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn>,43,49,abregman,51ecb4f,0,2022-11-06 07:58:03,2021-10-24 19:00:44
+scripts/random_question.py,c4e7308,sha016,Added random_question.py with basic usage (#164),56,58,,,0,2021-10-20 07:10:44,
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",50,50,sha016,c4e7308,1,2021-10-24 19:00:44,2021-10-20 07:10:44
+scripts/random_question.py,51ecb4f,abregman,"Add a couple of questions on containers  Also, fixed some minor styling issues in random_question.py script.",55,55,,,1,2021-10-24 19:00:44,
+topics/aws/exercises/new_vpc/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",1,9,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/new_vpc/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,10,10,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+topics/aws/exercises/new_vpc/terraform/main.tf,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",1,11,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/new_vpc/main.tf,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",1,0,,,0,2022-08-24 18:13:39,
+tests/syntax_checker_unittest.py,178930a,surister,add witty line,3,4,surister,cc98987,0,2019-12-21 18:25:47,2019-12-21 18:24:54
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,5,5,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,1,2,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,4cb19b0,surister,Rename files,9,9,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,6,8,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,11,11,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,10,10,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,12,13,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,18,18,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,14,14,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,15,17,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,20,22,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,23,23,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,19,19,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,24,24,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,26,26,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,4cb19b0,surister,Rename files,28,28,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,27,27,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,30,30,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,25,25,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,29,29,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,4cb19b0,surister,Rename files,31,31,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,33,33,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,cc98987,surister,Add syntax checker suite unit test,32,32,,,0,2019-12-21 18:24:54,
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,36,37,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,4cb19b0,surister,Rename files,38,39,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_checker_unittest.py,b65dc7c,surister,Add unittests,40,44,abregman,73665e6,0,2019-12-24 18:34:31,2019-12-21 20:22:32
+tests/syntax_checker_unittest.py,4cb19b0,surister,Rename files,34,35,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+topics/aws/exercises/s3/new_bucket/terraform/main.tf,48db2d4,Arie Bregman,Update,1,40,,,0,2022-08-25 06:17:29,
+topics/aws/exercises/subnets/terraform/main.tf,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",1,49,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,48db2d4,Arie Bregman,Update,11,12,,,0,2022-08-25 06:17:29,
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,14,16,Arie Bregman,48db2d4,1,2022-10-15 19:34:50,2022-08-25 06:17:29
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,48db2d4,Arie Bregman,Update,13,13,,,0,2022-08-25 06:17:29,
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,48db2d4,Arie Bregman,Update,17,19,,,0,2022-08-25 06:17:29,
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,5,10,Arie Bregman,48db2d4,1,2022-10-15 19:34:50,2022-08-25 06:17:29
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,48db2d4,Arie Bregman,Update,1,4,,,0,2022-08-25 06:17:29,
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,7c00bca,An Qiuyu,"Update ACL for public bucket (#322)  Update ACL as ""public-read"" for the public bucket",20,20,abregman,9d01834,0,2022-11-23 20:24:52,2022-10-15 19:34:50
+topics/aws/exercises/s3/new_bucket/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,21,25,Arie Bregman,48db2d4,1,2022-10-15 19:34:50,2022-08-25 06:17:29
+topics/aws/exercises/web_app_lambda_dynamodb/terraform/main.tf,8db5e50,abregman,Fix Kubernetes questions format  Was using 4 backticks instead of 3.,1,20,,,1,2022-09-07 19:09:11,
+topics/aws/exercises/web_app_lambda_dynamodb/terraform/main.tf,8db5e50,abregman,Fix Kubernetes questions format  Was using 4 backticks instead of 3.,23,24,,,1,2022-09-07 19:09:11,
+topics/aws/exercises/web_app_lambda_dynamodb/terraform/main.tf,4425b6a,Chris O,added name and projection_type attribute in global_secondary_index (#10279)  Co-authored-by: root <root@LAPTOP-6B2DCPF6>,21,22,abregman,8db5e50,0,2024-06-11 11:09:30,2022-09-07 19:09:11
+topics/aws/exercises/subnets/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",1,2,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/subnets/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",4,5,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/subnets/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,3,3,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+topics/aws/exercises/subnets/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,6,10,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+topics/aws/exercises/subnets/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",11,12,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/subnets/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",25,25,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/subnets/pulumi/__main__.py,03a92d5,abregman,"Add different solutions to AWS exercises  Not only console solutions, but also Terraform and Pulumi.  In addition, this change fixes issues #279 and #280",18,19,,,0,2022-08-24 18:13:39,
+topics/aws/exercises/subnets/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,13,17,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+topics/aws/exercises/subnets/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,20,24,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+topics/aws/exercises/subnets/pulumi/__main__.py,9d01834,abregman,Update CKA  Added additional questions to CKA and fixed some styling issues with pulumi Python code.,26,26,abregman,03a92d5,1,2022-10-15 19:34:50,2022-08-24 18:13:39
+scripts/run_ci.sh,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",7,14,Kian-Meng Ang,4b67189,1,2025-03-26 22:19:33,2023-08-24 20:02:53
+scripts/run_ci.sh,9e9a6a3,Adrian,"Update/run ci script (#352)  * New questions and spell check (#181)  Added new questions related with KVM, Libvirt and DNF  * Improve run_ci script readability  * Change shell in workflow",1,4,MengDanzz,01e1ddd,0,2023-03-25 11:05:56,2023-02-05 18:50:51
+scripts/run_ci.sh,9e9a6a3,Adrian,"Update/run ci script (#352)  * New questions and spell check (#181)  Added new questions related with KVM, Libvirt and DNF  * Improve run_ci script readability  * Change shell in workflow",15,16,MengDanzz,01e1ddd,0,2023-03-25 11:05:56,2023-02-05 18:50:51
+scripts/run_ci.sh,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",5,5,Kian-Meng Ang,4b67189,1,2025-03-26 22:19:33,2023-08-24 20:02:53
+scripts/run_ci.sh,9e9a6a3,Adrian,"Update/run ci script (#352)  * New questions and spell check (#181)  Added new questions related with KVM, Libvirt and DNF  * Improve run_ci script readability  * Change shell in workflow",6,6,MengDanzz,01e1ddd,0,2023-03-25 11:05:56,2023-02-05 18:50:51
+scripts/run_ci.sh,51f7b89,Adam Djellouli,"Broken PR build fix (#10556)  * Update run_ci.sh  * fix flake8 warning s3-lambda.py  1. Two blank lines before the function definition (E302).   2. Four-space indentation (E111, E114).   3. Spaces around operators (E225).   4. Correct alignment for comments.",19,19,Kian-Meng Ang,4b67189,1,2025-03-26 22:19:33,2023-08-24 20:02:53
+scripts/run_ci.sh,9e9a6a3,Adrian,"Update/run ci script (#352)  * New questions and spell check (#181)  Added new questions related with KVM, Libvirt and DNF  * Improve run_ci script readability  * Change shell in workflow",18,18,,,0,2023-03-25 11:05:56,
+scripts/run_ci.sh,4b67189,Kian-Meng Ang,"Fix typos (#411)  Found via `codespell -L caf,etcp,alle,aks`",17,17,,,1,2023-08-24 20:02:53,
+topics/cicd/solutions/deploy_to_kubernetes/helloworld.yml,3b05d95,abregman,Add 57 new questions and exercises,1,65,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/deploy.yml,3b05d95,abregman,Add 57 new questions and exercises,18,42,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/deploy.yml,4b67189,Kian-Meng Ang,"Fix typos (#411)  Found via `codespell -L caf,etcp,alle,aks`",17,17,abregman,99c4e02,1,2023-08-24 20:02:53,2022-08-01 22:53:56
+topics/cicd/solutions/deploy_to_kubernetes/deploy.yml,3b05d95,abregman,Add 57 new questions and exercises,1,16,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/html/css/skeleton.css,3b05d95,abregman,Add 57 new questions and exercises,1,418,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/html/css/normalize.css,3b05d95,abregman,Add 57 new questions and exercises,1,427,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/html/index.html,3b05d95,abregman,Add 57 new questions and exercises,1,45,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/inventory,3b05d95,abregman,Add 57 new questions and exercises,1,2,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/deploy_to_kubernetes/Jenkinsfile,3b05d95,abregman,Add 57 new questions and exercises,1,45,,,0,2021-08-13 06:23:50,
+topics/cicd/solutions/remove_builds_solution.groovy,cf03070,abregman,Add a couple of new questions,1,16,,,0,2019-10-19 20:49:53,
+topics/flask_container_ci/app/config.py,979d11d,abregman,Add new challenge,1,11,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci/app/__init__.py,bec1714,abregman,Update flask_container_ci challenge,1,2,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/app/tests.py,979d11d,abregman,Add new challenge,1,7,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci/app/tests.py,73665e6,abregman,PEP8 fixes,8,8,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/app/tests.py,979d11d,abregman,Add new challenge,9,10,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci/app/tests.py,73665e6,abregman,PEP8 fixes,11,11,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/app/tests.py,979d11d,abregman,Add new challenge,19,25,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci/app/tests.py,73665e6,abregman,PEP8 fixes,17,18,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/app/tests.py,73665e6,abregman,PEP8 fixes,26,26,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/app/tests.py,979d11d,abregman,Add new challenge,12,16,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci/app/tests.py,979d11d,abregman,Add new challenge,27,28,,,0,2019-12-21 11:26:41,
+topics/cicd/solutions/remove_jobs_solution.groovy,cf03070,abregman,Add a couple of new questions,2,6,,,0,2019-10-19 20:49:53,
+topics/cicd/solutions/remove_jobs_solution.groovy,e54648d,abregman,"Modify the structure of README.md  Instead of having exercises in their own separate section, they are now part of the main topics sections.  This should make the learning process easier to follow where users have both exercises and questions in the same place.  In addition, added a couple of new questions & exercises and modified existing scripts accordingly.",1,1,,,0,2021-07-11 23:02:57,
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,13,13,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,1,7,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",56,57,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",11,12,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",8,8,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,15,55,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",14,14,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,9,10,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,60,64,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",59,59,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci/app/main.py,e08c1cb,abregman,Update flask_container_ci challenge,58,58,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci2/app/config.py,85d8a56,abregman,Add another flask exercise,1,11,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,9,11,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,73665e6,abregman,PEP8 fixes,8,8,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,21,21,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,7,7,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,4,5,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,e08c1cb,abregman,Update flask_container_ci challenge,12,20,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,1,3,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,e08c1cb,abregman,Update flask_container_ci challenge,6,6,,,0,2019-12-23 11:08:32,
+topics/flask_container_ci/tests.py,bec1714,abregman,Update flask_container_ci challenge,23,24,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/tests.py,73665e6,abregman,PEP8 fixes,22,22,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci/users.json,6341431,abregman,Update flask_container_ci challenge,14,15,,,0,2019-12-22 09:30:09,
+topics/flask_container_ci/users.json,bec1714,abregman,Update flask_container_ci challenge,11,13,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/users.json,bec1714,abregman,Update flask_container_ci challenge,6,8,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/users.json,bec1714,abregman,Update flask_container_ci challenge,1,3,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/users.json,6341431,abregman,Update flask_container_ci challenge,9,10,,,0,2019-12-22 09:30:09,
+topics/flask_container_ci/users.json,6341431,abregman,Update flask_container_ci challenge,4,5,,,0,2019-12-22 09:30:09,
+topics/flask_container_ci/users.json,bec1714,abregman,Update flask_container_ci challenge,16,18,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci/users.json,6341431,abregman,Update flask_container_ci challenge,19,20,,,0,2019-12-22 09:30:09,
+topics/flask_container_ci/users.json,bec1714,abregman,Update flask_container_ci challenge,21,22,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/tests.py,85d8a56,abregman,Add another flask exercise,1,28,,,0,2020-01-16 22:00:24,
+topics/gcp/exercises/assign_roles/main.tf,7cceb86,Arie Bregman,Update,1,19,,,0,2022-10-23 10:02:53,
+topics/gcp/exercises/assign_roles/vars.tf,7cceb86,Arie Bregman,Update,1,7,,,0,2022-10-23 10:02:53,
+topics/gcp/exercises/create_project/main.tf,7cceb86,Arie Bregman,Update,1,10,,,0,2022-10-23 10:02:53,
+topics/gcp/exercises/assign_roles/versions.tf,7cceb86,Arie Bregman,Update,1,10,,,0,2022-10-23 10:02:53,
+topics/flask_container_ci2/app/__init__.py,85d8a56,abregman,Add another flask exercise,1,2,,,0,2020-01-16 22:00:24,
+topics/gcp/exercises/create_project/versions.tf,7cceb86,Arie Bregman,Update,1,10,,,0,2022-10-23 10:02:53,
+topics/gcp/exercises/instance_101/main.tf,7cceb86,Arie Bregman,Update,1,21,,,0,2022-10-23 10:02:53,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,1,1,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,8,9,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,73665e6,abregman,PEP8 fixes,5,7,,,0,2019-12-21 20:22:32,
+tests/syntax_lint.py,73665e6,abregman,PEP8 fixes,2,3,,,0,2019-12-21 20:22:32,
+tests/syntax_lint.py,4cb19b0,surister,Rename files,10,10,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,4,4,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,11,13,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,15,15,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,17,17,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",16,16,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",14,14,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,33,33,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",32,32,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,38,39,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,18,31,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,4cb19b0,surister,Rename files,40,49,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,35,36,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",34,34,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,b65dc7c,surister,Add unittests,37,37,,,0,2019-12-24 18:34:31,
+tests/syntax_lint.py,4cb19b0,surister,Rename files,53,57,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,58,70,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,4cb19b0,surister,Rename files,51,51,surister,b65dc7c,0,2020-01-09 11:12:06,2019-12-24 18:34:31
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",52,52,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",50,50,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,72,72,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",71,71,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",73,73,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,78,78,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,74,75,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,81,82,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",76,77,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,84,85,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",83,83,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",79,80,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,93,105,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,691c644,surister,Error bulk rather than single error exit,90,92,,,1,2019-12-21 22:42:12,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,87,89,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",86,86,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,107,107,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,fffc603,surister,error message improvement,106,106,,,1,2019-12-21 22:18:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,116,116,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",108,115,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,119,119,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,126,126,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,122,123,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,fffc603,surister,error message improvement,125,125,,,1,2019-12-21 22:18:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",120,121,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",117,118,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",124,124,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,129,129,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,fffc603,surister,error message improvement,128,128,,,1,2019-12-21 22:18:34,
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,134,135,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",127,127,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,d8db756,surister,Add syntax checker suite,139,140,,,0,2019-12-21 18:24:34,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",130,131,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,691c644,surister,Error bulk rather than single error exit,132,133,,,1,2019-12-21 22:42:12,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",136,138,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,691c644,surister,Error bulk rather than single error exit,146,146,,,1,2019-12-21 22:42:12,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",141,145,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",147,147,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+tests/syntax_lint.py,691c644,surister,Error bulk rather than single error exit,150,152,,,1,2019-12-21 22:42:12,
+tests/syntax_lint.py,691c644,surister,Error bulk rather than single error exit,148,148,,,1,2019-12-21 22:42:12,
+tests/syntax_lint.py,01e1ddd,MengDanzz,"scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)  * Smoother practice experience  * update ci to check all md files  * fix some syntax  * fix README-zh_CN.md  * update syntax_lint accorging to PEP8  * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow  ---------  Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn> Co-authored-by: Arie Bregman <bregman.arie@gmail.com>",149,149,surister,4cb19b0,1,2023-02-05 18:50:51,2020-01-09 11:12:06
+topics/kubernetes/exercises/kustomize_common_labels/someApp/deployment.yml,c469c84,abregman,Add Argo and k8s questions  Also updated Datadog questions.,1,21,,,0,2022-10-25 20:40:55,
+topics/gcp/exercises/instance_101/versions.tf,7cceb86,Arie Bregman,Update,1,10,,,0,2022-10-23 10:02:53,
+topics/kubernetes/exercises/kustomize_common_labels/someApp/service.yml,c469c84,abregman,Add Argo and k8s questions  Also updated Datadog questions.,1,11,,,0,2022-10-25 20:40:55,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,9,9,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,7,7,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",10,11,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci2/app/main.py,979d11d,abregman,Add new challenge,12,12,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci2/app/main.py,979d11d,abregman,Add new challenge,1,4,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,5,6,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",8,8,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci2/app/main.py,d9c53ca,"OpenRefactory, Inc","Suggested fixes by iCR, OpenRefactory, Inc. (#281)",13,13,abregman,99c4e02,0,2022-08-31 18:44:20,2022-08-01 22:53:56
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,15,15,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,6341431,abregman,Update flask_container_ci challenge,16,16,,,0,2019-12-22 09:30:09,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,17,19,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,979d11d,abregman,Add new challenge,14,14,,,0,2019-12-21 11:26:41,
+topics/flask_container_ci2/app/main.py,85d8a56,abregman,Add another flask exercise,24,25,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,23,23,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,26,27,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,85d8a56,abregman,Add another flask exercise,20,22,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci2/app/main.py,73665e6,abregman,PEP8 fixes,28,28,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci2/app/main.py,85d8a56,abregman,Add another flask exercise,29,32,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,34,34,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,73665e6,abregman,PEP8 fixes,33,33,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci2/app/main.py,85d8a56,abregman,Add another flask exercise,35,38,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci2/app/main.py,85d8a56,abregman,Add another flask exercise,41,44,,,0,2020-01-16 22:00:24,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,45,47,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,39,40,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,73665e6,abregman,PEP8 fixes,48,48,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci2/app/main.py,73665e6,abregman,PEP8 fixes,52,52,,,0,2019-12-21 20:22:32,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,49,51,,,0,2019-12-21 17:50:04,
+topics/flask_container_ci2/app/main.py,bec1714,abregman,Update flask_container_ci challenge,53,54,,,0,2019-12-21 17:50:04,
+topics/linux/exercises/uniqe_count/ip_list,e6a8030,abregman,Add Terraform and Linux questions and exercises  Also updated the script that counts questions to actually update the number in README.md,1,115,,,0,2022-10-30 20:08:05,
+topics/flask_container_ci2/tests.py,85d8a56,abregman,Add another flask exercise,1,25,,,0,2020-01-16 22:00:24,

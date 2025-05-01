@@ -2,3 +2,4 @@ pygit2
 pandas
 tqdm
 requests
+matplotlib.pyplot
