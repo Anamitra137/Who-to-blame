@@ -1,0 +1,19 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+index.js,6cbf9e9,leonardomso,Added new Github Action for checking links,2,6,leonardomso,4854dbe,0,2021-04-19 12:08:23,2018-10-13 17:22:34
+index.js,4854dbe,leonardomso,Index,1,1,,,0,2018-10-13 17:22:34,
+index.js,4854dbe,leonardomso,Index,7,7,,,0,2018-10-13 17:22:34,
+LICENSE,17ff2d9,Leonardo Maldonado,Initial commit,1,21,,,0,2018-09-04 13:27:04,
+package.json,83ee1cc,leonardomso,json,3,3,,,0,2018-09-05 13:05:07,
+package.json,3edc228,Leandro Nunes,Fix package.json  Changed/improved some package.json properties,2,2,leonardomso,83ee1cc,1,2018-10-16 01:24:39,2018-09-05 13:05:07
+package.json,83ee1cc,leonardomso,json,1,1,,,0,2018-09-05 13:05:07,
+package.json,83ee1cc,leonardomso,json,5,5,,,0,2018-09-05 13:05:07,
+package.json,3edc228,Leandro Nunes,Fix package.json  Changed/improved some package.json properties,22,23,leonardomso,83ee1cc,1,2018-10-16 01:24:39,2018-09-05 13:05:07
+package.json,6cbf9e9,leonardomso,Added new Github Action for checking links,6,14,Leandro Nunes,3edc228,0,2021-04-19 12:08:23,2018-10-16 01:24:39
+package.json,83ee1cc,leonardomso,json,15,21,,,0,2018-09-05 13:05:07,
+package.json,6cbf9e9,leonardomso,Added new Github Action for checking links,4,4,Leandro Nunes,3edc228,0,2021-04-19 12:08:23,2018-10-16 01:24:39
+package.json,6cbf9e9,leonardomso,Added new Github Action for checking links,24,24,Leandro Nunes,3edc228,0,2021-04-19 12:08:23,2018-10-16 01:24:39
+package.json,3edc228,Leandro Nunes,Fix package.json  Changed/improved some package.json properties,33,34,,,1,2018-10-16 01:24:39,
+package.json,6cbf9e9,leonardomso,Added new Github Action for checking links,35,35,Leandro Nunes,3edc228,0,2021-04-19 12:08:23,2018-10-16 01:24:39
+package.json,6cbf9e9,leonardomso,Added new Github Action for checking links,26,32,Leandro Nunes,3edc228,0,2021-04-19 12:08:23,2018-10-16 01:24:39
+package.json,83ee1cc,leonardomso,json,36,36,,,0,2018-09-05 13:05:07,
+package.json,3edc228,Leandro Nunes,Fix package.json  Changed/improved some package.json properties,25,25,leonardomso,83ee1cc,1,2018-10-16 01:24:39,2018-09-05 13:05:07

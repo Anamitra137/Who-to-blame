@@ -1,0 +1,494 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+gradlew.bat,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,1,89,Goooler,92a63a4,0,2022-11-09 02:34:39,2021-08-26 03:09:53
+gradle/wrapper/gradle-wrapper.properties,e42bb5a,Ben Christensen,Upgrade to Nebula Build,1,2,,,0,2014-08-29 22:44:36,
+gradle/wrapper/gradle-wrapper.properties,92a63a4,Goooler,Update gradle 6.9.1,3,3,Abrar Wiryawan,6ae7453,0,2021-08-26 03:09:53,2021-08-10 13:20:12
+gradle/wrapper/gradle-wrapper.properties,e42bb5a,Ben Christensen,Upgrade to Nebula Build,4,5,,,0,2014-08-29 22:44:36,
+LICENSE,e42bb5a,Ben Christensen,Upgrade to Nebula Build,1,189,,,0,2014-08-29 22:44:36,
+LICENSE,e42bb5a,Ben Christensen,Upgrade to Nebula Build,190,200,,,0,2014-08-29 22:44:36,
+rxandroid/src/main/AndroidManifest.xml,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",1,14,,,0,2015-06-30 19:02:11,
+rxandroid/src/main/AndroidManifest.xml,64055e2,Drew Hamilton,Update to RxJava 3,15,15,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+gradle.properties,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,3,10,Goooler,f1ddbcb,0,2022-11-09 02:34:39,2021-01-07 17:40:59
+gradle.properties,3498cd7,Jake Wharton,Prepare next development version,12,12,Jake Wharton,65c6bbe,0,2022-11-09 20:03:55,2022-11-09 20:03:12
+gradle.properties,f1ddbcb,Goooler,Build system and dependency updates,1,2,Jake Wharton,faadd21,0,2021-01-07 17:40:59,2020-02-14 15:27:29
+gradle.properties,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,23,23,Goooler,f1ddbcb,0,2022-11-09 02:34:39,2021-01-07 17:40:59
+gradle.properties,4a5dc7b,Dan Lew,Setup publishing via bintray,14,14,Dan Lew,32ae9fc,0,2015-07-31 19:22:01,2015-06-30 19:02:11
+gradle.properties,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,13,13,Goooler,f1ddbcb,0,2022-11-09 02:34:39,2021-01-07 17:40:59
+gradle.properties,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,25,28,Goooler,f1ddbcb,0,2022-11-09 02:34:39,2021-01-07 17:40:59
+gradle.properties,4a5dc7b,Dan Lew,Setup publishing via bintray,15,22,,,0,2015-07-31 19:22:01,
+gradle.properties,ccc37bc,Jake Wharton,Bump to version 1.0.1.,24,24,,,0,2015-08-10 00:39:16,
+gradle.properties,4a6920d,Jake Wharton,Next version is 3.0.0  Also the groupId has changed.,11,11,Dan Lew,8e3419c,0,2019-09-06 03:38:52,2015-08-05 19:35:32
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,15,15,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,64055e2,Drew Hamilton,Update to RxJava 3,17,19,Zac Sweers,ca22269,0,2019-09-06 03:36:34,2017-01-09 06:11:30
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Zac Sweers,ca22269,0,2019-09-06 03:36:34,2017-01-09 06:11:30
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,20,24,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,27,28,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,16,16,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,25,26,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,29,29,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,33,35,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,30,32,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,36,36,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,40,40,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,41,41,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,42,48,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,37,39,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,49,51,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,52,55,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,56,56,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,76,82,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,ca22269,Zac Sweers,"Add handler getters to match RxJavaPlugins API  RxJava's plugins exposes APIs to get these, so mirroring that.",60,75,,,0,2017-01-09 06:11:30,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,111,114,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,b403cdf,Jake Wharton,Port library to RxJava 2.,57,59,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,83,110,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,15,16,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,19,19,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,24,31,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,64055e2,Drew Hamilton,Update to RxJava 3,17,18,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,22,23,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,20,21,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,1,13,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,402d01b,Jake Wharton,Correct rendered output of '@' in Javadoc.,32,32,,,1,2016-05-02 03:25:18,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,35,35,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,33,34,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,36,36,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,40,43,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,38,39,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,37,37,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,402d01b,Jake Wharton,Correct rendered output of '@' in Javadoc.,44,44,,,1,2016-05-02 03:25:18,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,45,45,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,46,59,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,60,60,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,63,63,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,61,61,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,62,62,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,68,68,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,64,67,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,69,74,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,76,77,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,d7bb498,Jake Wharton,Update to RxJava RC7 and Java 8,75,75,Drew Hamilton,64055e2,0,2019-12-31 17:47:08,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,78,78,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,80,80,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,79,79,,,0,2015-11-14 08:41:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,81,81,,,0,2015-11-14 08:41:34,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,19,24,,,0,2014-08-29 22:44:36,
+gradlew,6f0c35a,Zac Sweers,Gradle 5.6.2,3,18,king6cong,cc4c491,0,2019-09-22 19:44:06,2017-08-26 01:47:35
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,2,2,,,0,2014-08-29 22:44:36,
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,25,41,Niklas Baudy,44f45b6,0,2016-05-02 13:27:11,2015-10-31 11:02:01
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,1,1,Dan Lew,f1a6443,0,2017-08-26 01:47:35,2016-05-02 13:27:11
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,42,45,,,0,2014-08-29 22:44:36,
+gradlew,6f0c35a,Zac Sweers,Gradle 5.6.2,47,47,king6cong,cc4c491,0,2019-09-22 19:44:06,2017-08-26 01:47:35
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,46,46,,,0,2016-05-02 13:27:11,
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,48,48,Niklas Baudy,44f45b6,0,2016-05-02 13:27:11,2015-10-31 11:02:01
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,49,51,,,0,2014-08-29 22:44:36,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,57,66,,,0,2014-08-29 22:44:36,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,53,55,,,0,2014-08-29 22:44:36,
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,52,52,Niklas Baudy,44f45b6,0,2017-08-26 01:47:35,2015-10-31 11:02:01
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,56,56,,,0,2017-08-26 01:47:35,
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,67,67,Niklas Baudy,44f45b6,0,2016-05-02 13:27:11,2015-10-31 11:02:01
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,68,77,,,0,2014-08-29 22:44:36,
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,78,80,,,0,2016-05-02 13:27:11,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,83,84,,,0,2014-08-29 22:44:36,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,81,82,,,0,2014-08-29 22:44:36,
+gradlew,92a63a4,Goooler,Update gradle 6.9.1,85,85,Jake Wharton,d16f20b,0,2021-08-26 03:09:53,2020-02-14 15:05:35
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,110,128,,,0,2014-08-29 22:44:36,
+gradlew,f1a6443,Dan Lew,Updated Gradle to 2.13,109,109,,,0,2016-05-02 13:27:11,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,86,108,,,0,2014-08-29 22:44:36,
+gradlew,6f0c35a,Zac Sweers,Gradle 5.6.2,129,130,king6cong,cc4c491,0,2019-09-22 19:44:06,2017-08-26 01:47:35
+gradlew,44f45b6,Niklas Baudy,Update to Gradle 2.8,134,134,,,0,2015-10-31 11:02:01,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,131,132,,,0,2014-08-29 22:44:36,
+gradlew,92a63a4,Goooler,Update gradle 6.9.1,133,133,Jake Wharton,d16f20b,0,2021-08-26 03:09:53,2020-02-14 15:05:35
+gradlew,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,159,159,Zac Sweers,6f0c35a,0,2020-02-14 15:05:35,2019-09-22 19:44:06
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,135,158,,,0,2014-08-29 22:44:36,
+gradlew,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,162,171,Zac Sweers,6f0c35a,0,2020-02-14 15:05:35,2019-09-22 19:44:06
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,172,174,,,0,2014-08-29 22:44:36,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,160,161,,,0,2014-08-29 22:44:36,
+gradlew,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,180,180,Zac Sweers,6f0c35a,0,2020-02-14 15:05:35,2019-09-22 19:44:06
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,175,178,,,0,2017-08-26 01:47:35,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,179,179,,,0,2014-08-29 22:44:36,
+gradlew,e42bb5a,Ben Christensen,Upgrade to Nebula Build,181,181,,,0,2014-08-29 22:44:36,
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,182,184,,,0,2017-08-26 01:47:35,
+gradlew,cc4c491,king6cong,Upgrade gradle plugin and build tools,185,185,,,0,2017-08-26 01:47:35,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsNoRobolectricTest.java,1e79bed,Jake Wharton,Add the test,1,22,,,0,2022-11-09 19:29:57,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,15,15,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,16,17,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Zac Sweers,191a758,0,2019-09-06 03:36:34,2018-07-10 03:36:09
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,20,20,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,18,19,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,23,25,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,64055e2,Drew Hamilton,Update to RxJava 3,21,22,Zac Sweers,191a758,0,2019-09-06 03:36:34,2018-07-10 03:36:09
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,26,27,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,44db927,Jake Wharton,Skip null check when creating main scheduler  This is a tradeoff to allow replacing the main scheduler in tests without needing Robolectric.,28,28,Zsombor Gegesy,9bdef2f,0,2022-11-09 18:52:17,2021-02-04 19:46:33
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,29,30,,,0,2016-10-07 23:49:53,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,47bb3c1,Jake Wharton,Make messages async by default,34,40,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,d7bb498,Jake Wharton,Update to RxJava RC7 and Java 8,31,32,Zac Sweers,8c023a7,0,2019-12-31 17:47:08,2019-09-23 01:37:08
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,33,33,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,47bb3c1,Jake Wharton,Make messages async by default,45,51,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,41,44,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,52,52,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,47bb3c1,Jake Wharton,Make messages async by default,53,53,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,64,64,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,54,62,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,44db927,Jake Wharton,Skip null check when creating main scheduler  This is a tradeoff to allow replacing the main scheduler in tests without needing Robolectric.,68,69,Zsombor Gegesy,9bdef2f,0,2022-11-09 18:52:17,2021-02-04 19:46:33
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,44db927,Jake Wharton,Skip null check when creating main scheduler  This is a tradeoff to allow replacing the main scheduler in tests without needing Robolectric.,65,66,Zsombor Gegesy,9bdef2f,0,2022-11-09 18:52:17,2021-02-04 19:46:33
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,63,63,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,3bd37aa,Zac Sweers,"Comment for posterity why androidx-core isn't used for async  From personal experience, this kind of detail pointing to something Official™️ can save developers a lot of headache having to explain to skeptical colleagues.",67,67,Zac Sweers,191a758,0,2019-09-22 19:38:41,2018-07-10 03:36:09
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,8c023a7,Zac Sweers,Lowercase Androidx  Amphasis,70,70,Zac Sweers,3bd37aa,0,2019-09-23 01:37:08,2019-09-22 19:38:41
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,3bd37aa,Zac Sweers,"Comment for posterity why androidx-core isn't used for async  From personal experience, this kind of detail pointing to something Official™️ can save developers a lot of headache having to explain to skeptical colleagues.",71,72,Jake Wharton,47bb3c1,0,2019-09-22 19:38:41,2019-09-06 14:17:42
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,73,85,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java,b403cdf,Jake Wharton,Port library to RxJava 2.,86,91,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,15,15,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,1,13,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,17,33,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,35,35,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,34,34,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,64055e2,Drew Hamilton,Update to RxJava 3,16,16,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,36,36,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,37,44,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,45,45,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,46,60,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,61,62,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,65,65,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,73,74,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,82,92,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,75,78,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,79,81,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,66,72,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,63,64,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,119,119,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,95,96,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,93,94,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,5378804,Jake Wharton,Add MainThreadSubscription utility class.,98,107,,,0,2015-11-14 08:41:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,97,97,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/MainThreadDisposableTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,108,118,,,0,2016-08-08 04:56:34,
+rxandroid/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,9,9,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+rxandroid/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,7,8,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",3,4,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,2,2,Dinesh Ravi,09b9614,0,2022-11-09 02:34:39,2022-11-07 16:46:17
+rxandroid/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,5,5,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",6,6,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,80d459b,Austyn Mahoney,Java 7 support,10,10,,,0,2015-07-01 22:16:09,
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",1,1,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",19,20,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,44db927,Jake Wharton,Skip null check when creating main scheduler  This is a tradeoff to allow replacing the main scheduler in tests without needing Robolectric.,15,18,Jake Wharton,f24df17,0,2022-11-09 18:52:17,2022-11-09 02:34:39
+rxandroid/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,11,14,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",21,21,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",23,23,,,0,2015-06-30 19:02:11,
+rxandroid/build.gradle,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),26,26,,,0,2014-11-07 11:04:37,
+rxandroid/build.gradle,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,28,31,Dinesh Ravi,09b9614,0,2022-11-09 02:34:39,2022-11-07 16:46:17
+rxandroid/build.gradle,4a5dc7b,Dan Lew,Setup publishing via bintray,27,27,Austyn Mahoney,80d459b,0,2015-07-31 19:22:01,2015-07-01 22:16:09
+rxandroid/build.gradle,09b9614,Dinesh Ravi,Bump up rxjava version from 3.1.0 to 3.1.5  https://github.com/ReactiveX/RxJava/blob/v3.1.5/build.gradle#L16,22,22,Jake Wharton,0f11321,0,2022-11-07 16:46:17,2018-02-12 21:13:56
+rxandroid/build.gradle,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,24,24,Jake Wharton,0f11321,0,2021-08-10 13:20:12,2018-02-12 21:13:56
+rxandroid/build.gradle,4a5dc7b,Dan Lew,Setup publishing via bintray,32,32,Austyn Mahoney,80d459b,0,2015-07-31 19:22:01,2015-07-01 22:16:09
+rxandroid/build.gradle,f1ddbcb,Goooler,Build system and dependency updates,25,25,Austyn Mahoney,1eea327,0,2021-01-07 17:40:59,2015-07-01 22:16:40
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,64055e2,Drew Hamilton,Update to RxJava 3,26,30,Zac Sweers,ca22269,0,2019-09-06 03:36:34,2017-01-09 06:11:30
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,15,15,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,16,22,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,31,33,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,ca22269,Zac Sweers,"Add handler getters to match RxJavaPlugins API  RxJava's plugins exposes APIs to get these, so mirroring that.",34,34,,,0,2017-01-09 06:11:30,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,23,25,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Zac Sweers,ca22269,0,2019-09-06 03:36:34,2017-01-09 06:11:30
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,35,65,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,66,66,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,78,78,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,67,77,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,79,79,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,80,86,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,87,87,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,88,92,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,114,115,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,111,111,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,99,110,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,93,98,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,112,113,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,162,162,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,116,161,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,79d0991,Peter Tackage,Add lazy loading of default main Scheduler,163,163,,,0,2016-10-07 23:49:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,ca22269,Zac Sweers,"Add handler getters to match RxJavaPlugins API  RxJava's plugins exposes APIs to get these, so mirroring that.",164,196,,,0,2017-01-09 06:11:30,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/plugins/RxAndroidPluginsTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,197,197,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,15,15,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,17,18,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,19,20,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,16,16,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,22,25,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,21,21,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,27,27,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,26,26,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,28,28,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,29,29,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,30,30,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,31,33,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,35,36,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,37,40,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,34,34,,,0,2019-02-15 19:10:28,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,46,50,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,41,45,,,0,2019-02-15 19:10:28,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,57,59,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,60,60,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,52,55,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,56,56,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,61,61,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,51,51,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,62,62,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,66,66,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,67,68,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,63,65,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,d7bb498,Jake Wharton,Update to RxJava RC7 and Java 8,72,72,Drew Hamilton,64055e2,0,2019-12-31 17:47:08,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,69,71,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,73,81,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,82,85,,,0,2018-07-10 03:36:09,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,5dc34ee,Jake Wharton,Remove superfluous negative check.  Handler does this check already since 2009 when AOSP was imported to git (aka forever).,86,86,,,0,2018-01-03 03:09:56,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,87,90,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,92,112,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,d7bb498,Jake Wharton,Update to RxJava RC7 and Java 8,91,91,Drew Hamilton,64055e2,0,2019-12-31 17:47:08,2019-09-06 03:36:34
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,c4ef6b0,Jake Wharton,"Remove handler callbacks before setting disposed.  This change ensures that you can never observe `disposed` being set to `true` inside `run()`. `removeCallbacks` and the mechanism by which a `Looper` retrieves the head of the message queue are both governed by a lock. When `dispose()` is called on a non-main thread taking this lock is the race which determines cancelation and **not** the boolean.  Include a comment emphasizing that the boolean is tracked solely for the purposes of accurate `isDisposed()` reporting.",113,113,,,0,2018-05-03 03:14:50,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,114,124,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,131,131,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,51301fe,Artem Zinnatullin,Sync HandlerScheduler error handling with RxJava impl.,125,125,,,1,2017-08-16 21:07:36,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,126,130,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,b403cdf,Jake Wharton,Port library to RxJava 2.,133,140,,,0,2016-08-08 04:56:34,
+rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java,c4ef6b0,Jake Wharton,"Remove handler callbacks before setting disposed.  This change ensures that you can never observe `disposed` being set to `true` inside `run()`. `removeCallbacks` and the mechanism by which a `Looper` retrieves the head of the message queue are both governed by a lock. When `dispose()` is called on a non-main thread taking this lock is the race which determines cancelation and **not** the boolean.  Include a comment emphasizing that the boolean is tracked solely for the purposes of accurate `isDisposed()` reporting.",132,132,,,0,2018-05-03 03:14:50,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Zac Sweers,191a758,0,2019-09-06 03:36:34,2018-07-10 03:36:09
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,16,16,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,17,17,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,1,13,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,64055e2,Drew Hamilton,Update to RxJava 3,22,24,Zac Sweers,191a758,0,2019-09-06 03:36:34,2018-07-10 03:36:09
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,15,15,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,18,18,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,64055e2,Drew Hamilton,Update to RxJava 3,19,21,Zac Sweers,191a758,0,2019-09-06 03:36:34,2018-07-10 03:36:09
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,25,27,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,36,36,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,37,37,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,38,39,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,28,28,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,29,31,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,35,35,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,32,34,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,41,41,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,43,43,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,44,70,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,42,42,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,47bb3c1,Jake Wharton,Make messages async by default,40,40,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,9824509,Jake Wharton,"Rewrite HandlerScheduler tests to be black box.  Previously we mocked a Handler and relied on verifying the correct methods were called. This meant that changing the implementation of HandlerScheduler meant changing the tests. This is prone to masking errors since it focuses on *what* the implementation does instead of *how* it behaves. All we care about is behavior, and all these new tests do is verify behavior.  It should be noted that these new tests (just like the old ones) are still reliant on the behavior of Robolectric's fake Looper.",71,73,,,1,2016-04-22 20:33:41,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,74,74,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,9824509,Jake Wharton,"Rewrite HandlerScheduler tests to be black box.  Previously we mocked a Handler and relied on verifying the correct methods were called. This meant that changing the implementation of HandlerScheduler meant changing the tests. This is prone to masking errors since it focuses on *what* the implementation does instead of *how* it behaves. All we care about is behavior, and all these new tests do is verify behavior.  It should be noted that these new tests (just like the old ones) are still reliant on the behavior of Robolectric's fake Looper.",75,76,,,1,2016-04-22 20:33:41,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,77,77,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,d395758,Jake Wharton,Eliminate allocations by using the Handler to track scheduled actions.,79,79,,,0,2016-04-22 19:10:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,82,91,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,9824509,Jake Wharton,"Rewrite HandlerScheduler tests to be black box.  Previously we mocked a Handler and relied on verifying the correct methods were called. This meant that changing the implementation of HandlerScheduler meant changing the tests. This is prone to masking errors since it focuses on *what* the implementation does instead of *how* it behaves. All we care about is behavior, and all these new tests do is verify behavior.  It should be noted that these new tests (just like the old ones) are still reliant on the behavior of Robolectric's fake Looper.",78,78,,,1,2016-04-22 20:33:41,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,80,81,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,92,94,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,95,96,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,47bb3c1,Jake Wharton,Make messages async by default,97,97,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,98,98,Jake Wharton,47bb3c1,0,2021-08-10 13:20:12,2019-09-06 14:17:42
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,47bb3c1,Jake Wharton,Make messages async by default,99,113,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,129,129,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,47bb3c1,Jake Wharton,Make messages async by default,115,128,Drew Hamilton,64055e2,0,2019-09-06 14:17:42,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,131,131,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,130,130,Abrar Wiryawan,6ae7453,0,2022-11-09 02:34:39,2021-08-10 13:20:12
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,114,114,Jake Wharton,47bb3c1,0,2021-08-10 13:20:12,2019-09-06 14:17:42
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,132,147,Abrar Wiryawan,6ae7453,0,2022-11-09 02:34:39,2021-08-10 13:20:12
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,149,149,,,0,2015-06-30 16:34:32,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulersTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,148,148,,,0,2018-07-10 03:36:09,
+sample-app/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",5,5,Prateek Srivastava,f3bcd4f,0,2015-06-30 19:02:11,2015-06-27 20:16:12
+sample-app/build.gradle,3325630,Jake Wharton,"minSdkVersion=""9""",7,7,Austyn Mahoney,1eea327,0,2015-08-05 04:34:32,2015-07-01 22:16:40
+sample-app/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,9,11,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+sample-app/build.gradle,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,3,,,0,2014-11-07 11:04:37,
+sample-app/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,6,6,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+sample-app/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,4,4,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+sample-app/build.gradle,673bf4a,Dan Lew,Ignore lint warnings that don't matter for sample apps,12,12,Dan Lew,32ae9fc,0,2015-07-01 20:34:58,2015-06-30 19:02:11
+sample-app/build.gradle,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,8,8,Goooler,f1ddbcb,0,2021-08-10 13:20:12,2021-01-07 17:40:59
+sample-app/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,17,20,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+sample-app/build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,13,15,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+sample-app/build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",21,21,Prateek Srivastava,f3bcd4f,0,2015-06-30 19:02:11,2015-06-27 20:16:12
+sample-app/build.gradle,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),22,22,,,0,2014-11-07 11:04:37,
+sample-app/build.gradle,b373273,Niklas Baudy,Updates to Android 6 (Marshmallow),16,16,Jake Wharton,3325630,0,2015-09-07 09:21:56,2015-08-05 04:34:32
+sample-app/build.gradle,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),25,25,,,0,2014-11-07 11:04:37,
+sample-app/build.gradle,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),23,23,,,0,2014-11-07 11:04:37,
+sample-app/build.gradle,055c8b5,Artem Zinnatullin :slowpoke,"Update AGP 2.3.3 → 3.0.0, Android Maven Gradle Plugin 1.4.1 → 2.0.",24,24,Jake Wharton,879f50d,0,2017-10-30 04:06:43,2016-08-04 22:34:17
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,18,18,,,0,2019-02-15 19:10:28,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,15,17,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,30,36,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,64055e2,Drew Hamilton,Update to RxJava 3,19,20,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,64055e2,Drew Hamilton,Update to RxJava 3,21,27,Sato Shun,7996633,0,2019-09-06 03:36:34,2019-02-15 19:10:28
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,28,29,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,40,40,,,0,2019-02-15 19:10:28,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,52,56,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,38,39,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,57,58,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,51,51,Drew Hamilton,64055e2,0,2021-08-10 13:20:12,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,37,37,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,41,49,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,50,50,,,0,2019-02-15 19:10:28,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,59,59,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,71,73,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,69,70,Drew Hamilton,64055e2,0,2021-08-10 13:20:12,2019-09-06 03:36:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,77,88,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,60,68,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,191a758,Zac Sweers,Add an option to post async messages  This functionality was made public in API 22 but same API has existed since API 16. This prevents locking the message queue for vsync events.,75,76,,,0,2018-07-10 03:36:09,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,74,74,,,0,2019-02-15 19:10:28,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,89,98,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,3aa9588,Samuel Tardieu,Schedule tasks with negative delays immediately as per Scheduler spec  This fixes the issue in https://github.com/ReactiveX/RxAndroid/issues/346.,99,107,,,1,2016-11-08 14:49:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,108,335,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,347,663,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,3aa9588,Samuel Tardieu,Schedule tasks with negative delays immediately as per Scheduler spec  This fixes the issue in https://github.com/ReactiveX/RxAndroid/issues/346.,336,346,,,1,2016-11-08 14:49:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,fe846b1,newhouse,Update RxJava,664,666,,,0,2018-01-09 13:16:13,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,676,676,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,51301fe,Artem Zinnatullin,Sync HandlerScheduler error handling with RxJava impl.,668,675,,,1,2017-08-16 21:07:36,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,667,667,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,678,678,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,51301fe,Artem Zinnatullin,Sync HandlerScheduler error handling with RxJava impl.,677,677,,,1,2017-08-16 21:07:36,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,51301fe,Artem Zinnatullin,Sync HandlerScheduler error handling with RxJava impl.,679,692,,,1,2017-08-16 21:07:36,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,693,694,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,695,709,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,726,754,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,710,725,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,755,771,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,772,784,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,7996633,Sato Shun,Use async messages for Scheduler.scheduleDirect,785,824,,,0,2019-02-15 19:10:28,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/schedulers/HandlerSchedulerTest.java,b403cdf,Jake Wharton,Port library to RxJava 2.,825,825,,,0,2016-08-08 04:56:34,
+sample-app/src/main/res/values/dimens.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,6,,,0,2014-11-07 11:04:37,
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,2,3,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,1,1,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,9,9,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,8,8,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,7,7,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,4,6,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,10,10,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,11,11,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,18,18,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,12,13,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,be74060,Frieder Bluemle,Update sample-app,16,16,Prateek Srivastava,f3bcd4f,0,2015-12-11 16:06:21,2015-06-27 20:16:12
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,14,15,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/layout/main_activity.xml,f3bcd4f,Prateek Srivastava,Simplify Core,17,17,,,0,2015-06-27 20:16:12,
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,1,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,2,2,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,64055e2,Drew Hamilton,Update to RxJava 3,3,3,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),6,7,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,4,5,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),12,12,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),8,8,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,9,11,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,13,13,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,15,16,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),14,14,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,17,18,Drew Hamilton,64055e2,0,2021-08-10 13:20:12,2019-09-06 03:36:34
+sample-app/src/main/AndroidManifest.xml,be74060,Frieder Bluemle,Update sample-app,23,23,Jake Wharton,6ddceb4,0,2015-12-11 16:06:21,2015-06-30 16:34:32
+sample-app/src/main/AndroidManifest.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),28,30,,,0,2014-11-07 11:04:37,
+sample-app/src/main/AndroidManifest.xml,c22fc9a,Dan Lew,Added sample Activity demonstrating LifecycleObservable,19,22,Matthias Kaeppler,af9f75a,0,2014-12-02 18:00:27,2014-11-07 14:04:06
+sample-app/src/main/AndroidManifest.xml,c22fc9a,Dan Lew,Added sample Activity demonstrating LifecycleObservable,24,27,Matthias Kaeppler,af9f75a,0,2014-12-02 18:00:27,2014-11-07 14:04:06
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Jake Wharton,a08e6ef,0,2019-09-06 03:36:34,2016-08-25 00:35:04
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,15,17,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,28,30,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,1,13,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,18,18,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,64055e2,Drew Hamilton,Update to RxJava 3,21,27,Jake Wharton,a08e6ef,0,2019-09-06 03:36:34,2016-08-25 00:35:04
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,6ddceb4,Jake Wharton,Expose scheduler factory for Handler on HandlerScheduler.  This also renames HandlerThreadScheduler to HandlerSchduler as a HandlerThread is another concept.,31,31,,,0,2015-06-30 16:34:32,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,19,20,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,a08e6ef,Jake Wharton,Update sample to compile with latest RxJava 2.0 APIs.,32,33,,,0,2016-08-25 00:35:04,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,38,43,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,34,35,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,a08e6ef,Jake Wharton,Update sample to compile with latest RxJava 2.0 APIs.,44,48,,,0,2016-08-25 00:35:04,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,36,36,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,49,49,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,be74060,Frieder Bluemle,Update sample-app,37,37,,,0,2015-12-11 16:06:21,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,a08e6ef,Jake Wharton,Update sample to compile with latest RxJava 2.0 APIs.,50,50,,,0,2016-08-25 00:35:04,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,51,54,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,a08e6ef,Jake Wharton,Update sample to compile with latest RxJava 2.0 APIs.,55,55,,,0,2016-08-25 00:35:04,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,64,66,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,56,58,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,63,63,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,59,59,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,a08e6ef,Jake Wharton,Update sample to compile with latest RxJava 2.0 APIs.,67,67,,,0,2016-08-25 00:35:04,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,60,62,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,68,70,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,b403cdf,Jake Wharton,Port library to RxJava 2.,73,74,,,0,2016-08-08 04:56:34,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,64055e2,Drew Hamilton,Update to RxJava 3,71,72,Jake Wharton,a08e6ef,0,2019-09-06 03:36:34,2016-08-25 00:35:04
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,79,79,,,0,2015-06-27 20:16:12,
+sample-app/src/main/java/io/reactivex/rxjava3/android/samples/MainActivity.java,f3bcd4f,Prateek Srivastava,Simplify Core,75,78,,,0,2015-06-27 20:16:12,
+sample-app/src/main/res/values/strings.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),6,7,,,0,2014-11-07 11:04:37,
+sample-app/src/main/res/values/strings.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,4,,,0,2014-11-07 11:04:37,
+sample-app/src/main/res/values/strings.xml,be74060,Frieder Bluemle,Update sample-app,5,5,Dan Lew,7ab79a4,0,2015-12-11 16:06:21,2015-07-01 20:33:38
+sample-app/src/main/res/values/styles.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,12,,,0,2014-11-07 11:04:37,
+sample-app/src/main/res/values-w820dp/dimens.xml,f87281c,Matthias Kaeppler,New project structure based on submodules (added samples module),1,6,,,0,2014-11-07 11:04:37,
+settings.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",3,4,Prateek Srivastava,f3bcd4f,0,2015-06-30 19:02:11,2015-06-27 20:16:12
+settings.gradle,8348725,Justin Ryan,"Use samples as a part of the RxAndroid Gradle build, so that it can have a project dependency on rxjava.",1,1,Matthias Kaeppler,f87281c,0,2014-11-12 07:43:10,2014-11-07 11:04:37
+settings.gradle,f9c303e,Dorvaryn,Porting Novoda work on RxAndroid to official repo  This is adding a resumable logic to handle Observables on rotation if needed and add some wrapping logic around Dialogs and Navigation on Android,2,2,Matthias Kaeppler,3930837,0,2014-11-25 18:13:03,2014-11-19 11:05:58
+build.gradle,f1ddbcb,Goooler,Build system and dependency updates,5,6,Jake Wharton,d16f20b,0,2021-01-07 17:40:59,2020-02-14 15:05:35
+build.gradle,879f50d,Jake Wharton,Push repository configuration to root build.gradle.,11,11,Dan Lew,c25678e,0,2016-08-04 22:34:17,2016-05-02 13:43:28
+build.gradle,f1ddbcb,Goooler,Build system and dependency updates,1,4,Jake Wharton,d16f20b,0,2021-01-07 17:40:59,2020-02-14 15:05:35
+build.gradle,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,7,7,Goooler,f1ddbcb,0,2021-08-10 13:20:12,2021-01-07 17:40:59
+build.gradle,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,8,8,Abrar Wiryawan,6ae7453,0,2022-11-09 02:34:39,2021-08-10 13:20:12
+build.gradle,879f50d,Jake Wharton,Push repository configuration to root build.gradle.,9,9,Dan Lew,c25678e,0,2016-08-04 22:34:17,2016-05-02 13:43:28
+build.gradle,f1ddbcb,Goooler,Build system and dependency updates,12,12,Jake Wharton,d16f20b,0,2021-01-07 17:40:59,2020-02-14 15:05:35
+build.gradle,f1ddbcb,Goooler,Build system and dependency updates,10,10,Jake Wharton,d16f20b,0,2021-01-07 17:40:59,2020-02-14 15:05:35
+build.gradle,9f81070,Zac Sweers,"Update dependencies (#435)  * Gradle 4.8.1 * Update to SDK 28 * Update to robolectric 3.8 * Update to android-maven-gradle-plugin 2.1 * Gradle bintray plugin 1.8.4 * Build-info-extractor-gradle 4.7.5 * RxJava 2.1.16 * Remove now-unnecessary buildToolsVersion definitions * Add jcenter() to repositories for trove4j",14,14,newhouse,4d6eade,0,2018-07-10 21:32:04,2018-01-09 12:58:15
+build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,15,15,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+build.gradle,f24df17,Jake Wharton,Overhaul build  Just enough to get GitHub Actions working and somewhat modernizing the rest. Didn't do too much because this project is not actively developed.,16,24,Abrar Wiryawan,6ae7453,0,2022-11-09 02:34:39,2021-08-10 13:20:12
+build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,13,13,Austyn Mahoney,80d459b,0,2015-07-01 22:16:40,2015-07-01 22:16:09
+build.gradle,a8b1bec,Matthias Kaeppler,"Pull module configuration into the root module  This prepares us to add submodules that share the same configuration as the main library module, as well as test dependencies etc.",26,27,Justin Ryan,91c50a3,0,2014-11-19 14:20:37,2014-11-13 18:09:16
+build.gradle,5584213,Ben Christensen,support releasing via Travis,32,32,Jake Wharton,64ec8dd,0,2015-06-29 16:17:27,2015-06-19 05:34:53
+build.gradle,3325630,Jake Wharton,"minSdkVersion=""9""",29,29,,,0,2015-08-05 04:34:32,
+build.gradle,32ae9fc,Dan Lew,"Use Android build system, generate AARs  Also updated to latest & greatest dependencies while I was at it.",28,28,,,0,2015-06-30 19:02:11,
+build.gradle,1eea327,Austyn Mahoney,Normalizing indent spacing with the rest of the project,25,25,,,0,2015-07-01 22:16:40,
+build.gradle,d7bb498,Jake Wharton,Update to RxJava RC7 and Java 8,31,31,,,0,2019-12-31 17:47:08,
+build.gradle,6ae7453,Abrar Wiryawan,Dependencies update and replace deprecated method in tests,30,30,,,0,2021-08-10 13:20:12,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,21,21,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,64055e2,Drew Hamilton,Update to RxJava 3,16,16,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,15,15,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,22,23,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,17,20,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/EmptyScheduler.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,1,13,,,0,2016-08-05 03:18:11,
+gradle/wrapper/gradle-wrapper.jar,f80dd5f,Matthias Kaeppler,Add missing gradle wrapper JAR,80,80,,,0,2014-09-18 15:55:28,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,8,21,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,49,79,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,22,23,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,81,81,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,1,7,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,82,87,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,cc4c491,king6cong,Upgrade gradle plugin and build tools,133,133,,,0,2017-08-26 01:47:35,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,24,48,,,0,2021-08-26 03:09:53,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,116,119,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,88,115,,,0,2021-08-26 03:09:53,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,127,132,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,134,185,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,120,126,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,193,196,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,186,192,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,201,201,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,202,214,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,197,200,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,241,257,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,258,258,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,259,280,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,f80dd5f,Matthias Kaeppler,Add missing gradle wrapper JAR,286,287,,,0,2014-09-18 15:55:28,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,240,240,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,215,239,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,283,285,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,cc4c491,king6cong,Upgrade gradle plugin and build tools,281,282,,,0,2017-08-26 01:47:35,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,288,295,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,d16f20b,Jake Wharton,Prepare RxAndroid 3.0 for RxJava 3.0,296,299,,,0,2020-02-14 15:05:35,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,300,321,,,0,2021-08-26 03:09:53,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,326,326,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,327,345,,,0,2021-08-26 03:09:53,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,323,325,,,0,2021-08-26 03:09:53,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,322,322,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,6f0c35a,Zac Sweers,Gradle 5.6.2,346,346,,,0,2019-09-22 19:44:06,
+gradle/wrapper/gradle-wrapper.jar,92a63a4,Goooler,Update gradle 6.9.1,347,349,,,0,2021-08-26 03:09:53,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,64055e2,Drew Hamilton,Update to RxJava 3,14,14,Jake Wharton,b403cdf,0,2019-09-06 03:36:34,2016-08-08 04:56:34
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,20,20,,,0,2016-08-08 04:56:34,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,15,16,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,21,23,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,17,17,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,19,19,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,87e9706,Jake Wharton,Swap out mocks for simple fakes.,1,13,,,0,2016-08-05 03:18:11,
+rxandroid/src/test/java/io/reactivex/rxjava3/android/testutil/CountingRunnable.java,b403cdf,Jake Wharton,Port library to RxJava 2.,18,18,,,0,2016-08-08 04:56:34,

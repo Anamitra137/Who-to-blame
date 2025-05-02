@@ -1,0 +1,1322 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+assets/author.ico,7de073e,Corey Butler,combined updates,1,1,,,0,2024-12-29 04:23:51,
+assets/alert.ico,7de073e,Corey Butler,combined updates,1,1,,,0,2024-12-29 04:23:51,
+assets/download.ico,7de073e,Corey Butler,combined updates,1,1,,,0,2024-12-29 04:23:51,
+assets/elevate.cmd,9e48a87,Corey Butler,Added helper scripts and icon,10,12,,,0,2014-10-02 22:48:07,
+assets/elevate.cmd,9e48a87,Corey Butler,Added helper scripts and icon,1,2,,,0,2014-10-02 22:48:07,
+assets/elevate.cmd,dc918c4,Ron Buckton,"Do not elevate unless necessary  This changes `elevate.cmd` to first try to execute the requested command *without* elevation. If the command failed (i.e., `ERRORLEVEL` was non-zero), then retry the command with elevation.  Fixes #510",3,9,,,0,2020-02-11 19:57:24,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,5,44,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,2,3,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,4,4,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,59,65,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,46,58,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,1,1,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,45,45,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,66,75,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,76,105,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,106,106,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,107,153,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,182,182,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,183,212,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,213,224,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,155,181,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,154,154,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,225,234,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,236,243,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,235,235,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,244,244,,,0,2018-08-08 05:49:24,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,245,264,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,265,268,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,269,298,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,299,300,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,303,305,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,301,302,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,306,306,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,317,327,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,307,316,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,328,337,,,1,2021-02-12 11:59:33,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,377,384,,,0,2014-10-04 17:50:56,
+assets/buildtools/Default.isl,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,374,376,,,0,2018-08-08 05:49:24,
+assets/buildtools/Default.isl,ec0e731,Corey Butler,Added build script,338,373,,,0,2014-10-04 17:50:56,
+assets/elevate.vbs,9e48a87,Corey Butler,Added helper scripts and icon,1,13,,,0,2014-10-02 22:48:07,
+assets/nvm.ico,7de073e,Corey Butler,combined updates,1,1,,,0,2024-12-29 04:23:51,
+assets/nodejs.ico,9e48a87,Corey Butler,Added helper scripts and icon,1,1,,,0,2014-10-02 22:48:07,
+assets/install.cmd,36c592d,Corey Butler,"Added a manual installer, courtesy @heri16. Closes #20.",1,1,,,0,2014-11-18 19:51:43,
+assets/install.cmd,a175c59,tomisawk,"Set environment variables for current process  setx command doesn't affect current process, so use also 'set VAR=VALUE'",3,6,,,0,2018-05-16 13:42:15,
+assets/install.cmd,0a1f322,Dawid Gosławski,Define that NVM_PATH is for nvm,2,2,,,0,2019-06-26 08:13:34,
+assets/install.cmd,238992a,tomisawk,"Avoid mixing user-environment PATH and system-environment PATH  %PATH% expands to the system plus the user variables, so if user defined user-environment PATH, 'setx /M PATH ""%PATH%;...""' mixes user-environment PATH and system-environment PATH.",7,7,,,0,2018-05-16 13:56:29,
+assets/install.cmd,238992a,tomisawk,"Avoid mixing user-environment PATH and system-environment PATH  %PATH% expands to the system plus the user variables, so if user defined user-environment PATH, 'setx /M PATH ""%PATH%;...""' mixes user-environment PATH and system-environment PATH.",10,12,,,0,2018-05-16 13:56:29,
+assets/install.cmd,36c592d,Corey Butler,"Added a manual installer, courtesy @heri16. Closes #20.",13,22,,,0,2014-11-18 19:51:43,
+assets/install.cmd,ec5ebc1,coreybutler,Backup PATH env variable to file (precautionary). Fixes #662,9,9,,,0,2021-09-11 03:44:18,
+assets/install.cmd,4035e4a,David Byrne,"Fix install.cmd PATH bug  If the PATH environment variable has parentheses, `(echo PATH=%PATH%)` will fail, but the parentheses don't seem to be needed.",8,8,,,1,2023-01-18 18:19:47,
+build.js,6863618,Corey Butler,add a local build tool,1,48,,,0,2024-12-30 22:24:29,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,17,21,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,1,1,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,3,5,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,6,6,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,7,7,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,22,22,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,2,2,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,8,16,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,39,42,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,33,33,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,35,38,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,34,34,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,43,44,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,23,25,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,26,26,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,27,32,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,46,46,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,48,54,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,56,58,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,59,59,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,55,55,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,60,60,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,45,45,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,47,47,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,63,63,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,62,62,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,61,61,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,74,74,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,86,86,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,64,73,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,75,84,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,85,85,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,87,87,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,88,101,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,102,102,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,105,114,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,116,116,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,104,104,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,103,103,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,115,115,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,117,117,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,118,125,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,126,126,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,127,127,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,128,128,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,137,137,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,129,136,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,138,138,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,139,139,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,140,140,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,141,141,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,142,142,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,143,146,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,151,153,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,147,150,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,154,159,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,193,193,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,194,197,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,198,198,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,160,192,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,199,199,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,201,201,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,202,202,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,205,206,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,203,204,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,207,207,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,200,200,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,208,216,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,217,217,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,223,231,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,218,221,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,222,222,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,232,232,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,233,238,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,239,239,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,240,243,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,245,248,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,250,253,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,244,244,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,249,249,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,254,254,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,258,266,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,255,256,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,257,257,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,267,267,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,268,269,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,270,270,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,271,274,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,276,277,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,278,278,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,275,275,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,279,280,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,282,283,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,281,281,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,285,286,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,287,287,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,284,284,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,309,310,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,290,290,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,288,289,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,291,308,,,1,2021-02-12 11:59:33,
+assets/buildtools/ISPPBuiltins.iss,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,311,311,,,0,2018-08-08 05:49:24,
+assets/buildtools/ISPPBuiltins.iss,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,312,315,,,1,2021-02-12 11:59:33,
+LICENSE,c8e73f6,Corey Butler,Initial commit,1,2,,,0,2014-09-20 16:37:28,
+LICENSE,f31dd2a,Corey Butler,Updated elevation approach,4,4,coreybutler,584a1d9,0,2022-10-31 23:55:01,2021-09-11 03:45:19
+LICENSE,c8e73f6,Corey Butler,Initial commit,5,22,,,0,2014-09-20 16:37:28,
+LICENSE,9b6e27f,Corey Butler,Update license for new year,3,3,Corey Butler,6cf7bb5,0,2025-01-01 02:51:13,2024-11-18 18:15:04
+assets/run.cmd,7de073e,Corey Butler,combined updates,1,2,,,0,2024-12-29 04:23:51,
+assets/setuserenv.vbs,6cf92c6,Noel Hibbard,Set/Unset user environment as origional non-admin user,8,11,,,0,2019-07-07 22:05:03,
+assets/setuserenv.vbs,6cf92c6,Noel Hibbard,Set/Unset user environment as origional non-admin user,1,6,,,0,2019-07-07 22:05:03,
+assets/setuserenv.vbs,ef93d14,Noel Hibbard,Typo when setting NVM_SYMLINK,7,7,,,0,2019-07-07 22:28:15,
+assets/success.ico,7de073e,Corey Butler,combined updates,1,1,,,0,2024-12-29 04:23:51,
+assets/unsetuserenv.vbs,6cf92c6,Noel Hibbard,Set/Unset user environment as origional non-admin user,1,6,,,0,2019-07-07 22:05:03,
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,10,11,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,a7294e2,Ulf Jaenicke-Rößler,Make sure file handle to 'node.exe' is closed after scanning for bytes,25,27,,,0,2017-03-13 15:49:35,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,20,24,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,12,18,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,faed1f3,sayefreyadh,minor typo fixed in comments,19,19,coreybutler,7fc4a98,1,2022-05-13 21:42:15,2021-09-10 20:52:55
+src/arch/arch.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,4,9,sayefreyadh,faed1f3,0,2023-12-03 12:28:32,2022-05-13 21:42:15
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,28,35,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,1,3,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,37,39,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,36,36,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,50cef2e,Andreas Opferkuch,Fixes #252 - Need to manually remove folder on nvm uninstall  File handle when checking the architecture of the node executable was left open.,45,45,,,0,2018-05-21 16:33:17,
+src/arch/arch.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,50,50,sayefreyadh,faed1f3,0,2023-12-03 12:28:32,2022-05-13 21:42:15
+src/arch/arch.go,50cef2e,Andreas Opferkuch,Fixes #252 - Need to manually remove folder on nvm uninstall  File handle when checking the architecture of the node executable was left open.,40,40,,,0,2018-05-21 16:33:17,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,51,52,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,53,55,sayefreyadh,faed1f3,0,2023-12-03 12:28:32,2022-05-13 21:42:15
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,46,49,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,41,44,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,56,58,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,f52379f,Wojciech Sobolewski,Update arch detection.,65,65,Wojciech Sobolewski,b07894d,0,2023-12-04 12:59:01,2023-12-03 12:28:32
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,61,64,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,ee38544,Romuald R.,Updated arch recognition for Windows 8.1,60,60,,,0,2015-03-14 19:15:34,
+src/arch/arch.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,67,69,sayefreyadh,faed1f3,0,2023-12-03 12:28:32,2022-05-13 21:42:15
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,59,59,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,f52379f,Wojciech Sobolewski,Update arch detection.,70,70,Wojciech Sobolewski,b07894d,0,2023-12-04 12:59:01,2023-12-03 12:28:32
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,66,66,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,71,71,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,74,74,,,0,2014-10-02 22:47:33,
+src/arch/arch.go,f52379f,Wojciech Sobolewski,Update arch detection.,72,73,Wojciech Sobolewski,b07894d,0,2023-12-04 12:59:01,2023-12-03 12:28:32
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,7,19,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,20,24,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,25,26,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,4,6,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,27,28,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1,3,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,30,34,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,29,29,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,35,35,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,44,59,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,43,43,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,60,60,,,0,2023-02-24 18:31:57,
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,61,72,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/encoding/encoding.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,36,42,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,3,10,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,28,28,,,0,2014-10-02 22:47:33,
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,1,2,,,0,2014-10-02 22:47:33,
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,20,20,,,0,2014-10-02 22:47:33,
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,15,19,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,21,27,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,29,36,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,11,14,,,0,2014-10-02 22:47:33,
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,38,47,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,48,48,,,0,2014-10-02 22:47:33,
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,37,37,,,0,2014-10-02 22:47:33,
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,60,62,,,0,2014-10-02 22:47:33,
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,49,59,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,68,68,,,0,2014-10-02 22:47:33,
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,63,67,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,75,77,,,0,2014-10-02 22:47:33,
+src/file/file.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,80,80,,,0,2014-10-02 22:47:33,
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,78,79,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/file/file.go,c1a6337,Corey Butler,prevent invalid zip file from exracting files to arbitrary locations.,69,74,coreybutler,7fc4a98,0,2023-04-27 16:31:01,2021-09-10 20:52:55
+src/author/bridge.go,54e1a77,Corey Butler,"Resolved terminal FOUC, closes #1196. Added debugging for author-nvm bridge.",49,52,Corey Butler,7de073e,0,2024-12-29 21:01:23,2024-12-29 04:23:51
+src/author/bridge.go,7de073e,Corey Butler,combined updates,1,48,,,0,2024-12-29 04:23:51,
+src/author/bridge.go,7de073e,Corey Butler,combined updates,53,106,,,0,2024-12-29 04:23:51,
+src/manifest.json,7de073e,Corey Butler,combined updates,4,35,,,0,2024-12-29 04:23:51,
+src/manifest.json,c059022,Corey Butler,version bump,3,3,Corey Butler,54e1a77,0,2025-01-01 03:02:10,2024-12-29 21:01:23
+src/manifest.json,7de073e,Corey Butler,combined updates,1,2,,,0,2024-12-29 04:23:51,
+assets/buildtools/SetupLdr.e32,ec0e731,Corey Butler,Added build script,712,721,,,0,2014-10-04 17:50:56,
+assets/buildtools/SetupLdr.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,1,711,,,1,2021-02-12 11:59:33,
+assets/buildtools/SetupLdr.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,722,2651,,,1,2021-02-12 11:59:33,
+src/go.sum,7de073e,Corey Butler,combined updates,1,2,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,7fc4a98,coreybutler,Refactor to support Go modules,3,4,,,0,2021-09-10 20:52:55,
+src/go.sum,7fc4a98,coreybutler,Refactor to support Go modules,19,20,,,0,2021-09-10 20:52:55,
+src/go.sum,dfa2e5f,Corey Butler,Update dependencies,5,6,coreybutler,9f93b4c,0,2022-05-28 14:58:54,2021-09-11 03:45:54
+src/go.sum,3f0dba1,Corey Butler,Updated go-where dependency and cleaned up debug output.,7,8,Corey Butler,9dff814,0,2023-04-13 03:28:01,2023-04-13 01:40:26
+src/go.sum,7de073e,Corey Butler,combined updates,21,24,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,7fc4a98,coreybutler,Refactor to support Go modules,25,26,,,0,2021-09-10 20:52:55,
+src/go.sum,7de073e,Corey Butler,combined updates,9,18,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",36,36,,,0,2021-09-11 03:45:54,
+src/go.sum,7de073e,Corey Butler,combined updates,27,30,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,7de073e,Corey Butler,combined updates,37,37,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,7de073e,Corey Butler,combined updates,33,35,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",38,39,,,0,2021-09-11 03:45:54,
+src/go.sum,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,31,32,coreybutler,7fc4a98,0,2023-02-24 18:31:57,2021-09-10 20:52:55
+src/go.sum,7de073e,Corey Butler,combined updates,40,41,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,7de073e,Corey Butler,combined updates,49,50,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",42,48,,,0,2021-09-11 03:45:54,
+src/go.sum,7de073e,Corey Butler,combined updates,57,59,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.sum,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",51,56,,,0,2021-09-11 03:45:54,
+src/go.mod,7fc4a98,coreybutler,Refactor to support Go modules,1,2,,,0,2021-09-10 20:52:55,
+src/go.mod,7fc4a98,coreybutler,Refactor to support Go modules,4,5,,,0,2021-09-10 20:52:55,
+src/go.mod,dfa2e5f,Corey Butler,Update dependencies,3,3,Corey Butler,a7f30f5,0,2022-05-28 14:58:54,2022-02-01 19:33:47
+src/go.mod,dfa2e5f,Corey Butler,Update dependencies,6,7,Corey Butler,a7f30f5,0,2022-05-28 14:58:54,2022-02-01 19:33:47
+src/go.mod,7de073e,Corey Butler,combined updates,9,11,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.mod,dfa2e5f,Corey Butler,Update dependencies,12,12,Corey Butler,a7f30f5,0,2022-05-28 14:58:54,2022-02-01 19:33:47
+src/go.mod,3f0dba1,Corey Butler,Updated go-where dependency and cleaned up debug output.,8,8,Corey Butler,9dff814,0,2023-04-13 03:28:01,2023-04-13 01:40:26
+src/go.mod,9dff814,Corey Butler,Added extra debug details.,13,13,Corey Butler,b54163c,0,2023-04-13 01:40:26,2023-04-11 17:53:34
+src/go.mod,7fc4a98,coreybutler,Refactor to support Go modules,15,15,,,0,2021-09-10 20:52:55,
+src/go.mod,7de073e,Corey Butler,combined updates,14,14,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.mod,51c3b17,Corey Butler,Added upgrade and reinstall commands,17,17,Corey Butler,7af9934,0,2024-11-18 18:10:33,2023-11-22 16:41:38
+src/go.mod,dfa2e5f,Corey Butler,Update dependencies,16,16,,,0,2022-05-28 14:58:54,
+src/go.mod,7de073e,Corey Butler,combined updates,22,24,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.mod,7de073e,Corey Butler,combined updates,18,20,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/go.mod,51c3b17,Corey Butler,Added upgrade and reinstall commands,25,25,,,0,2024-11-18 18:10:33,
+src/go.mod,51c3b17,Corey Butler,Added upgrade and reinstall commands,21,21,,,0,2024-11-18 18:10:33,
+src/upgrade/check.go,7de073e,Corey Butler,combined updates,1,198,,,0,2024-12-29 04:23:51,
+src/upgrade/notification.go,7de073e,Corey Butler,combined updates,1,69,,,0,2024-12-29 04:23:51,
+src/utility/logging.go,a9e2aeb,Corey Butler,"Added verbose debugging capability, per issue #1198",1,78,,,1,2024-12-30 22:24:06,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,6,9,,,0,2021-09-10 20:52:55,
+src/node/node.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,1,2,,,0,2014-10-02 22:47:33,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,3,4,,,0,2021-09-10 20:52:55,
+src/node/node.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,5,5,Shengyuan Ye,5328398,1,2023-11-22 16:41:38,2023-09-20 01:49:57
+src/node/node.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,10,10,Shengyuan Ye,5328398,1,2023-11-22 16:41:38,2023-09-20 01:49:57
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,11,16,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,23,36,,,0,2021-09-10 20:52:55,
+src/node/node.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,17,22,,,0,2014-10-02 22:47:33,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,39,48,,,0,2021-09-10 20:52:55,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,75,76,,,0,2014-10-07 20:57:09,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,86,87,,,0,2014-10-07 20:57:09,
+src/node/node.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,74,74,,,0,2014-10-02 22:47:33,
+src/node/node.go,54dab4e,Corey Butler,Refactored. Added 32/64-bit switching,49,51,,,0,2014-10-02 22:47:33,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,52,73,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,77,85,,,0,2021-09-10 20:52:55,
+src/node/node.go,7de073e,Corey Butler,combined updates,37,38,Corey Butler,7af9934,0,2024-12-29 04:23:51,2023-11-22 16:41:38
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,97,97,,,0,2014-10-07 20:57:09,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,100,100,,,0,2017-05-31 14:53:52,
+src/node/node.go,5328398,Shengyuan Ye,Modified folder detection code against #1031,102,102,coreybutler,7fc4a98,0,2023-09-20 01:49:57,2021-09-10 20:52:55
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,103,103,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,88,96,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,98,99,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,104,104,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,101,101,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,105,107,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,108,108,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,109,112,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,113,113,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,114,114,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,117,117,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,116,116,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,115,115,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,118,120,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,123,123,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,124,124,,,0,2021-09-10 20:52:55,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,121,121,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,122,122,,,0,2021-09-10 20:52:55,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,125,128,,,0,2014-10-07 20:57:09,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,129,129,,,0,2017-05-31 14:53:52,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,130,130,,,0,2014-10-07 20:57:09,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,131,131,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,135,135,,,0,2021-09-10 20:52:55,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,132,132,,,0,2014-10-07 20:57:09,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,134,134,,,0,2014-10-07 20:57:09,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,133,133,,,0,2017-05-31 14:53:52,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,136,136,,,0,2014-10-07 20:57:09,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,138,138,,,0,2014-10-07 20:57:09,
+src/node/node.go,af79f5c,Corey Butler,Sort the output of installed versions using new semver library. Fixes #262.,137,137,,,0,2017-05-31 14:53:52,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,146,152,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,139,141,,,0,2021-09-10 20:52:55,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,142,143,,,0,2014-10-07 20:57:09,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",144,145,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",153,156,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",167,167,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",160,160,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,161,162,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,157,159,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",163,163,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",170,173,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,168,169,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,164,166,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,174,176,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",179,179,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",177,177,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,178,178,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,180,182,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",183,183,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,184,184,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",185,188,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",198,198,,,0,2016-07-02 00:34:56,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",192,192,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,193,193,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,189,191,,,0,2021-09-10 20:52:55,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,195,197,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",194,194,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,199,199,,,0,2021-09-10 20:52:55,
+src/node/node.go,7a45443,Corey Butler,"Cleaned up PR's, added formatting for ls, updated installer to 1.1.1",200,203,,,0,2016-07-02 00:34:56,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,204,212,,,0,2021-09-10 20:52:55,
+src/node/node.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,218,221,Shengyuan Ye,5328398,1,2023-11-22 16:41:38,2023-09-20 01:49:57
+src/node/node.go,12c9aa3,Corey Butler,added better error message for non-existant versions,225,225,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,222,224,,,0,2021-09-10 20:52:55,
+src/node/node.go,12c9aa3,Corey Butler,added better error message for non-existant versions,213,217,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/node/node.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,226,229,Shengyuan Ye,5328398,1,2023-11-22 16:41:38,2023-09-20 01:49:57
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,230,231,,,0,2021-09-10 20:52:55,
+src/node/node.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,251,251,,,0,2014-10-07 20:57:09,
+src/node/node.go,7fc4a98,coreybutler,Refactor to support Go modules,232,250,,,0,2021-09-10 20:52:55,
+src/upgrade/register.go,7de073e,Corey Butler,combined updates,1,211,,,0,2024-12-29 04:23:51,
+src/utility/rename.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,1,117,,,0,2025-01-01 02:52:22,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,1,7,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,12,14,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,25,27,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,28,30,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,15,20,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,21,24,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,8,11,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,36,39,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,31,35,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,40,59,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,60,63,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,65,68,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,69,69,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,80,86,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,75,78,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,79,79,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,64,64,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,74,74,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,70,73,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,87,138,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,139,142,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,143,169,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,175,178,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,284,287,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,170,173,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,288,290,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,174,174,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,179,283,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,291,294,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,318,321,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,322,322,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,323,329,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,359,361,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,351,354,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,355,358,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,330,350,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,295,317,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,7de073e,Corey Butler,combined updates,362,364,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,365,367,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,368,368,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,369,372,,,0,2014-10-07 20:57:09,
+src/semver/semver.go,7de073e,Corey Butler,combined updates,373,379,sayefreyadh,faed1f3,0,2024-12-29 04:23:51,2022-05-13 21:42:15
+src/semver/semver.go,d69b29a,Corey Butler,Added support for listing last 15 releases available. Closes #11.,380,380,,,0,2014-10-07 20:57:09,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,11,11,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,13,14,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,16,17,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,15,15,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,12,12,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1,9,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,18,18,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,10,10,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,25,28,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,19,23,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,31,44,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,75,80,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,29,30,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,24,24,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,67,74,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,81,87,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,45,66,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,88,89,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,90,90,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,91,91,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,97,97,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,92,96,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,105,130,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,131,147,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,148,154,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,208,214,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,155,207,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,98,104,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,215,215,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,216,268,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,271,271,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,269,270,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,288,290,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,273,278,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,272,272,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,292,294,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,291,291,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,279,287,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,296,299,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,295,295,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,302,304,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,305,347,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,348,364,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,370,370,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,365,365,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,366,369,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,300,301,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,372,372,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,371,371,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,381,384,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,373,373,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,380,380,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,374,379,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,385,386,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,388,389,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,387,387,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,390,390,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,409,410,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,391,407,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,411,411,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,408,408,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,412,416,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,423,424,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,418,421,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,417,417,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,428,431,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,426,426,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,433,435,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,425,425,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,422,422,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,427,427,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,432,432,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,436,437,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,438,442,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,444,463,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,443,443,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,465,468,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,476,491,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,470,474,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,493,495,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,464,464,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,469,469,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,492,492,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,496,503,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,475,475,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,508,508,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,504,507,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,514,517,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,513,513,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,518,552,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,553,556,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,557,557,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,509,512,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,558,559,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,560,560,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,573,575,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,561,571,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,578,590,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,576,577,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,592,663,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,572,572,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,664,664,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,670,670,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,665,669,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,671,678,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,679,679,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,591,591,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,680,685,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,7de073e,Corey Butler,combined updates,687,687,,,0,2024-12-29 04:23:51,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,688,710,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,686,686,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,728,728,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,711,721,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,722,727,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,729,734,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,735,736,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,737,738,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,748,748,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,764,765,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,746,747,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,739,739,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,808,1078,,,0,2024-11-18 18:10:33,
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,766,807,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,749,763,Corey Butler,7de073e,1,2024-12-30 22:22:44,2024-12-29 04:23:51
+src/upgrade/upgrade.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,740,745,,,0,2024-11-18 18:10:33,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,3,7,,,0,2021-09-10 20:52:55,
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,1,2,,,1,2014-10-03 04:57:06,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,15,15,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,9,13,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,14,14,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,17,17,,,0,2021-09-10 20:52:55,
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",16,16,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,8,8,秋来冬风,a2cea8f,0,2023-11-07 18:22:12,2023-03-19 05:04:07
+src/web/web.go,8889f64,ccccly,Add cleanup when download is interrupted by user.,18,19,,,0,2017-03-05 08:44:37,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,21,22,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",20,20,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",23,26,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,27,28,,,1,2014-10-03 04:57:06,
+src/web/web.go,7de073e,Corey Butler,combined updates,29,29,Corey Butler,096e0a2,0,2024-12-29 04:23:51,2024-11-23 03:48:27
+src/web/web.go,5c8ace2,lijie371,add npm/nodejs proxy support,31,31,,,0,2016-05-11 02:22:18,
+src/web/web.go,404bb7b,Corey Butler,Added proxy support. Closes issue #5,30,30,,,1,2014-10-03 18:41:16,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,33,33,,,0,2021-09-10 20:52:55,
+src/web/web.go,256d694,Corey Butler,Updated URLs to support npm >= 6.2.0. Applied several PR's. Bumped to v1.1.7,32,32,,,0,2018-08-02 04:45:30,
+src/web/web.go,256d694,Corey Butler,Updated URLs to support npm >= 6.2.0. Applied several PR's. Bumped to v1.1.7,34,34,,,0,2018-08-02 04:45:30,
+src/web/web.go,749fef0,coreybutler,refactored PR for fixing mirror URLs,60,62,,,0,2021-09-11 06:15:47,
+src/web/web.go,404bb7b,Corey Butler,Added proxy support. Closes issue #5,35,35,,,1,2014-10-03 18:41:16,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,54,59,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,45,50,,,0,2021-09-10 20:52:55,
+src/web/web.go,404bb7b,Corey Butler,Added proxy support. Closes issue #5,43,44,,,1,2014-10-03 18:41:16,
+src/web/web.go,749fef0,coreybutler,refactored PR for fixing mirror URLs,51,53,,,0,2021-09-11 06:15:47,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,36,42,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,63,63,,,0,2021-09-10 20:52:55,
+src/web/web.go,39a1bea,lijie371,add node_mirror and npm_mirror config,64,65,,,0,2016-04-07 11:34:31,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,66,67,,,0,2021-09-10 20:52:55,
+src/web/web.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,74,101,秋来冬风,a2cea8f,0,2023-11-07 18:22:12,2023-03-19 05:04:07
+src/web/web.go,9366b98,Corey Butler,Add checks for network connectivity,102,122,coreybutler,9f93b4c,0,2023-02-14 01:41:21,2021-09-11 03:45:54
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,70,71,,,0,2021-09-10 20:52:55,
+src/web/web.go,39a1bea,lijie371,add node_mirror and npm_mirror config,68,69,,,0,2016-04-07 11:34:31,
+src/web/web.go,8889f64,ccccly,Add cleanup when download is interrupted by user.,123,123,,,0,2017-03-05 08:44:37,
+src/web/web.go,39a1bea,lijie371,add node_mirror and npm_mirror config,72,73,,,0,2016-04-07 11:34:31,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,124,126,,,0,2021-09-10 20:52:55,
+src/web/web.go,a15c774,coreybutler,refactored Download abort PR (upon failed download),127,127,,,0,2021-09-11 06:22:59,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,140,141,,,0,2021-09-10 20:52:55,
+src/web/web.go,7de073e,Corey Butler,combined updates,137,137,Corey Butler,096e0a2,0,2024-12-29 04:23:51,2024-11-23 03:48:27
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",131,136,coreybutler,9f93b4c,1,2022-05-28 15:03:06,2021-09-11 03:45:54
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",138,139,coreybutler,9f93b4c,1,2022-05-28 15:03:06,2021-09-11 03:45:54
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,143,145,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,128,130,,,0,2021-09-10 20:52:55,
+src/web/web.go,8889f64,ccccly,Add cleanup when download is interrupted by user.,146,148,,,0,2017-03-05 08:44:37,
+src/web/web.go,a2cea8f,秋来冬风,"Avoid panic after connection failure Download function, when client.Do returns err= Nil, return false after printing the error message to avoid panic",142,142,coreybutler,9f93b4c,1,2023-03-19 05:04:07,2021-09-11 03:45:54
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",149,149,coreybutler,9f93b4c,1,2022-05-28 15:03:06,2021-09-11 03:45:54
+src/web/web.go,8889f64,ccccly,Add cleanup when download is interrupted by user.,150,162,,,0,2017-03-05 08:44:37,
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",175,205,coreybutler,7fc4a98,1,2022-05-28 15:03:06,2021-09-10 20:52:55
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,174,174,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,206,208,,,0,2021-09-10 20:52:55,
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",163,171,coreybutler,7fc4a98,1,2022-05-28 15:03:06,2021-09-10 20:52:55
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",209,209,coreybutler,7fc4a98,1,2022-05-28 15:03:06,2021-09-10 20:52:55
+src/web/web.go,7de073e,Corey Butler,combined updates,172,172,Corey Butler,096e0a2,0,2024-12-29 04:23:51,2024-11-23 03:48:27
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,210,215,,,0,2021-09-10 20:52:55,
+src/web/web.go,e050a10,Corey Butler,"Added HTTP request exception handling to clearly identify bad URLs. A patch was also applied to catch a bad npm URL for npm v6.14.17, which returns multiple results (status code 300). Resolves #766",173,173,,,1,2022-05-28 15:03:06,
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,216,217,,,1,2014-10-03 04:57:06,
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",218,218,,,0,2021-09-11 03:45:54,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,219,219,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,238,243,Corey Butler,7af9934,0,2023-12-03 12:28:32,2023-11-22 16:41:38
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,220,237,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,247,247,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,248,249,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,250,254,,,0,2021-09-10 20:52:55,
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",246,246,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",255,257,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,244,245,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,258,261,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,262,262,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",263,264,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,266,266,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,284,284,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",267,274,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",285,286,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",276,283,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,275,275,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,265,265,,,0,2022-10-31 23:17:10,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,287,287,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",293,297,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",288,291,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,298,308,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",309,309,coreybutler,7fc4a98,0,2021-09-11 03:45:54,2021-09-10 20:52:55
+src/web/web.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,310,310,coreybutler,7fc4a98,0,2022-10-31 23:17:10,2021-09-10 20:52:55
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,314,317,,,0,2021-09-10 20:52:55,
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,318,320,,,1,2014-10-03 04:57:06,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,311,312,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,313,313,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,292,292,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,322,322,,,0,2021-09-10 20:52:55,
+src/web/web.go,a1f6d41,Eddie Huang,use new temp directory for npm  download and unzip npm in a temp directory under the nvm root. fix issue #46,321,321,,,1,2015-03-19 10:02:04,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,324,326,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,327,328,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,323,323,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,329,341,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,342,342,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,347,348,,,0,2021-09-10 20:52:55,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,343,345,,,0,2021-09-10 20:52:55,
+src/web/web.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,346,346,Corey Butler,12c9aa3,1,2024-12-30 22:22:44,2024-12-29 15:31:09
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,349,350,,,1,2014-10-03 04:57:06,
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,355,355,,,0,2021-09-10 20:52:55,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,358,358,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,352,353,,,0,2021-09-10 20:52:55,
+src/web/web.go,8d2af15,Corey Butler,Remove unreacheable code. Closes PR #926.,356,356,coreybutler,7fc4a98,0,2023-02-14 01:44:34,2021-09-10 20:52:55
+src/web/web.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,359,360,coreybutler,7fc4a98,1,2023-11-22 16:41:38,2021-09-10 20:52:55
+src/web/web.go,7af9934,Corey Butler,Add error messages for failed version lookups (when nodejs.org returns partial/no results. Resolves #1064.,357,357,coreybutler,7fc4a98,1,2023-11-22 16:41:38,2021-09-10 20:52:55
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,351,351,,,1,2024-12-29 15:31:09,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,365,365,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/web/web.go,8d2af15,Corey Butler,Remove unreacheable code. Closes PR #926.,366,367,coreybutler,7fc4a98,0,2023-02-14 01:44:34,2021-09-10 20:52:55
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,369,370,,,1,2014-10-03 04:57:06,
+src/web/web.go,0bc5644,Patrick Sullivan,fix: node v4 support works fix: 'install latest' works fix: current version arch works,371,371,,,1,2015-09-30 18:46:02,
+src/web/web.go,8d2af15,Corey Butler,Remove unreacheable code. Closes PR #926.,361,364,coreybutler,7fc4a98,0,2023-02-14 01:44:34,2021-09-10 20:52:55
+src/web/web.go,0bc5644,Patrick Sullivan,fix: node v4 support works fix: 'install latest' works fix: current version arch works,386,387,,,1,2015-09-30 18:46:02,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,354,354,,,1,2024-12-29 15:31:09,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,368,368,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,372,385,,,0,2021-09-10 20:52:55,
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,388,392,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,54a0243,Wojciech Sobolewski,Update version check logic.,393,393,coreybutler,7fc4a98,0,2024-08-01 17:44:11,2021-09-10 20:52:55
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,394,396,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,398,400,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,402,403,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",409,410,,,0,2021-09-11 03:45:54,
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",414,417,,,0,2021-09-11 03:45:54,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,397,397,coreybutler,7fc4a98,1,2024-12-29 15:31:09,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",420,435,,,0,2021-09-11 03:45:54,
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,405,408,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,418,418,,,0,2021-09-10 20:52:55,
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,401,401,coreybutler,7fc4a98,1,2024-12-29 15:31:09,2021-09-10 20:52:55
+src/web/web.go,12c9aa3,Corey Butler,added better error message for non-existant versions,404,404,coreybutler,7fc4a98,1,2024-12-29 15:31:09,2021-09-10 20:52:55
+src/web/web.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,411,413,coreybutler,7fc4a98,0,2023-12-03 12:28:32,2021-09-10 20:52:55
+src/web/web.go,7fc4a98,coreybutler,Refactor to support Go modules,436,441,,,0,2021-09-10 20:52:55,
+src/web/web.go,75f2200,Stefan Petrović,Fixed double slash bug that caused versions older than 16.9.0 to have incorrect URLs.,419,419,coreybutler,7fc4a98,1,2024-11-08 10:11:57,2021-09-10 20:52:55
+src/web/web.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",443,506,,,0,2021-09-11 03:45:54,
+src/web/web.go,dbb7a10,Corey Butler,Fixed version architecture detection,442,442,,,1,2014-10-03 04:57:06,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,276,276,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,1,275,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,5601,5901,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,5599,5600,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,5903,5978,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,277,5598,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,5979,5979,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,5902,5902,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,5980,5988,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,5989,5989,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,5990,5992,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6293,6296,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,5994,6089,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,5993,5993,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6090,6091,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6230,6230,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6231,6292,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6092,6229,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6297,6349,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6374,6374,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6375,6376,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6350,6373,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6378,6380,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6382,6384,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6381,6381,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6385,6385,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6377,6377,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6386,6391,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6392,6392,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,6393,6393,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,7100,7100,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,6394,7099,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8200,8202,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,7101,8199,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8203,8319,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,8417,8418,,,0,2018-08-08 05:49:24,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8398,8398,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8321,8397,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8399,8416,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,438ac25,Corey Butler,Updated build process. Added code signing and MD5 checksums for distro files.,8320,8320,,,0,2018-08-08 05:49:24,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8419,8426,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8427,8429,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8430,8430,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8431,8431,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8432,8432,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8435,8436,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8441,8441,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8434,8434,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8438,8440,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8433,8433,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8437,8437,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8442,8443,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8445,8447,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8471,8471,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8444,8444,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8456,8456,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8448,8448,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8457,8470,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8449,8455,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8472,8473,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8474,8474,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8475,8477,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8482,8482,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8479,8479,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8497,8497,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8481,8481,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8478,8478,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8480,8480,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8483,8496,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8498,8500,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8502,8519,,,1,2021-02-12 11:59:33,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8520,8520,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,ec0e731,Corey Butler,Added build script,8501,8501,,,0,2014-10-04 17:50:56,
+assets/buildtools/Setup.e32,83562b3,taaem,Fix Buildtools for 64bit systems by updating binaries,8521,8572,,,1,2021-02-12 11:59:33,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",6,7,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,28cde6c,Corey Butler,Updated installer metadata (Author Software Inc),5,5,Wojciech Sobolewski,5167c80,0,2024-11-18 18:17:09,2023-12-04 09:16:06
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",10,14,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,4b4a072,Yi-Ru Lan,Update nvm.iss,9,9,coreybutler,f792f4e,0,2022-05-04 10:46:43,2021-12-10 18:36:36
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",1,3,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",15,15,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,7de073e,Corey Butler,combined updates,8,8,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,7de073e,Corey Butler,combined updates,4,4,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,584a1d9,coreybutler,Updated installer/license,16,17,Noel Hibbard,a9294d8,0,2021-09-11 03:45:19,2019-07-19 18:17:54
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",19,19,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,4b4a072,Yi-Ru Lan,Update nvm.iss,18,18,coreybutler,f792f4e,0,2022-05-04 10:46:43,2021-12-10 18:36:36
+nvm.iss,459db61,Pavel Snítil,Update inno setup config to correctly set version,20,20,Yi-Ru Lan,4b4a072,0,2022-10-18 08:24:14,2022-05-04 10:46:43
+nvm.iss,7de073e,Corey Butler,combined updates,21,21,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,459db61,Pavel Snítil,Update inno setup config to correctly set version,22,22,Yi-Ru Lan,4b4a072,0,2022-10-18 08:24:14,2022-05-04 10:46:43
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,27,27,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,459db61,Pavel Snítil,Update inno setup config to correctly set version,32,32,Yi-Ru Lan,4b4a072,0,2022-10-18 08:24:14,2022-05-04 10:46:43
+nvm.iss,7de073e,Corey Butler,combined updates,39,39,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",23,26,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",28,31,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",33,38,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,7de073e,Corey Butler,combined updates,41,44,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,40,40,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,7de073e,Corey Butler,combined updates,46,46,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,4802c79,Corey Butler,Added program details. Closes #897.,47,48,Corey Butler,f31dd2a,0,2022-12-09 13:51:03,2022-10-31 23:55:01
+nvm.iss,28cde6c,Corey Butler,Updated installer metadata (Author Software Inc),45,45,Wojciech Sobolewski,5167c80,0,2024-11-18 18:17:09,2023-12-04 09:16:06
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",58,62,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,de4ee40,Corey Butler,reconciled install script discrepancies,57,57,Wojciech Sobolewski,5167c80,0,2024-12-29 15:42:26,2023-12-04 09:16:06
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",49,56,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",63,64,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",73,77,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",70,72,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",69,69,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,7de073e,Corey Butler,combined updates,65,68,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,7de073e,Corey Butler,combined updates,103,103,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",78,78,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",84,102,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,fa811e0,Corey Butler,Updated build process.,124,132,,,0,2023-04-11 17:58:48,
+nvm.iss,7de073e,Corey Butler,combined updates,79,83,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",104,123,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",214,242,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",133,213,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",246,247,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",243,245,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",248,250,Corey Butler,438ac25,0,2018-08-12 00:59:39,2018-08-08 05:49:24
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",251,307,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",332,359,Corey Butler,28cde6c,0,2024-11-22 05:39:51,2024-11-18 18:17:09
+nvm.iss,7de073e,Corey Butler,combined updates,308,331,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,7de073e,Corey Butler,combined updates,360,360,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,7de073e,Corey Butler,combined updates,364,367,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,fa811e0,Corey Butler,Updated build process.,406,411,,,0,2023-04-11 17:58:48,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",361,363,Corey Butler,f31dd2a,0,2024-11-22 05:39:51,2022-10-31 23:55:01
+nvm.iss,fa811e0,Corey Butler,Updated build process.,423,431,,,0,2023-04-11 17:58:48,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",368,383,Corey Butler,f31dd2a,0,2024-11-22 05:39:51,2022-10-31 23:55:01
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,440,440,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,442,455,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",384,405,,,0,2018-08-12 00:59:39,
+nvm.iss,22a43ef,Corey Butler,Updated version,465,465,,,0,2022-10-31 23:58:04,
+nvm.iss,fa811e0,Corey Butler,Updated build process.,463,464,,,0,2023-04-11 17:58:48,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",412,422,,,0,2018-08-12 00:59:39,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",432,439,,,0,2018-08-12 00:59:39,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",456,462,,,0,2018-08-12 00:59:39,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",441,441,,,0,2018-08-12 00:59:39,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",467,481,,,0,2018-08-12 00:59:39,
+nvm.iss,7de073e,Corey Butler,combined updates,496,496,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,fa811e0,Corey Butler,Updated build process.,482,494,,,0,2023-04-11 17:58:48,
+nvm.iss,7de073e,Corey Butler,combined updates,499,499,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,7de073e,Corey Butler,combined updates,501,501,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,4b4a072,Yi-Ru Lan,Update nvm.iss,466,466,,,0,2022-05-04 10:46:43,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",495,495,,,0,2018-08-12 00:59:39,
+nvm.iss,7de073e,Corey Butler,combined updates,503,505,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",497,498,,,0,2018-08-12 00:59:39,
+nvm.iss,7de073e,Corey Butler,combined updates,507,509,Corey Butler,f31dd2a,0,2024-12-29 04:23:51,2022-10-31 23:55:01
+nvm.iss,7de073e,Corey Butler,combined updates,511,513,Corey Butler,f31dd2a,0,2024-12-29 04:23:51,2022-10-31 23:55:01
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",500,500,,,0,2024-11-22 05:39:51,
+nvm.iss,7de073e,Corey Butler,combined updates,515,517,Corey Butler,f31dd2a,0,2024-12-29 04:23:51,2022-10-31 23:55:01
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",502,502,,,0,2024-11-22 05:39:51,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",514,514,,,0,2024-11-22 05:39:51,
+nvm.iss,7de073e,Corey Butler,combined updates,536,545,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",521,535,,,0,2018-08-12 00:59:39,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",506,506,,,0,2024-11-22 05:39:51,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",510,510,,,0,2024-11-22 05:39:51,
+nvm.iss,7de073e,Corey Butler,combined updates,547,549,Corey Butler,6f39389,0,2024-12-29 04:23:51,2024-11-22 05:39:51
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,550,550,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",546,546,,,0,2018-08-12 00:59:39,
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,554,555,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",518,520,,,0,2024-11-22 05:39:51,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",557,557,,,0,2018-08-12 00:59:39,
+nvm.iss,c85c728,Corey Butler,Add the symlink root dir if it does not exist. Resolves #1198.,559,559,Corey Butler,de4ee40,0,2024-12-30 22:20:55,2024-12-29 15:42:26
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",556,556,,,0,2024-11-22 05:39:51,
+nvm.iss,dfd8e5a,Corey Butler,"Simplified build to leverage version number from generated executable.""",551,551,,,0,2018-08-12 00:59:39,
+nvm.iss,6f39389,Corey Butler,"added notifications and email capture screen, as well as better uninstall cleanup and a new app protocol",552,552,,,0,2024-11-22 05:39:51,
+nvm.iss,7de073e,Corey Butler,combined updates,558,558,,,0,2024-12-29 04:23:51,
+nvm.iss,7de073e,Corey Butler,combined updates,553,553,,,0,2024-12-29 04:23:51,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1,3,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,7,8,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,9,9,,,1,2021-09-11 06:13:13,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,4,4,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,10,11,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,5,5,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,12,12,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,6,6,Corey Butler,7646a54,1,2021-11-12 23:36:06,2021-11-12 23:07:28
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,13,13,Corey Butler,f31dd2a,0,2023-01-27 02:03:39,2022-10-31 23:55:01
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,14,17,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,18,18,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,21,21,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,19,20,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,25,25,Corey Butler,9366b98,0,2023-02-24 18:31:57,2023-02-14 01:41:21
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,22,23,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,24,24,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,28,28,Tobias Kellner,95133cb,0,2024-11-18 18:10:33,2024-08-02 18:46:51
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,29,29,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,26,27,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,30,31,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,5e45db8,coreybutler,Update support for nvm current,32,32,,,0,2021-09-11 04:59:52,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,34,34,Corey Butler,9366b98,0,2023-02-24 18:31:57,2023-02-14 01:41:21
+src/nvm.go,7de073e,Corey Butler,combined updates,33,33,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,36,36,Corey Butler,9366b98,0,2023-02-24 18:31:57,2023-02-14 01:41:21
+src/nvm.go,7de073e,Corey Butler,combined updates,37,37,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,35,35,Tobias Kellner,95133cb,0,2024-11-18 18:10:33,2024-08-02 18:46:51
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,38,38,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",41,42,,,1,2018-08-03 16:55:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,43,44,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",45,46,,,1,2018-08-03 16:55:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",60,62,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,47,56,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,59,59,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,63,63,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,64,64,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",57,58,,,1,2018-08-03 16:55:12,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,39,40,a059225,9a6e372,0,2023-01-27 02:03:39,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,65,65,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,67,72,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,75,175,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",73,74,,,1,2018-08-03 16:55:12,
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,176,183,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,187,187,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,188,191,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,184,185,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",186,186,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,192,196,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,198,205,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,197,197,Eng Zer Jun,683357f,0,2023-12-03 12:28:32,2023-10-10 10:53:32
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,206,207,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,212,213,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,9c2b3b4,Corey Butler,Add aliases/flags for version. Closes #855.,208,208,Vladimir Nemergut,9f3af8a,0,2022-10-31 23:18:58,2022-04-21 19:30:48
+src/nvm.go,9f93b4c,coreybutler,"Convert to Go modules, add v.1.1.8 notes",209,211,a059225,9a6e372,0,2021-09-11 03:45:54,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,214,215,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,220,221,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,222,223,Eng Zer Jun,683357f,0,2024-11-18 18:10:33,2023-10-10 10:53:32
+src/nvm.go,7de073e,Corey Butler,combined updates,218,219,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,228,228,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,216,217,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,231,241,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,226,227,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,229,230,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,244,245,0liver,3cbd0f7,0,2022-10-31 23:17:10,2022-01-17 12:01:27
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,242,242,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,66,66,a059225,9a6e372,0,2023-12-03 12:28:32,2021-03-09 19:40:32
+src/nvm.go,9c2b3b4,Corey Butler,Add aliases/flags for version. Closes #855.,248,251,0liver,3cbd0f7,0,2022-10-31 23:18:58,2022-01-17 12:01:27
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,246,247,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,254,256,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,5e45db8,coreybutler,Update support for nvm current,252,253,,,0,2021-09-11 04:59:52,
+src/nvm.go,7de073e,Corey Butler,combined updates,243,243,Wojciech Sobolewski,b07894d,0,2024-12-29 04:23:51,2023-12-03 12:28:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,259,275,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,5e45db8,coreybutler,Update support for nvm current,276,279,,,0,2021-09-11 04:59:52,
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,257,257,Eng Zer Jun,683357f,0,2023-12-03 12:28:32,2023-10-10 10:53:32
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",280,280,,,0,2021-09-11 05:23:10,
+src/nvm.go,5e45db8,coreybutler,Update support for nvm current,281,287,,,0,2021-09-11 04:59:52,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,288,293,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,294,294,coreybutler,f792f4e,0,2023-02-24 18:31:57,2021-12-10 18:36:36
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,304,304,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,296,301,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,295,295,coreybutler,f792f4e,0,2023-01-27 02:03:39,2021-12-10 18:36:36
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,323,324,coreybutler,7fc4a98,0,2021-12-09 19:34:12,2021-09-10 20:52:55
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,306,307,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",308,322,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,326,327,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,224,225,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,302,303,coreybutler,c8f25ce,0,2024-11-18 18:10:33,2021-12-08 21:04:09
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,330,338,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),325,325,coreybutler,7fc4a98,1,2021-12-07 23:00:12,2021-09-10 20:52:55
+src/nvm.go,3cbd0f7,0liver,Update error message when missing version argument  Also added a dots to the end of a few log messages.,340,340,coreybutler,7fc4a98,1,2022-01-17 12:01:27,2021-09-10 20:52:55
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,341,342,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,339,339,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,343,343,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",345,345,,,0,2021-09-11 05:23:10,
+src/nvm.go,98fa1e5,Corey Butler,Added support for codenames,344,344,coreybutler,7fc4a98,0,2023-01-27 03:50:16,2021-09-10 20:52:55
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,347,348,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",350,350,,,0,2021-09-11 05:23:10,
+src/nvm.go,52bd95e,coreybutler,Add 'nvm install lts' option. Closes #623. Closes #402. Closes #394.,349,349,,,0,2021-09-11 04:35:00,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,328,329,Corey Butler,7852e0c,1,2024-12-29 15:31:09,2023-01-27 02:55:03
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,258,258,a059225,9a6e372,1,2024-12-29 15:31:09,2021-03-09 19:40:32
+src/nvm.go,52bd95e,coreybutler,Add 'nvm install lts' option. Closes #623. Closes #402. Closes #394.,351,352,,,0,2021-09-11 04:35:00,
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,353,355,coreybutler,7fc4a98,1,2021-11-12 23:36:06,2021-09-10 20:52:55
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,363,365,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,366,367,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,3cbd0f7,0liver,Update error message when missing version argument  Also added a dots to the end of a few log messages.,356,356,a059225,9a6e372,1,2022-01-17 12:01:27,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,357,361,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,369,372,,,1,2021-09-11 06:13:13,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,346,346,a059225,9a6e372,0,2023-04-11 17:53:34,2021-03-09 19:40:32
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",368,368,a059225,9a6e372,0,2022-04-21 19:30:48,2021-03-09 19:40:32
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),383,383,a059225,9a6e372,1,2021-12-07 23:00:12,2021-03-09 19:40:32
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,373,373,a059225,9a6e372,0,2021-12-09 19:34:12,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,374,382,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,394,398,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,305,305,,,0,2024-12-29 04:23:51,
+src/nvm.go,7de073e,Corey Butler,combined updates,399,419,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",384,384,coreybutler,7fc4a98,0,2022-04-21 19:30:48,2021-09-10 20:52:55
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,385,393,a059225,9a6e372,0,2021-12-09 19:34:12,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,420,428,coreybutler,71097af,1,2021-11-12 23:36:06,2021-09-11 03:54:32
+src/nvm.go,7de073e,Corey Butler,combined updates,436,440,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,0f2fcac,coreybutler,Auto-expand partial versions for install command. Resolves #706.,454,454,coreybutler,71097af,0,2021-12-16 02:06:31,2021-09-11 03:54:32
+src/nvm.go,7de073e,Corey Butler,combined updates,442,453,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,455,494,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,0f2fcac,coreybutler,Auto-expand partial versions for install command. Resolves #706.,495,495,coreybutler,c8f25ce,0,2021-12-16 02:06:31,2021-12-08 21:04:09
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,441,441,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,c4a157c,coreybutler,Abstract version extraction into its own method. This will help with issue #691,514,514,a059225,9a6e372,1,2021-11-12 23:36:06,2021-03-09 19:40:32
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,517,517,,,1,2021-09-11 06:13:13,
+src/nvm.go,0f2fcac,coreybutler,Auto-expand partial versions for install command. Resolves #706.,496,496,coreybutler,c8f25ce,0,2021-12-16 02:06:31,2021-12-08 21:04:09
+src/nvm.go,7de073e,Corey Butler,combined updates,518,535,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,515,516,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,536,536,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,6e2c8da,Corey Butler,Updated error output for bad version aliases and atttempt to resolve desired alias.,429,435,a059225,9a6e372,1,2023-02-05 01:17:35,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,537,553,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,497,513,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,554,554,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,362,362,coreybutler,c8f25ce,1,2024-12-29 15:31:09,2021-12-08 21:04:09
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,568,568,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,559,567,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,555,557,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,570,570,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,569,569,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,573,573,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,624,625,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,571,572,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,626,630,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,631,631,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,574,623,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,632,636,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,644,646,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,638,643,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,637,637,Corey Butler,7852e0c,0,2023-12-03 12:28:32,2023-01-27 02:55:03
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,558,558,a059225,9a6e372,0,2023-12-03 12:28:32,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,649,651,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,647,648,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,652,655,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,656,656,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,657,660,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,661,661,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,662,668,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,678,678,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,669,669,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,682,683,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,679,681,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,670,677,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,684,702,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,704,710,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,711,711,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,703,703,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,713,713,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,714,714,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7de073e,Corey Butler,combined updates,712,712,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,715,716,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,718,718,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,719,726,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,717,717,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,727,727,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,728,735,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,736,737,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,758,763,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,757,757,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,764,765,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,738,750,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,752,756,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,751,751,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,766,771,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,772,773,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7de073e,Corey Butler,combined updates,779,779,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,774,776,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,787,787,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,780,780,a059225,9a6e372,0,2021-09-10 20:52:55,2021-03-09 19:40:32
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,777,778,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,792,792,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7de073e,Corey Butler,combined updates,788,791,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,781,786,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,797,797,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,793,796,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,801,813,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,798,798,,,0,2021-09-10 20:52:55,
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,800,800,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7de073e,Corey Butler,combined updates,799,799,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,814,814,,,0,2021-09-10 20:52:55,
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,815,815,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,835,836,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,816,834,Tobias Kellner,95133cb,0,2024-12-29 04:23:51,2024-08-02 18:46:51
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,840,840,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,837,837,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/nvm.go,7de073e,Corey Butler,combined updates,841,843,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/nvm.go,7de073e,Corey Butler,combined updates,839,839,Corey Butler,51c3b17,0,2024-12-29 04:23:51,2024-11-18 18:10:33
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",894,894,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,838,838,,,0,2021-09-10 20:52:55,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,879,893,Wojciech Sobolewski,b07894d,0,2024-11-18 18:10:33,2023-12-03 12:28:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",896,898,,,1,2018-08-03 16:55:12,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,844,877,Vladimir Nemergut,9f3af8a,0,2024-11-18 18:10:33,2022-04-21 19:30:48
+src/nvm.go,98fa1e5,Corey Butler,Added support for codenames,906,906,Corey Butler,f31dd2a,0,2023-01-27 03:50:16,2022-10-31 23:55:01
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,899,905,,,0,2021-09-10 20:52:55,
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,878,878,coreybutler,c4a157c,0,2024-11-22 05:38:04,2021-11-12 23:36:06
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,907,912,,,1,2021-09-11 06:13:13,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,914,919,,,1,2021-09-11 06:13:13,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,920,922,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,924,926,,,0,2021-09-10 20:52:55,
+src/nvm.go,3cbd0f7,0liver,Update error message when missing version argument  Also added a dots to the end of a few log messages.,913,913,,,1,2022-01-17 12:01:27,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,927,927,a059225,9a6e372,0,2022-10-31 23:17:10,2021-03-09 19:40:32
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),930,933,a059225,9a6e372,1,2021-12-07 23:00:12,2021-03-09 19:40:32
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,895,895,a059225,9a6e372,0,2024-11-18 18:10:33,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,934,945,,,0,2021-09-10 20:52:55,
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",948,948,coreybutler,71097af,0,2022-04-21 19:30:48,2021-09-11 03:54:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",946,947,,,1,2018-08-03 16:55:12,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,949,949,Vladimir Nemergut,9f3af8a,0,2022-10-31 23:17:10,2022-04-21 19:30:48
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,952,952,Vladimir Nemergut,9f3af8a,0,2023-01-27 02:03:39,2022-04-21 19:30:48
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,929,929,a059225,9a6e372,0,2022-10-31 23:17:10,2021-03-09 19:40:32
+src/nvm.go,683357f,Eng Zer Jun,"Avoid unnecessary byte/string conversion  We can use `(*regexp.Regexp).MatchString` instead of `(*regexp.Regexp).Match([]byte(...))` to avoid unnecessary `[]byte` conversions and reduce allocations.  Example benchmark:  func BenchmarkMatch(b *testing.B) { 	reg, _ := regexp.Compile(""[^0-9]"")  	for i := 0; i < b.N; i++ { 		if match := reg.Match([]byte(""v"")); !match { 			b.Fail() 		} 	} }  func BenchmarkMatchString(b *testing.B) { 	reg, _ := regexp.Compile(""[^0-9]"")  	for i := 0; i < b.N; i++ { 		if match := reg.MatchString(""v""); !match { 			b.Fail() 		} 	} }  BenchmarkMatch-16          	19712776	        65.47 ns/op	       1 B/op	       1 allocs/op BenchmarkMatchString-16    	24261463	        51.16 ns/op	       0 B/op	       0 allocs/op  Signed-off-by: Eng Zer Jun <engzerjun@gmail.com>",951,951,Corey Butler,16afa15,0,2023-10-10 10:53:32,2023-02-24 18:31:57
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,923,923,a059225,9a6e372,0,2023-12-03 12:28:32,2021-03-09 19:40:32
+src/nvm.go,98fa1e5,Corey Butler,Added support for codenames,960,967,Vladimir Nemergut,9f3af8a,0,2023-01-27 03:50:16,2022-04-21 19:30:48
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,950,950,coreybutler,71097af,0,2023-01-27 02:03:39,2021-09-11 03:54:32
+src/nvm.go,6e2c8da,Corey Butler,Updated error output for bad version aliases and atttempt to resolve desired alias.,969,969,coreybutler,71097af,1,2023-02-05 01:17:35,2021-09-11 03:54:32
+src/nvm.go,98fa1e5,Corey Butler,Added support for codenames,953,953,a059225,9a6e372,0,2023-01-27 03:50:16,2021-03-09 19:40:32
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,970,973,a059225,9a6e372,0,2023-01-27 02:03:39,2021-03-09 19:40:32
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,928,928,a059225,9a6e372,0,2024-11-22 05:38:04,2021-03-09 19:40:32
+src/nvm.go,683357f,Eng Zer Jun,"Avoid unnecessary byte/string conversion  We can use `(*regexp.Regexp).MatchString` instead of `(*regexp.Regexp).Match([]byte(...))` to avoid unnecessary `[]byte` conversions and reduce allocations.  Example benchmark:  func BenchmarkMatch(b *testing.B) { 	reg, _ := regexp.Compile(""[^0-9]"")  	for i := 0; i < b.N; i++ { 		if match := reg.Match([]byte(""v"")); !match { 			b.Fail() 		} 	} }  func BenchmarkMatchString(b *testing.B) { 	reg, _ := regexp.Compile(""[^0-9]"")  	for i := 0; i < b.N; i++ { 		if match := reg.MatchString(""v""); !match { 			b.Fail() 		} 	} }  BenchmarkMatch-16          	19712776	        65.47 ns/op	       1 B/op	       1 allocs/op BenchmarkMatchString-16    	24261463	        51.16 ns/op	       0 B/op	       0 allocs/op  Signed-off-by: Eng Zer Jun <engzerjun@gmail.com>",974,974,Corey Butler,9366b98,0,2023-10-10 10:53:32,2023-02-14 01:41:21
+src/nvm.go,7852e0c,Corey Butler,Prevent alphabetical characters only for unknown version aliases. Closes #907.,968,968,a059225,9a6e372,0,2023-01-27 02:55:03,2021-03-09 19:40:32
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,975,994,coreybutler,c4a157c,0,2022-10-31 23:17:10,2021-11-12 23:36:06
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,954,959,Vladimir Nemergut,9f3af8a,1,2024-12-29 15:31:09,2022-04-21 19:30:48
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",995,996,,,0,2022-04-21 19:30:48,
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",1004,1005,,,0,2022-04-21 19:30:48,
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,1017,1019,,,0,2021-12-09 19:34:12,
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,997,1003,,,0,2021-12-09 19:34:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1043,1043,,,1,2018-08-03 16:55:12,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1020,1042,Vladimir Nemergut,9f3af8a,0,2022-10-31 23:17:10,2022-04-21 19:30:48
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1053,1053,,,1,2018-08-03 16:55:12,
+src/nvm.go,997759e,coreybutler,Add partial version matching for using latest INSTALLED version. Resolves #683.,1006,1015,,,0,2021-12-09 19:34:12,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1044,1052,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1055,1058,,,1,2018-08-03 16:55:12,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1054,1054,Corey Butler,16afa15,0,2023-04-11 17:53:34,2023-02-24 18:31:57
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1070,1077,Eng Zer Jun,683357f,0,2024-11-22 05:38:04,2023-10-10 10:53:32
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",1016,1016,,,0,2022-04-21 19:30:48,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1059,1069,coreybutler,5751e53,0,2022-10-31 23:17:10,2021-12-07 23:00:12
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1080,1080,,,0,2021-09-11 05:23:10,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1078,1078,,,1,2021-12-07 23:00:12,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1091,1094,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,1081,1088,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,9f3af8a,Vladimir Nemergut,"Allow `nvm use` to be called with the part of the semver  For instance, the `nvm use 12` will switch to the latest installed version of 12.*. Similarly, `nvm use 12.22` will switch to the latest installed version of 12.22.*  Fixes #708",1079,1079,,,0,2022-04-21 19:30:48,
+src/nvm.go,7de073e,Corey Butler,combined updates,1096,1143,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1095,1095,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,1146,1146,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1144,1145,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1089,1090,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1147,1147,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,1148,1150,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1155,1155,,,0,2021-09-10 20:52:55,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1151,1151,,,1,2021-12-07 23:00:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,1152,1153,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,9bee6e7,Tobias Kellner,Don't perform any changes when trying to use current node version,1157,1164,Corey Butler,83a18bb,0,2025-01-02 11:10:47,2025-01-01 02:52:22
+src/nvm.go,7de073e,Corey Butler,combined updates,1165,1175,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,1177,1180,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1154,1154,,,0,2022-10-31 23:17:10,
+src/nvm.go,7de073e,Corey Butler,combined updates,1182,1182,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1156,1156,,,1,2021-12-07 23:00:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,1184,1186,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1176,1176,,,0,2022-10-31 23:17:10,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1191,1191,,,1,2021-12-07 23:00:12,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1181,1181,,,0,2022-10-31 23:17:10,
+src/nvm.go,7de073e,Corey Butler,combined updates,1188,1190,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1187,1187,,,1,2021-12-07 23:00:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1183,1183,,,1,2021-12-07 23:00:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1192,1192,,,1,2021-12-07 23:00:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1193,1193,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1232,1232,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,1194,1228,Corey Butler,a3ce311,0,2024-12-29 04:23:51,2024-11-22 05:38:04
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1229,1229,,,0,2021-09-10 20:52:55,
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,1244,1244,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,1246,1246,Corey Butler,d391b30,0,2025-01-01 02:52:22,2024-12-30 22:22:44
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,1250,1250,Corey Butler,a3ce311,0,2025-01-01 02:52:22,2024-11-22 05:38:04
+src/nvm.go,7de073e,Corey Butler,combined updates,1230,1231,Wojciech Sobolewski,b07894d,0,2024-12-29 04:23:51,2023-12-03 12:28:32
+src/nvm.go,83a18bb,Corey Butler,added custom Rename function with support across disparate hard disk volumes. Closes #1206.,1252,1252,Corey Butler,a3ce311,0,2025-01-01 02:52:22,2024-11-22 05:38:04
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1261,1262,,,1,2018-08-03 16:55:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,1251,1251,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,1253,1260,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1263,1263,Corey Butler,6e2c8da,0,2024-11-22 05:38:04,2023-02-05 01:17:35
+src/nvm.go,7de073e,Corey Butler,combined updates,1247,1249,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1271,1276,Tobias Kellner,95133cb,0,2024-11-22 05:38:04,2024-08-02 18:46:51
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1278,1278,Tobias Kellner,95133cb,0,2024-11-22 05:38:04,2024-08-02 18:46:51
+src/nvm.go,7de073e,Corey Butler,combined updates,1245,1245,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,943cae1,Corey Butler,Fixed line endings,1283,1283,,,1,2018-08-11 23:32:30,
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1281,1282,Harald Fassler,6c175fa,0,2024-11-22 05:38:04,2023-04-15 10:36:21
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1284,1287,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,1264,1270,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,7de073e,Corey Butler,combined updates,1233,1243,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,943cae1,Corey Butler,Fixed line endings,1299,1300,,,1,2018-08-11 23:32:30,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1293,1298,,,0,2021-09-10 20:52:55,
+src/nvm.go,b07894d,Wojciech Sobolewski,Merge branch 'master' of https://github.com/wsobolewski/nvm-windows,1289,1291,a059225,9a6e372,0,2023-12-03 12:28:32,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1302,1387,,,0,2021-09-10 20:52:55,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1301,1301,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1389,1389,,,0,2021-09-10 20:52:55,
+src/nvm.go,7646a54,Corey Butler,Update nvm.go  Updated link to available versions. Closes #688.,1388,1388,,,0,2021-11-12 23:07:28,
+src/nvm.go,7de073e,Corey Butler,combined updates,1279,1280,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1409,1411,,,1,2018-08-03 16:55:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1390,1392,,,1,2018-08-03 16:55:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,1277,1277,a059225,9a6e372,0,2024-12-29 04:23:51,2021-03-09 19:40:32
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1393,1408,,,0,2021-09-10 20:52:55,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1415,1415,,,1,2021-12-07 23:00:12,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1412,1412,,,0,2022-10-31 23:17:10,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1416,1417,,,0,2021-09-10 20:52:55,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1414,1414,,,0,2022-10-31 23:17:10,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1288,1288,a059225,9a6e372,1,2024-12-29 15:31:09,2021-03-09 19:40:32
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1423,1424,,,1,2018-08-03 16:55:12,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1292,1292,a059225,9a6e372,1,2024-12-29 15:31:09,2021-03-09 19:40:32
+src/nvm.go,ebdd4d9,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  Forgot some uses of exec.Command() outside of the ""use"" command.",1421,1421,,,1,2018-08-03 16:55:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1418,1420,,,1,2021-12-07 23:00:12,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1425,1439,Corey Butler,16afa15,0,2023-11-07 18:22:12,2023-02-24 18:31:57
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1422,1422,,,0,2021-09-10 20:52:55,
+src/nvm.go,a3ce311,Corey Butler,added bad symlink detection and register/unregister methods,1413,1413,a059225,9a6e372,0,2024-11-22 05:38:04,2021-03-09 19:40:32
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1478,1479,,,0,2023-02-24 18:31:57,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1440,1460,,,0,2023-01-27 02:03:39,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1481,1482,,,0,2023-02-24 18:31:57,
+src/nvm.go,fdbf31d,Corey Butler,Fixed PATH check logic,1461,1461,,,1,2023-01-27 02:51:17,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1483,1491,,,0,2023-01-27 02:03:39,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1462,1477,,,0,2023-01-27 02:03:39,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1480,1480,,,0,2023-01-27 02:03:39,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1493,1493,,,0,2023-01-27 02:03:39,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1501,1508,,,0,2023-01-27 02:03:39,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1492,1492,,,0,2023-02-24 18:31:57,
+src/nvm.go,7de073e,Corey Butler,combined updates,1524,1524,Tobias Kellner,95133cb,0,2024-12-29 04:23:51,2024-08-02 18:46:51
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1500,1500,,,0,2023-02-24 18:31:57,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1494,1494,,,0,2023-04-11 17:53:34,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1495,1499,,,0,2023-01-27 02:03:39,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1525,1525,Corey Butler,9366b98,0,2024-11-18 18:10:33,2023-02-14 01:41:21
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1542,1542,Corey Butler,f31dd2a,0,2024-11-18 18:10:33,2022-10-31 23:55:01
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1509,1523,,,0,2023-04-11 17:53:34,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1526,1526,,,0,2023-04-11 17:53:34,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1527,1530,,,0,2023-04-11 17:53:34,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1550,1551,,,0,2023-01-27 02:03:39,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1552,1563,,,0,2023-02-24 18:31:57,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1531,1541,,,0,2023-11-07 18:22:12,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1566,1567,,,0,2023-02-24 18:31:57,
+src/nvm.go,3f0dba1,Corey Butler,Updated go-where dependency and cleaned up debug output.,1564,1565,,,0,2023-04-13 03:28:01,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1544,1549,,,0,2023-04-11 17:53:34,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1543,1543,,,0,2023-11-07 18:22:12,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1568,1569,,,0,2023-01-27 02:03:39,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1590,1597,Wojciech Sobolewski,dc699f5,0,2024-11-18 18:10:33,2024-04-02 17:52:28
+src/nvm.go,54e1a77,Corey Butler,"Resolved terminal FOUC, closes #1196. Added debugging for author-nvm bridge.",1578,1588,Tobias Kellner,95133cb,0,2024-12-29 21:01:23,2024-08-02 18:46:51
+src/nvm.go,3f0dba1,Corey Butler,Updated go-where dependency and cleaned up debug output.,1570,1570,,,0,2023-04-13 03:28:01,
+src/nvm.go,54e1a77,Corey Butler,"Resolved terminal FOUC, closes #1196. Added debugging for author-nvm bridge.",1598,1598,Tobias Kellner,95133cb,0,2024-12-29 21:01:23,2024-08-02 18:46:51
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1571,1575,,,0,2023-04-11 17:53:34,
+src/nvm.go,3f0dba1,Corey Butler,Updated go-where dependency and cleaned up debug output.,1589,1589,,,0,2023-04-13 03:28:01,
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,1617,1626,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1576,1577,,,0,2023-11-07 18:22:12,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1600,1603,,,0,2023-01-27 02:03:39,
+src/nvm.go,9366b98,Corey Butler,Add checks for network connectivity,1599,1599,,,0,2023-02-14 01:41:21,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1608,1616,,,0,2023-11-07 18:22:12,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1604,1607,,,0,2023-04-11 17:53:34,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1642,1643,,,0,2023-11-07 18:22:12,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1641,1641,,,0,2024-11-18 18:10:33,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1627,1632,,,0,2023-11-07 18:22:12,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1633,1636,,,0,2024-11-18 18:10:33,
+src/nvm.go,9366b98,Corey Butler,Add checks for network connectivity,1644,1656,,,0,2023-02-14 01:41:21,
+src/nvm.go,3c736ab,Corey Butler,Add debugging option to identify IPv6 configurations and remind users it is slow.,1637,1640,,,0,2023-11-07 18:22:12,
+src/nvm.go,0990c1f,Corey Butler,Added a debug check to identify invalid Node installations.,1657,1662,,,0,2023-04-20 14:44:15,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1684,1684,,,0,2023-01-27 02:03:39,
+src/nvm.go,0990c1f,Corey Butler,Added a debug check to identify invalid Node installations.,1664,1675,,,0,2023-04-20 14:44:15,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1663,1663,,,0,2024-11-18 18:10:33,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1685,1686,,,0,2023-02-24 18:31:57,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1688,1688,,,0,2023-02-24 18:31:57,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1687,1687,,,0,2023-04-11 17:53:34,
+src/nvm.go,9366b98,Corey Butler,Add checks for network connectivity,1676,1683,,,0,2023-02-14 01:41:21,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1691,1692,,,0,2023-01-27 02:03:39,
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,1699,1699,Corey Butler,54e1a77,1,2024-12-30 22:22:44,2024-12-29 21:01:23
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1690,1690,,,0,2023-02-24 18:31:57,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1689,1689,,,0,2023-04-11 17:53:34,
+src/nvm.go,d391b30,Corey Butler,Fixed hanging upgrades. Fixes #1199.,1707,1710,Tobias Kellner,95133cb,1,2024-12-30 22:22:44,2024-08-02 18:46:51
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1730,1730,,,1,2018-08-03 16:55:12,
+src/nvm.go,5e45db8,coreybutler,Update support for nvm current,1735,1735,,,0,2021-09-11 04:59:52,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1731,1734,,,0,2021-09-10 20:52:55,
+src/nvm.go,52bd95e,coreybutler,Add 'nvm install lts' option. Closes #623. Closes #402. Closes #394.,1737,1739,,,0,2021-09-11 04:35:00,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1728,1729,,,0,2023-01-27 02:03:39,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1700,1706,,,0,2024-11-18 18:10:33,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1727,1727,,,0,2023-02-24 18:31:57,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1740,1748,,,0,2021-09-10 20:52:55,
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1750,1751,,,0,2021-09-11 05:23:10,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1752,1752,,,0,2021-09-10 20:52:55,
+src/nvm.go,7de073e,Corey Butler,combined updates,1749,1749,Tobias Kellner,95133cb,0,2024-12-29 04:23:51,2024-08-02 18:46:51
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1693,1698,,,0,2024-11-18 18:10:33,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1711,1726,,,0,2024-11-18 18:10:33,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1754,1755,,,0,2021-09-10 20:52:55,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1762,1762,,,1,2018-08-03 16:55:12,
+src/nvm.go,7de073e,Corey Butler,combined updates,1756,1759,Tobias Kellner,95133cb,0,2024-12-29 04:23:51,2024-08-02 18:46:51
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1736,1736,,,0,2023-04-11 17:53:34,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1761,1761,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1763,1763,,,0,2021-09-10 20:52:55,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1760,1760,,,0,2022-10-31 23:17:10,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1764,1770,,,1,2018-08-03 16:55:12,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1774,1778,Corey Butler,7de073e,1,2024-12-29 15:31:09,2024-12-29 04:23:51
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1779,1779,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1771,1773,,,0,2021-09-10 20:52:55,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1795,1797,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1781,1794,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1817,1817,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1798,1812,,,0,2021-09-10 20:52:55,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1753,1753,,,0,2024-11-18 18:10:33,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1823,1824,,,1,2018-08-03 16:55:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1813,1816,,,1,2018-08-03 16:55:12,
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1825,1826,,,0,2021-09-11 05:23:10,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1822,1822,,,0,2021-09-10 20:52:55,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,1827,1831,Corey Butler,a3ce311,1,2024-12-29 15:31:09,2024-11-22 05:38:04
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1832,1832,,,0,2021-09-11 05:23:10,
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1834,1837,,,0,2021-09-11 05:23:10,
+src/nvm.go,a973fbe,coreybutler,"Added support for npm use newest, latest, and lts",1852,1853,,,0,2021-09-11 05:23:10,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1854,1856,,,1,2018-08-03 16:55:12,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1780,1780,,,0,2023-04-11 17:53:34,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1857,1861,,,0,2021-09-10 20:52:55,
+src/nvm.go,72754b3,Corey Butler,Updated build tools. Now supports links to elevate.cmd and elevate.vbs when using nvm root (fixes #381).,1865,1865,,,0,2018-08-30 02:44:05,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1863,1864,,,0,2021-09-10 20:52:55,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1862,1862,,,1,2018-08-03 16:55:12,
+src/nvm.go,72754b3,Corey Butler,Updated build tools. Now supports links to elevate.cmd and elevate.vbs when using nvm root (fixes #381).,1869,1869,,,0,2018-08-30 02:44:05,
+src/nvm.go,72754b3,Corey Butler,Updated build tools. Now supports links to elevate.cmd and elevate.vbs when using nvm root (fixes #381).,1871,1871,,,0,2018-08-30 02:44:05,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1875,1876,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1866,1868,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1870,1870,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1872,1874,,,0,2021-09-10 20:52:55,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1833,1833,,,0,2023-04-11 17:53:34,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1818,1821,,,0,2024-11-18 18:10:33,
+src/nvm.go,51c3b17,Corey Butler,Added upgrade and reinstall commands,1838,1851,,,0,2024-11-18 18:10:33,
+src/nvm.go,f31dd2a,Corey Butler,Updated elevation approach,1883,1885,,,0,2022-10-31 23:55:01,
+src/nvm.go,f31dd2a,Corey Butler,Updated elevation approach,1879,1879,,,0,2022-10-31 23:55:01,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1877,1877,,,0,2022-10-31 23:17:10,
+src/nvm.go,6c175fa,Harald Fassler,fix issue #932  Signed-off-by: Harald Fassler <harald.fassler+9974@gmail.com>,1878,1878,,,1,2023-04-15 10:36:21,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1886,1887,,,0,2022-10-31 23:17:10,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1889,1889,,,0,2022-10-31 23:17:10,
+src/nvm.go,7de073e,Corey Butler,combined updates,1880,1882,Corey Butler,16afa15,0,2024-12-29 04:23:51,2023-02-24 18:31:57
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1903,1903,,,1,2021-12-07 23:00:12,
+src/nvm.go,a0cdde9,coreybutler,"Add alt admin check - currently removed by tree shaking, but left for reference.",1910,1910,,,0,2021-12-10 18:19:01,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1893,1902,,,0,2022-10-31 23:17:10,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1911,1911,,,1,2021-12-07 23:00:12,
+src/nvm.go,6c175fa,Harald Fassler,fix issue #932  Signed-off-by: Harald Fassler <harald.fassler+9974@gmail.com>,1890,1892,,,1,2023-04-15 10:36:21,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1904,1904,,,0,2022-10-31 23:17:10,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1930,1930,,,1,2018-08-03 16:55:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1905,1909,,,1,2021-12-07 23:00:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1913,1922,,,1,2021-12-07 23:00:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1924,1924,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1925,1929,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1923,1923,,,0,2021-09-10 20:52:55,
+src/nvm.go,6c175fa,Harald Fassler,fix issue #932  Signed-off-by: Harald Fassler <harald.fassler+9974@gmail.com>,1888,1888,,,1,2023-04-15 10:36:21,
+src/nvm.go,68df36c,Corey Butler,Merged several PRs. Adds support for partial version matching in 'use' and 'install' commands. Closes #766.,1912,1912,,,0,2022-10-31 23:17:10,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1933,1933,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1931,1932,,,0,2021-09-10 20:52:55,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1942,1942,,,0,2021-09-10 20:52:55,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1945,1947,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1934,1935,,,0,2021-09-10 20:52:55,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1944,1944,,,1,2021-12-07 23:00:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1943,1943,,,1,2018-08-03 16:55:12,
+src/nvm.go,5751e53,coreybutler,Added code-signing capability. Also updated aliases to elevate command when needed (issue #700),1936,1941,,,1,2021-12-07 23:00:12,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1975,1976,,,1,2018-08-03 16:55:12,
+src/nvm.go,7a52c4c,Corey Butler,Added initial environment check. Also prevent versions starting with non-numeric values other than 'v' that aren't a known alias. This closes #919,1952,1974,,,0,2023-01-27 02:03:39,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1948,1950,,,0,2023-02-24 18:31:57,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1977,1977,,,0,2023-02-24 18:31:57,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1985,1985,,,1,2018-08-03 16:55:12,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1983,1983,,,0,2023-02-24 18:31:57,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1978,1982,,,0,2023-04-11 17:53:34,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",1987,1991,,,1,2018-08-03 16:55:12,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,1992,1998,,,0,2021-09-10 20:52:55,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,1999,1999,,,1,2021-09-11 06:13:13,
+src/nvm.go,b4877ab,coreybutler,Updated support for env var expansion,2002,2002,,,0,2021-09-11 05:26:09,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,2001,2001,,,1,2021-09-11 06:13:13,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,2013,2027,,,1,2021-09-11 06:13:13,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,2000,2000,,,0,2021-09-10 20:52:55,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,2003,2009,,,1,2021-09-11 06:13:13,
+src/nvm.go,bab56da,Wojciech Sobolewski,Support whitespace and non-ASCI characters in path.,1951,1951,,,0,2024-02-27 20:14:49,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,2029,2034,,,1,2021-09-11 06:13:13,
+src/nvm.go,b54163c,Corey Butler,Move test command to 'debug'. Fixes #955 and #942. Addresses #945 with new encoding for settings (forcing UTF-8).,1984,1984,,,0,2023-04-11 17:53:34,
+src/nvm.go,c8f25ce,coreybutler,Use proxy value from settings. Resolves #670.,2028,2028,,,0,2021-12-08 21:04:09,
+src/nvm.go,c8f25ce,coreybutler,Use proxy value from settings. Resolves #670.,2035,2035,,,0,2021-12-08 21:04:09,
+src/nvm.go,44a2e1d,Andreas Opferkuch,"Fixes #41 - Issue with blank spaces in path  exec.Command() can't handle spaces, even when quoted. Command has to be modified using SysProcAttr. See also: https://github.com/golang/go/issues/15566  Plus: Minor refactoring - reordering of functions, more consistent capitalization, sorting of imports and whatnot.",2051,2051,,,1,2018-08-03 16:55:12,
+src/nvm.go,a8958b3,coreybutler,fixed merge conflicts,2036,2036,,,1,2021-09-11 06:13:13,
+src/nvm.go,7fc4a98,coreybutler,Refactor to support Go modules,2038,2050,,,0,2021-09-10 20:52:55,
+src/nvm.go,16afa15,Corey Butler,Added custom UTF-8 converter for settings file.,1986,1986,,,0,2023-02-24 18:31:57,
+src/nvm.go,c8f25ce,coreybutler,Use proxy value from settings. Resolves #670.,2037,2037,,,0,2021-12-08 21:04:09,
+src/nvm.go,12c9aa3,Corey Butler,added better error message for non-existant versions,2010,2012,,,1,2024-12-29 15:31:09,

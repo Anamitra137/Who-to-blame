@@ -1,0 +1,54 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+renovate.json,0882fed,jaywcjlove,chore: modify renovate.json,5,10,renovate[bot],f9ce91b,0,2022-10-27 00:43:02,2022-10-27 00:42:10
+renovate.json,f9ce91b,renovate[bot],Add renovate.json (#1035)  Co-authored-by: Renovate Bot <bot@renovateapp.com>,11,12,,,0,2022-10-27 00:42:10,
+renovate.json,f9ce91b,renovate[bot],Add renovate.json (#1035)  Co-authored-by: Renovate Bot <bot@renovateapp.com>,3,4,,,0,2022-10-27 00:42:10,
+renovate.json,f9ce91b,renovate[bot],Add renovate.json (#1035)  Co-authored-by: Renovate Bot <bot@renovateapp.com>,1,1,,,0,2022-10-27 00:42:10,
+renovate.json,0882fed,jaywcjlove,chore: modify renovate.json,2,2,renovate[bot],f9ce91b,0,2022-10-27 00:43:02,2022-10-27 00:42:10
+Dockerfile,93e6ec7,jaywcjlove,chore: update Dockerfile,1,3,jaywcjlove,4959338,0,2022-06-24 05:32:36,2022-06-12 05:40:03
+Dockerfile,4959338,jaywcjlove,feat: add Dockerfile.,4,4,,,0,2022-06-12 05:40:03,
+Dockerfile,93e6ec7,jaywcjlove,chore: update Dockerfile,5,7,jaywcjlove,4959338,0,2022-06-24 05:32:36,2022-06-12 05:40:03
+logo.svg,c7ac0f2,jaywcjlove,chore: use idoc build website.,2,3,,,0,2022-05-10 19:33:59,
+logo.svg,c22df07,jaywcjlove,chore: update logo.svg,1,1,jaywcjlove,c7ac0f2,0,2022-05-10 19:51:17,2022-05-10 19:33:59
+idoc.yml,f169030,jaywcjlove,chore: Update idoc.yml,11,19,jaywcjlove,6ed67f6,0,2022-05-10 19:46:45,2022-05-10 19:42:43
+idoc.yml,c7ac0f2,jaywcjlove,chore: use idoc build website.,1,10,,,0,2022-05-10 19:33:59,
+idoc.yml,c7ac0f2,jaywcjlove,chore: use idoc build website.,20,22,,,0,2022-05-10 19:33:59,
+idoc.yml,3d2a817,jaywcjlove,chore: Update idoc.yml,26,27,,,0,2022-05-10 19:39:14,
+idoc.yml,6ed67f6,jaywcjlove,chore: Update idoc.yml,28,28,,,0,2022-05-10 19:42:43,
+idoc.yml,3d2a817,jaywcjlove,chore: Update idoc.yml,23,23,,,0,2022-05-10 19:39:14,
+idoc.yml,5e42d5f,jaywcjlove,feat: add command-line-apps list.,24,25,jaywcjlove,f169030,0,2025-02-05 02:05:20,2022-05-10 19:46:45
+idoc.yml,8a09f85,小弟调调,chore: update idoc config.,29,36,jaywcjlove,5e42d5f,0,2025-04-30 18:06:44,2025-02-05 02:05:20
+build/ast.mjs,bb961d8,jaywcjlove,chore: update devDependencies.,3,119,,,0,2021-05-17 06:54:21,
+build/ast.mjs,bb961d8,jaywcjlove,chore: update devDependencies.,121,132,,,0,2021-05-17 06:54:21,
+build/ast.mjs,bb961d8,jaywcjlove,chore: update devDependencies.,1,1,,,0,2021-05-17 06:54:21,
+build/ast.mjs,bb961d8,jaywcjlove,chore: update devDependencies.,134,135,,,0,2021-05-17 06:54:21,
+build/ast.mjs,6c32926,jaywcjlove,chore : update devDependencies.,133,133,jaywcjlove,bb961d8,0,2021-10-04 22:08:23,2021-05-17 06:54:21
+build/ast.mjs,6c32926,jaywcjlove,chore : update devDependencies.,120,120,jaywcjlove,bb961d8,0,2021-10-04 22:08:23,2021-05-17 06:54:21
+build/ast.mjs,c7ac0f2,jaywcjlove,chore: use idoc build website.,2,2,jaywcjlove,6c32926,0,2022-05-10 19:33:59,2021-10-04 22:08:23
+LICENSE,275088e,Aaron Lichtman,"Deals with item 3 of #330. (#331)  * Stripped trailing whitespace, added OSS badge to Chromium, added Tor Browser  * Added Lockdown under Security Tools  * Added htop to Command Line section, fixed Chromium and TorBrowser links, added open-source link to Firefox  * Added MalwareBytes to Security Tools  * Added CLion  * Added Signal for Desktop and Riot  * Alphebetized Text Editors  * Alphebetized IDEs  * Alphebetized Development Tools  * Alphebetized Regex Editors  * Alphebetized Test Tools  * Alphebetized CLI tools and removed duplicate Hyper entry  * Alphebetized Version Control GUIs  * Alphebetized Version Control Managers  * Alphebetized Remote Login Software, System Related Tools, Qual of Life, Databases  * Alphebetized Communication and VMs  * Alphebetized email and Data Recovery Tools  * Alphebetized Frameworks, FTP, Ebooks  * Alphebetize Online Storage and Download Management Tools  * Alphebetized Browsers, Translation tools, Security tools  * Assorted alphebetization  * Alphabetize Third Party Markets, WM, Productivity, General Tools  * More alphabetization  * Added Contributing.md  * Added CC0 License  * Removed all leading [A/An]s and rephrased some descriptions. Added icons where needed and removed a duplicate  * Update from master  * Removed leading [A/An]s, rephrased decsriptions, added badges, added a CLI tool  * Phrasing  * phrasing",1,116,jaywcjlove,9dac99a,1,2018-03-31 01:13:14,2017-12-26 03:29:36
+package.json,c7ac0f2,jaywcjlove,chore: use idoc build website.,9,11,jaywcjlove,f9ade69,0,2022-05-10 19:33:59,2021-11-10 07:41:31
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,1,2,,,0,2016-08-20 12:15:34,
+package.json,11e79e6,jaywcjlove,chore: add sponsor badge.,6,6,jaywcjlove,df7a8a7,0,2023-11-27 00:47:40,2023-06-10 21:32:28
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,4,4,,,0,2016-08-20 12:15:34,
+package.json,560f1d0,jaywcjlove,chore: update package.json,5,5,jaywcjlove,bb961d8,0,2021-07-22 01:31:23,2021-05-17 06:54:21
+package.json,f0dd66a,jaywcjlove,released v1.8.0,3,3,jaywcjlove,56e5810,0,2025-01-04 06:35:21,2024-08-21 17:16:59
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,8,8,,,0,2016-08-20 12:15:34,
+package.json,560f1d0,jaywcjlove,chore: update package.json,7,7,jaywcjlove,bb961d8,0,2021-07-22 01:31:23,2021-05-17 06:54:21
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,13,15,,,0,2016-08-20 12:15:34,
+package.json,bb961d8,jaywcjlove,chore: update devDependencies.,12,12,dependabot[bot],9385d55,0,2021-05-17 06:54:21,2021-03-30 06:10:10
+package.json,ea1c9ed,jaywcjlove,released v1.1.0,26,27,jaywcjlove,6c32926,0,2021-10-04 22:16:04,2021-10-04 22:08:23
+package.json,f2187c0,jaywcjlove,Add gh-pages branch push method.,16,16,,,0,2016-08-20 13:01:15,
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,29,29,,,0,2016-08-20 12:15:34,
+package.json,560f1d0,jaywcjlove,chore: update package.json,28,28,jaywcjlove,bb961d8,0,2021-07-22 01:31:23,2021-05-17 06:54:21
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,17,24,,,0,2016-08-20 12:15:34,
+package.json,560f1d0,jaywcjlove,chore: update package.json,25,25,jaywcjlove,bb961d8,0,2021-07-22 01:31:23,2021-05-17 06:54:21
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,31,31,,,0,2016-08-20 12:15:34,
+package.json,6af7eda,jaywcjlove,Update LICENSE.,30,30,jaywcjlove,19d223c,0,2017-09-23 16:30:29,2017-02-20 03:56:55
+package.json,f2187c0,jaywcjlove,Add gh-pages branch push method.,32,32,jaywcjlove,1e4bc37,0,2016-08-20 13:01:15,2016-08-20 12:15:34
+package.json,df7a8a7,jaywcjlove,chore(deps): Update dependency idoc to v1.26.5,36,36,jaywcjlove,f0a2210,0,2023-06-10 21:32:28,2022-11-01 17:19:56
+package.json,c7ac0f2,jaywcjlove,chore: use idoc build website.,37,39,jaywcjlove,f9ade69,0,2022-05-10 19:33:59,2021-11-10 07:41:31
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,40,40,,,0,2016-08-20 12:15:34,
+package.json,061f210,jaywcjlove,Refactor the compiled code.,41,41,Jess,b4143da,0,2018-09-26 08:56:17,2018-02-01 08:39:55
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,33,33,,,0,2016-08-20 12:15:34,
+package.json,1e4bc37,jaywcjlove,Markdown generation HTML.,34,34,,,0,2016-08-20 12:15:34,
+package.json,c7ac0f2,jaywcjlove,chore: use idoc build website.,35,35,jaywcjlove,f9ade69,0,2022-05-10 19:33:59,2021-11-10 07:41:31
+dist/favicon.ico,f51d021,jaywcjlove,Add favicon file; Add Header information in HTML;,1,8,,,0,2017-02-23 05:55:49,

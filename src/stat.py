@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     bin_starts = [0]
     width = INITIAL_WIDTH
-    while bin_starts[-1] < 100:
+    while bin_starts[-1] < 1000:
         bin_starts.append(bin_starts[-1] + width)
         width += WIDTH_INCREASE  # increase bin width linearly
 
@@ -73,14 +73,14 @@ if __name__ == "__main__":
     plt.subplot(1, 2, 1)
     plt.bar(pct_counts.keys(), pct_counts.values(), color="#66b3ff")
     plt.xticks(rotation=45)
-    plt.title("Repos by Cross-author % Range")
+    plt.title("Change of Author")
     plt.xlabel("% of Hunks with different previous & current authors")
     plt.ylabel("Number of Repositories")
 
     plt.subplot(1, 2, 2)
     plt.bar(day_counts.keys(), day_counts.values(), color="#ffa07a")
     plt.xticks(rotation=45)
-    plt.title("Time taken to fix (days) Across Repositories")
+    plt.title("Time taken to fix (days)")
     plt.xlabel("Time taken to fix")
     plt.ylabel("Number of Hunks")
 

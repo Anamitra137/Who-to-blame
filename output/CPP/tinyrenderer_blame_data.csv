@@ -1,0 +1,402 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+Dockerfile,ce5f6c7,Dmitry V. Sokolov,gitpod workspace,1,6,,,0,2020-08-25 13:53:30,
+model.cpp,f6fecb7,ssloy,wireframe rendering,1,1,,,0,2015-01-17 18:39:58,
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,16,16,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,f6fecb7,ssloy,wireframe rendering,5,5,,,0,2015-01-17 18:39:58,
+model.cpp,f6fecb7,ssloy,wireframe rendering,7,14,,,0,2015-01-17 18:39:58,
+model.cpp,c3c3d89,Dmitry V. Sokolov,polishing,6,6,Pavel Rojtberg,fc6352f,0,2022-01-12 09:15:12,2021-01-27 21:06:16
+model.cpp,c3c3d89,Dmitry V. Sokolov,polishing,4,4,Pavel Rojtberg,fc6352f,0,2022-01-12 09:15:12,2021-01-27 21:06:16
+model.cpp,f6fecb7,ssloy,wireframe rendering,2,3,,,0,2015-01-17 18:39:58,
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,15,15,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,d7f1bfb,ssloy,diffuse texture homework,18,19,ssloy,0943d1e,0,2015-01-22 19:32:24,2015-01-21 09:51:42
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,21,22,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,20,20,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,d7f1bfb,ssloy,diffuse texture homework,23,24,ssloy,0943d1e,0,2015-01-22 19:32:24,2015-01-21 09:51:42
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),17,17,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,26,26,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,25,25,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",27,27,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.cpp,d7f1bfb,ssloy,diffuse texture homework,28,28,ssloy,0943d1e,0,2015-01-22 19:32:24,2015-01-21 09:51:42
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,29,29,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),32,34,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,f6fecb7,ssloy,wireframe rendering,30,30,,,0,2015-01-17 18:39:58,
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,35,38,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,39,39,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,31,31,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,f6fecb7,ssloy,wireframe rendering,40,40,,,0,2015-01-17 18:39:58,
+model.cpp,f6fecb7,ssloy,wireframe rendering,41,42,,,0,2015-01-17 18:39:58,
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,44,52,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",43,43,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.cpp,f6fecb7,ssloy,wireframe rendering,53,54,,,0,2015-01-17 18:39:58,
+model.cpp,f6fecb7,ssloy,wireframe rendering,59,59,,,0,2015-01-17 18:39:58,
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,57,58,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,8336b36,Dmitry V. Sokolov,polishing,55,56,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,60,60,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),61,61,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,f6fecb7,ssloy,wireframe rendering,62,63,,,0,2015-01-17 18:39:58,
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,64,64,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),65,65,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,47b41d3,ssloy,new rasterizer,71,72,ssloy,0943d1e,0,2015-01-25 18:43:41,2015-01-21 09:51:42
+model.cpp,c3c3d89,Dmitry V. Sokolov,polishing,70,70,Dmitry V. Sokolov,87c7dc9,0,2022-01-12 09:15:12,2020-08-25 13:42:18
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,68,68,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,440d9cd,ssloy,vertex shader stub,66,67,ssloy,47b41d3,0,2015-01-25 20:17:26,2015-01-25 18:43:41
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),69,69,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,0f21c22,Dmitry V. Sokolov,polishing + more readable barycentric coordinates computation,73,73,Dmitry V. Sokolov,87c7dc9,0,2020-08-25 14:36:38,2020-08-25 13:42:18
+model.cpp,1cb0834,ssloy,first shaders,75,76,ssloy,0943d1e,0,2015-01-26 21:55:56,2015-01-21 09:51:42
+model.cpp,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",74,74,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,77,77,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),78,78,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+model.cpp,af1861a,ssloy,projection logic bugfix,80,80,ssloy,1cb0834,0,2015-01-28 11:58:22,2015-01-26 21:55:56
+model.cpp,9198f16,ssloy,gouraud shading,79,79,ssloy,0943d1e,0,2015-01-24 10:32:20,2015-01-21 09:51:42
+model.h,f6fecb7,ssloy,wireframe rendering,3,4,,,0,2015-01-17 18:39:58,
+model.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",5,13,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.h,f6fecb7,ssloy,wireframe rendering,14,14,,,0,2015-01-17 18:39:58,
+model.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",16,20,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.h,f6fecb7,ssloy,wireframe rendering,1,1,,,0,2015-01-17 18:39:58,
+model.h,8336b36,Dmitry V. Sokolov,polishing,21,21,Dmitry V. Sokolov,dbc5d92,0,2025-02-20 22:45:08,2022-01-13 17:23:57
+model.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,15,15,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+model.h,d7f1bfb,ssloy,diffuse texture homework,2,2,,,0,2015-01-22 19:32:24,
+model.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",22,22,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+model.h,f6fecb7,ssloy,wireframe rendering,25,25,,,0,2015-01-17 18:39:58,
+model.h,af1861a,ssloy,projection logic bugfix,26,26,ssloy,1cb0834,0,2015-01-28 11:58:22,2015-01-26 21:55:56
+model.h,8336b36,Dmitry V. Sokolov,polishing,23,24,Dmitry V. Sokolov,dbc5d92,0,2025-02-20 22:45:08,2022-01-13 17:23:57
+obj/african_head/african_head_eye_inner.obj,0c1d955,ssloy,shadow map shading,1,1977,,,0,2015-01-30 15:46:46,
+obj/african_head/african_head_eye_inner_diffuse.tga,35b2243,ssloy,african head (thanks to Vidar Rapp!) eyes are restored,1,3353,,,0,2015-01-30 09:36:15,
+obj/african_head/african_head.obj,f6fecb7,ssloy,wireframe rendering,1,6357,,,0,2015-01-17 18:39:58,
+obj/african_head/african_head_eye_inner_nm.tga,d73193b,ssloy,african head eyes,1,344,,,0,2015-01-29 19:06:43,
+obj/african_head/african_head_eye_inner_nm_tangent.tga,0901478,ssloy,african head textures,1,28,,,0,2015-01-31 16:35:09,
+obj/african_head/african_head_eye_inner_spec.tga,35b2243,ssloy,african head (thanks to Vidar Rapp!) eyes are restored,1,15,,,0,2015-01-30 09:36:15,
+obj/african_head/african_head_eye_outer.obj,0c1d955,ssloy,shadow map shading,1,1977,,,0,2015-01-30 15:46:46,
+obj/african_head/african_head_eye_outer_diffuse.tga,35b2243,ssloy,african head (thanks to Vidar Rapp!) eyes are restored,1,4,,,0,2015-01-30 09:36:15,
+geometry.h,f6fecb7,ssloy,wireframe rendering,2,2,,,0,2015-01-17 18:39:58,
+geometry.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),1,1,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+geometry.h,17129a2,ssloy,new vec/matrix code,3,3,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,440d9cd,ssloy,vertex shader stub,4,4,ssloy,b44188f,0,2015-01-25 20:17:26,2015-01-23 09:45:24
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,6,6,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,2b0c0d6,ssloy,"vec2/vec3 specialized from vec<,>",10,11,ssloy,db83202,0,2015-01-26 16:26:16,2015-01-26 10:32:07
+geometry.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,7,9,Dmitry V. Sokolov,b0af025,0,2023-01-05 22:05:46,2022-12-25 22:47:40
+geometry.h,b44188f,ssloy,"code cleanup, c++ -pedantic checks",5,5,ssloy,1cce852,0,2015-01-23 09:45:24,2015-01-22 20:32:31
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,12,12,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,18,21,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,f6fecb7,ssloy,wireframe rendering,22,23,,,0,2015-01-17 18:39:58,
+geometry.h,17129a2,ssloy,new vec/matrix code,16,16,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,5ff999c,ssloy,more careful rounding,17,17,ssloy,f6fecb7,0,2015-01-22 08:51:42,2015-01-17 18:39:58
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,24,27,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,13,15,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,a23d224,ssloy,still refactoring,28,29,ssloy,14f20a1,0,2015-01-26 19:35:34,2015-01-26 16:48:17
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,31,33,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,f6fecb7,ssloy,wireframe rendering,34,35,,,0,2015-01-17 18:39:58,
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,30,30,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,40,42,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,a23d224,ssloy,still refactoring,49,50,ssloy,14f20a1,0,2015-01-26 19:35:34,2015-01-26 16:48:17
+geometry.h,17129a2,ssloy,new vec/matrix code,43,44,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,a23d224,ssloy,still refactoring,38,39,ssloy,14f20a1,0,2015-01-26 19:35:34,2015-01-26 16:48:17
+geometry.h,1cce852,ssloy,projection and viewport matrices,45,45,ssloy,0943d1e,0,2015-01-22 20:32:31,2015-01-21 09:51:42
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,36,37,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,46,48,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,51,51,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),53,54,ssloy,8294312,0,2022-01-13 17:23:57,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,55,56,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,57,57,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,52,52,ssloy,8294312,0,2023-01-05 22:05:46,2015-02-01 19:38:36
+geometry.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),59,60,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+geometry.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,58,58,ssloy,8294312,0,2023-01-05 22:05:46,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,69,70,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,61,68,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,74,85,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),71,73,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,89,90,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,86,86,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,17129a2,ssloy,new vec/matrix code,91,91,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,92,93,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,87,87,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,88,88,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,95,96,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,94,94,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,99,99,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,106,106,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,97,98,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",107,110,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+geometry.h,17129a2,ssloy,new vec/matrix code,104,105,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",100,103,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+geometry.h,17129a2,ssloy,new vec/matrix code,111,111,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,113,113,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,117,118,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,125,128,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,119,120,ssloy,8294312,0,2025-02-20 22:45:08,2015-02-01 19:38:36
+geometry.h,1cce852,ssloy,projection and viewport matrices,123,124,,,0,2015-01-22 20:32:31,
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,129,131,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,2b0c0d6,ssloy,"vec2/vec3 specialized from vec<,>",132,132,ssloy,db83202,0,2015-01-26 16:26:16,2015-01-26 10:32:07
+geometry.h,17129a2,ssloy,new vec/matrix code,133,133,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,8336b36,Dmitry V. Sokolov,polishing,138,139,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+geometry.h,0c1d955,ssloy,shadow map shading,112,112,ssloy,db83202,0,2015-01-30 15:46:46,2015-01-26 10:32:07
+geometry.h,17129a2,ssloy,new vec/matrix code,134,134,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,135,137,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,140,145,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,0c1d955,ssloy,shadow map shading,121,122,ssloy,db83202,0,2015-01-30 15:46:46,2015-01-26 10:32:07
+geometry.h,14f20a1,ssloy,still cleaning up the code,148,148,ssloy,db83202,0,2015-01-26 16:48:17,2015-01-26 10:32:07
+geometry.h,0c1d955,ssloy,shadow map shading,114,116,ssloy,db83202,0,2015-01-30 15:46:46,2015-01-26 10:32:07
+geometry.h,1cb0834,ssloy,first shaders,146,147,ssloy,db83202,0,2015-01-26 21:55:56,2015-01-26 10:32:07
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,155,170,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,149,152,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,2b0c0d6,ssloy,"vec2/vec3 specialized from vec<,>",171,171,ssloy,db83202,0,2015-01-26 16:26:16,2015-01-26 10:32:07
+geometry.h,14f20a1,ssloy,still cleaning up the code,153,154,ssloy,db83202,0,2015-01-26 16:48:17,2015-01-26 10:32:07
+geometry.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",174,174,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+geometry.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",177,177,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,175,176,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,178,181,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+geometry.h,17129a2,ssloy,new vec/matrix code,172,173,ssloy,440d9cd,0,2015-01-26 10:05:52,2015-01-25 20:17:26
+geometry.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",182,182,Dmitry V. Sokolov,8336b36,0,2025-02-21 14:55:15,2025-02-20 22:45:08
+geometry.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,183,187,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+obj/african_head/african_head_eye_outer_gloss.tga,35b2243,ssloy,african head (thanks to Vidar Rapp!) eyes are restored,1,2,,,0,2015-01-30 09:36:15,
+obj/african_head/african_head_diffuse.tga,cbfbce6,ssloy,textures,1,1690,,,0,2015-01-21 11:19:41,
+obj/african_head/african_head_eye_outer_nm.tga,d73193b,ssloy,african head eyes,1,725,,,0,2015-01-29 19:06:43,
+obj/african_head/african_head_eye_outer_nm_tangent.tga,0901478,ssloy,african head textures,1,99,,,0,2015-01-31 16:35:09,
+obj/african_head/african_head_eye_outer_spec.tga,35b2243,ssloy,african head (thanks to Vidar Rapp!) eyes are restored,1,2,,,0,2015-01-30 09:36:15,
+obj/boggie/body.obj,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,8959,,,0,2015-02-12 15:21:01,
+obj/african_head/african_head_spec.tga,cbfbce6,ssloy,textures,1,3986,,,0,2015-01-21 11:19:41,
+obj/african_head/african_head_nm_tangent.tga,d73193b,ssloy,african head eyes,1,605,,,0,2015-01-29 19:06:43,
+obj/boggie/eyes.obj,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,5796,,,0,2015-02-12 15:21:01,
+obj/boggie/eyes_diffuse.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,117,,,0,2015-02-12 15:21:01,
+obj/african_head/african_head_nm.tga,cbfbce6,ssloy,textures,1,13036,,,0,2015-01-21 11:19:41,
+obj/boggie/eyes_spec.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,42,,,0,2015-02-12 15:21:01,
+obj/boggie/body_diffuse.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,59623,,,0,2015-02-12 15:21:01,
+obj/boggie/head.obj,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,2302,,,0,2015-02-12 15:21:01,
+obj/boggie/eyes_nm_tangent.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,99,,,0,2015-02-12 15:21:01,
+obj/boggie/body_spec.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,229815,,,0,2015-02-12 15:21:01,
+obj/diablo3_pose/diablo3_pose.obj,f037c7a,ssloy,diablo posing!,1,13334,,,0,2015-01-28 11:58:58,
+obj/boggie/body_nm_tangent.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,4931,,,0,2015-02-12 15:21:01,
+obj/boggie/head_diffuse.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,3311,,,0,2015-02-12 15:21:01,
+main.cpp,7edc830,ssloy,refactoring,3,3,ssloy,1072332,0,2015-01-25 19:09:34,2015-01-24 18:05:54
+main.cpp,909fe20,ssloy,initial import,4,4,,,0,2015-01-17 17:30:14,
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,11,11,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,10,10,Dmitry V. Sokolov,2f3c086,0,2021-01-27 21:06:16,2020-08-25 11:52:42
+main.cpp,0f21c22,Dmitry V. Sokolov,polishing + more readable barycentric coordinates computation,5,8,Dmitry V. Sokolov,87c7dc9,0,2020-08-25 14:36:38,2020-08-25 13:42:18
+main.cpp,3b7da48,ssloy,working z-buffer,2,2,ssloy,d9c4b14,0,2015-01-18 21:15:23,2015-01-18 17:05:49
+main.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,9,9,ssloy,907bb56,0,2020-08-25 11:52:42,2016-03-13 17:03:23
+main.cpp,0c1d955,ssloy,shadow map shading,1,1,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,12,12,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,13,13,Dmitry V. Sokolov,87c7dc9,0,2021-01-27 21:06:16,2020-08-25 13:42:18
+main.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,14,14,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,20,26,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,17,17,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+main.cpp,0c1d955,ssloy,shadow map shading,18,18,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,15,16,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,19,19,Pavel Rojtberg,9634673,0,2021-01-27 21:06:16,2021-01-27 21:05:41
+main.cpp,0c1d955,ssloy,shadow map shading,27,28,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,907bb56,ssloy,tangent space normal mapping,32,32,ssloy,e30ff35,0,2016-03-13 17:03:23,2016-03-13 16:52:53
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,38,40,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,33,36,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,41,41,Dmitry V. Sokolov,d5355f5,0,2021-01-27 21:06:16,2020-08-25 15:32:33
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,29,31,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,907bb56,ssloy,tangent space normal mapping,42,42,ssloy,e30ff35,0,2016-03-13 17:03:23,2016-03-13 16:52:53
+main.cpp,907bb56,ssloy,tangent space normal mapping,37,37,ssloy,e30ff35,0,2016-03-13 17:03:23,2016-03-13 16:52:53
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,43,43,Dmitry V. Sokolov,d5355f5,0,2021-01-27 21:06:16,2020-08-25 15:32:33
+main.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),44,44,Pavel Rojtberg,9634673,0,2022-01-13 17:23:57,2021-01-27 21:05:41
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,46,46,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,fc6352f,Pavel Rojtberg,GLSL-ify shader code,45,45,Pavel Rojtberg,9634673,0,2021-01-27 21:06:16,2021-01-27 21:05:41
+main.cpp,0c1d955,ssloy,shadow map shading,51,51,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,245b9b4,ssloy,2D triangle drawing stub,50,50,,,0,2015-01-18 07:19:54,
+main.cpp,47b41d3,ssloy,new rasterizer,47,49,ssloy,1072332,0,2015-01-25 18:43:41,2015-01-24 18:05:54
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,65,65,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,3b7da48,ssloy,working z-buffer,54,54,ssloy,d9c4b14,0,2015-01-18 21:15:23,2015-01-18 17:05:49
+main.cpp,0c1d955,ssloy,shadow map shading,53,53,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),66,66,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,55,62,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,63,64,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+main.cpp,c111f25,Denis Sermukhamedov,fix help message,52,52,ssloy,8294312,1,2015-04-08 21:28:54,2015-02-01 19:38:36
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,71,72,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,0c1d955,ssloy,shadow map shading,67,67,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,68,68,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,69,69,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+main.cpp,8336b36,Dmitry V. Sokolov,polishing,74,76,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+main.cpp,d5355f5,Dmitry V. Sokolov,polishing,73,73,Dmitry V. Sokolov,2f3c086,0,2020-08-25 15:32:33,2020-08-25 11:52:42
+main.cpp,909fe20,ssloy,initial import,81,81,,,0,2015-01-17 17:30:14,
+main.cpp,d0703ac,ssloy,naive segment tracing,80,80,,,0,2015-01-17 17:56:30,
+main.cpp,0c1d955,ssloy,shadow map shading,78,78,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,0c1d955,ssloy,shadow map shading,77,77,ssloy,c48dd97,0,2015-01-30 15:46:46,2015-01-29 07:08:30
+main.cpp,6d3acdb,Dmitry Sokolov,screen clipping,79,79,Dmitry V. Sokolov,c6ef780,0,2023-02-10 15:13:31,2023-01-05 22:05:46
+main.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,70,70,ssloy,097bfd0,0,2020-08-25 11:52:42,2015-01-30 16:02:05
+main.cpp,c48dd97,ssloy,cleaning,82,82,,,0,2015-01-29 07:08:30,
+obj/floor.obj,8294312,ssloy,perspective correction + minor mat<>::transpose bugfix,1,15,,,0,2015-02-01 19:38:36,
+obj/floor_diffuse.tga,8294312,ssloy,perspective correction + minor mat<>::transpose bugfix,1,2,,,0,2015-02-01 19:38:36,
+obj/floor_nm_tangent.tga,8294312,ssloy,perspective correction + minor mat<>::transpose bugfix,1,2,,,0,2015-02-01 19:38:36,
+obj/diablo3_pose/diablo3_pose_glow.tga,0cbfa69,ssloy,"diablo posing textures, thank you Samuel (arshlevon) Sharit for the model!",1,350,,,0,2015-01-28 21:29:33,
+obj/boggie/head_nm_tangent.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,898,,,0,2015-02-12 15:21:01,
+obj/floor_spec.tga,8336b36,Dmitry V. Sokolov,polishing,1,2,,,0,2025-02-20 22:45:08,
+obj/boggie/head_spec.tga,79c0d02,ssloy,"Boggie model, thank you Bojana!",1,44811,,,0,2015-02-12 15:21:01,
+obj/grid.tga,4f619ee,ssloy,preparation for tangent space computation lesson,1,76,,,0,2016-03-13 13:49:57,
+obj/diablo3_pose/diablo3_pose_diffuse.tga,0cbfa69,ssloy,"diablo posing textures, thank you Samuel (arshlevon) Sharit for the model!",1,59224,,,0,2015-01-28 21:29:33,
+our_gl.h,7edc830,ssloy,refactoring,1,1,,,0,2015-01-25 19:09:34,
+our_gl.h,fc6352f,Pavel Rojtberg,GLSL-ify shader code,11,11,Dmitry V. Sokolov,d5355f5,0,2021-01-27 21:06:16,2020-08-25 15:32:33
+our_gl.h,7edc830,ssloy,refactoring,2,2,,,0,2015-01-25 19:09:34,
+our_gl.h,7edc830,ssloy,refactoring,7,8,,,0,2015-01-25 19:09:34,
+our_gl.h,7edc830,ssloy,refactoring,3,3,,,0,2015-01-25 19:09:34,
+our_gl.h,8336b36,Dmitry V. Sokolov,polishing,9,9,Dmitry V. Sokolov,dbc5d92,0,2025-02-20 22:45:08,2022-01-13 17:23:57
+our_gl.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),10,10,Pavel Rojtberg,fc6352f,0,2022-01-13 17:23:57,2021-01-27 21:06:16
+our_gl.h,8336b36,Dmitry V. Sokolov,polishing,15,15,Dmitry V. Sokolov,dbc5d92,0,2025-02-20 22:45:08,2022-01-13 17:23:57
+our_gl.h,8336b36,Dmitry V. Sokolov,polishing,12,12,Dmitry V. Sokolov,dbc5d92,0,2025-02-20 22:45:08,2022-01-13 17:23:57
+our_gl.h,7edc830,ssloy,refactoring,13,14,,,0,2015-01-25 19:09:34,
+our_gl.h,af1861a,ssloy,projection logic bugfix,16,16,ssloy,20aeaba,0,2015-01-28 11:58:22,2015-01-27 16:40:46
+our_gl.h,87c7dc9,Dmitry V. Sokolov,c++14 facelift,4,6,ssloy,8294312,0,2020-08-25 13:42:18,2015-02-01 19:38:36
+obj/diablo3_pose/diablo3_pose_spec.tga,0cbfa69,ssloy,"diablo posing textures, thank you Samuel (arshlevon) Sharit for the model!",1,36375,,,0,2015-01-28 21:29:33,
+obj/diablo3_pose/diablo3_pose_nm_tangent.tga,0cbfa69,ssloy,"diablo posing textures, thank you Samuel (arshlevon) Sharit for the model!",1,222,,,0,2015-01-28 21:29:33,
+obj/diablo3_pose/diablo3_pose_nm.tga,f037c7a,ssloy,diablo posing!,1,8877,,,0,2015-01-28 11:58:58,
+our_gl.cpp,7edc830,ssloy,refactoring,1,2,,,0,2015-01-25 19:09:34,
+our_gl.cpp,0f21c22,Dmitry V. Sokolov,polishing + more readable barycentric coordinates computation,3,5,Dmitry V. Sokolov,87c7dc9,0,2020-08-25 14:36:38,2020-08-25 13:42:18
+our_gl.cpp,7edc830,ssloy,refactoring,9,10,,,0,2015-01-25 19:09:34,
+our_gl.cpp,20aeaba,ssloy,shaders fun!,6,6,ssloy,1cb0834,0,2015-01-27 16:40:46,2015-01-26 21:55:56
+our_gl.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,7,7,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+our_gl.cpp,9634673,Pavel Rojtberg,use standard projection matrix,11,11,Pavel Rojtberg,56e93e2,0,2021-01-27 21:05:41,2021-01-25 16:20:42
+our_gl.cpp,1db67e7,Dmitry V. Sokolov,polishing + more readable barycentric coordinates computation,8,8,Dmitry V. Sokolov,0f21c22,0,2020-08-25 14:53:41,2020-08-25 14:36:38
+our_gl.cpp,6d3acdb,Dmitry Sokolov,screen clipping,12,12,Dmitry V. Sokolov,c6ef780,0,2023-02-10 15:13:31,2023-01-05 22:05:46
+our_gl.cpp,7edc830,ssloy,refactoring,13,14,,,0,2015-01-25 19:09:34,
+our_gl.cpp,d5355f5,Dmitry V. Sokolov,polishing,15,15,Dmitry V. Sokolov,1db67e7,0,2020-08-25 15:32:33,2020-08-25 14:53:41
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,16,20,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,7edc830,ssloy,refactoring,27,28,,,0,2015-01-25 19:09:34,
+our_gl.cpp,7edc830,ssloy,refactoring,21,22,,,0,2015-01-25 19:09:34,
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,29,31,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,d5355f5,Dmitry V. Sokolov,polishing,23,23,Dmitry V. Sokolov,1db67e7,0,2020-08-25 15:32:33,2020-08-25 14:53:41
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,24,26,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,6d3acdb,Dmitry Sokolov,screen clipping,40,40,Dmitry V. Sokolov,c6ef780,0,2023-02-10 15:13:31,2023-01-05 22:05:46
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,33,36,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),44,44,Pavel Rojtberg,9634673,0,2022-01-13 17:23:57,2021-01-27 21:05:41
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,41,43,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,45,45,Dmitry V. Sokolov,2f3c086,0,2020-08-25 13:42:18,2020-08-25 11:52:42
+our_gl.cpp,8336b36,Dmitry V. Sokolov,polishing,38,39,Dmitry Sokolov,6d3acdb,0,2025-02-20 22:45:08,2023-02-10 15:13:31
+our_gl.cpp,d5355f5,Dmitry V. Sokolov,polishing,48,48,Dmitry V. Sokolov,1db67e7,0,2020-08-25 15:32:33,2020-08-25 14:53:41
+our_gl.cpp,7edc830,ssloy,refactoring,49,52,,,0,2015-01-25 19:09:34,
+our_gl.cpp,c3c3d89,Dmitry V. Sokolov,polishing,46,46,Pavel Rojtberg,9634673,0,2022-01-12 09:15:12,2021-01-27 21:05:41
+our_gl.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),47,47,Dmitry V. Sokolov,c3c3d89,0,2022-01-13 17:23:57,2022-01-12 09:15:12
+our_gl.cpp,8294312,ssloy,perspective correction + minor mat<>::transpose bugfix,32,32,ssloy,17129a2,0,2015-02-01 19:38:36,2015-01-26 10:05:52
+our_gl.cpp,87c7dc9,Dmitry V. Sokolov,c++14 facelift,37,37,ssloy,0c8afb6,0,2020-08-25 13:42:18,2015-02-01 19:42:00
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),7,7,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,8,19,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.h,909fe20,ssloy,initial import,3,3,,,0,2015-01-17 17:30:14,
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),1,1,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,909fe20,ssloy,initial import,20,22,,,0,2015-01-17 17:30:14,
+tgaimage.h,909fe20,ssloy,initial import,5,6,,,0,2015-01-17 17:30:14,
+tgaimage.h,909fe20,ssloy,initial import,23,23,,,0,2015-01-17 17:30:14,
+tgaimage.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,25,25,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.h,909fe20,ssloy,initial import,27,28,,,0,2015-01-17 17:30:14,
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),29,29,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,2,2,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,24,24,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,4,4,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),31,31,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,26,26,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,41db15a,Dmitry V. Sokolov,"removing dead code, polishing",44,44,Dmitry V. Sokolov,c6ef780,0,2025-02-21 14:55:15,2023-01-05 22:05:46
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),39,43,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),46,47,Dmitry V. Sokolov,87c7dc9,0,2022-01-13 17:23:57,2020-08-25 13:42:18
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,30,30,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,32,36,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.h,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,45,45,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.h,af1861a,ssloy,projection logic bugfix,48,48,ssloy,d7f1bfb,0,2015-01-28 11:58:22,2015-01-22 19:32:24
+tgaimage.h,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,37,38,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,909fe20,ssloy,initial import,1,1,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,909fe20,ssloy,initial import,6,6,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,909fe20,ssloy,initial import,3,4,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,9,9,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),5,5,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",10,11,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",8,8,,,0,2015-01-23 09:45:24,
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",12,13,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),14,14,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),20,23,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",17,19,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,7,7,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,2,2,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",16,16,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),27,27,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",24,26,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",31,31,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",29,29,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",37,40,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",32,36,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",45,45,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,15,15,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",41,43,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",49,49,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,30,30,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,909fe20,ssloy,initial import,50,52,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),48,48,ssloy,c48dd97,0,2022-01-13 17:23:57,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),53,53,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",47,47,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,44,44,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",56,57,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,46,46,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,58,58,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",59,66,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",68,71,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",73,81,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,54,55,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),72,72,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,28,28,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),82,82,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),88,88,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",89,98,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,909fe20,ssloy,initial import,99,100,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",83,87,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",105,105,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,106,106,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),67,67,ssloy,c48dd97,0,2022-01-13 17:23:57,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",107,108,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,111,111,Dmitry V. Sokolov,dbc5d92,0,2023-01-05 22:05:46,2022-01-13 17:23:57
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),112,114,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",109,110,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),120,120,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,118,118,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",119,119,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,115,115,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,121,122,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,124,124,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,128,128,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,126,126,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,123,123,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,130,132,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,101,101,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",129,129,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,909fe20,ssloy,initial import,133,134,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,125,125,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,116,117,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",139,139,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),137,137,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,135,136,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),140,141,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,127,127,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",143,145,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),102,104,ssloy,909fe20,0,2022-01-13 17:23:57,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,149,149,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",150,150,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",157,159,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,138,138,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",156,156,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,160,161,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",151,154,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,163,163,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,155,155,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),146,148,ssloy,c48dd97,0,2022-01-13 17:23:57,2015-01-29 07:08:30
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,169,169,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,b44188f,ssloy,"code cleanup, c++ -pedantic checks",164,165,ssloy,909fe20,0,2015-01-23 09:45:24,2015-01-17 17:30:14
+tgaimage.cpp,909fe20,ssloy,initial import,166,167,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,909fe20,ssloy,initial import,174,175,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,c6ef780,Dmitry V. Sokolov,TGAColor constexpr constructor + a bit of polishing,170,173,ssloy,c48dd97,0,2023-01-05 22:05:46,2015-01-29 07:08:30
+tgaimage.cpp,909fe20,ssloy,initial import,179,180,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),162,162,ssloy,909fe20,0,2022-01-13 17:23:57,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,142,142,ssloy,909fe20,0,2020-08-25 11:52:42,2015-01-17 17:30:14
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,176,176,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,182,182,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,168,168,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),177,178,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,909fe20,ssloy,initial import,186,187,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,8336b36,Dmitry V. Sokolov,polishing,190,190,Dmitry V. Sokolov,c6ef780,0,2025-02-20 22:45:08,2023-01-05 22:05:46
+tgaimage.cpp,909fe20,ssloy,initial import,197,198,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,909fe20,ssloy,initial import,193,194,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),189,189,ssloy,c48dd97,0,2022-01-13 17:23:57,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),195,196,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,181,181,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),183,185,ssloy,c48dd97,0,2022-01-13 17:23:57,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),199,200,Dmitry V. Sokolov,2f3c086,0,2022-01-13 17:23:57,2020-08-25 11:52:42
+tgaimage.cpp,909fe20,ssloy,initial import,201,202,,,0,2015-01-17 17:30:14,
+tgaimage.cpp,2f3c086,Dmitry V. Sokolov,TGAImage c++11 facelift,188,188,ssloy,c48dd97,0,2020-08-25 11:52:42,2015-01-29 07:08:30
+tgaimage.cpp,dbc5d92,Dmitry V. Sokolov,499 lines of code (tgaimage excluded),191,192,ssloy,909fe20,0,2022-01-13 17:23:57,2015-01-17 17:30:14

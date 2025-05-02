@@ -1,0 +1,538 @@
+File,Commit,Author,Commit Message,Start Line,End Line,Previous Author,Previous Commit,Keyword Label,Commit Date,Previous Commit Date
+views/contrib.html,b7794c4,u2,Add contributions repos,1,6,,,0,2016-02-18 16:09:25,
+config.ru,be62711,okor,added a config.ru for rack/local dev,1,2,,,0,2012-08-29 16:45:09,
+views/api_limit.html,c5e49dd,Joah Gerstenberg,Adds 403 Handling,4,6,,,0,2013-12-06 18:25:27,
+views/api_limit.html,8861a7d,u2,Update to HTML5,2,3,Joah Gerstenberg,c5e49dd,0,2016-02-17 15:34:25,2013-12-06 18:25:27
+views/api_limit.html,c5e49dd,Joah Gerstenberg,Adds 403 Handling,1,1,,,0,2013-12-06 18:25:27,
+views/api_limit.html,8861a7d,u2,Update to HTML5,7,7,Joah Gerstenberg,c5e49dd,0,2016-02-17 15:34:25,2013-12-06 18:25:27
+views/api_limit.html,c5e49dd,Joah Gerstenberg,Adds 403 Handling,10,10,,,0,2013-12-06 18:25:27,
+views/api_limit.html,8861a7d,u2,Update to HTML5,9,9,Joah Gerstenberg,c5e49dd,0,2016-02-17 15:34:25,2013-12-06 18:25:27
+views/api_limit.html,c5e49dd,Joah Gerstenberg,Adds 403 Handling,8,8,,,0,2013-12-06 18:25:27,
+README.markdown,25699e1,Nanda Kishore,Added README.txt with a possible usecase,4,4,,,0,2011-04-19 06:27:26,
+README.markdown,0dc3f6d,David Coallier,Added ability to opt-out text.,8,8,Nanda Kishore,25699e1,0,2013-11-19 14:40:00,2011-04-19 06:27:26
+README.markdown,25699e1,Nanda Kishore,Added README.txt with a possible usecase,2,2,,,0,2011-04-19 06:27:26,
+README.markdown,6ca53fd,Bardi Harborow,Rewrite and cleanup README.,5,5,Simonarde Lima,d6780a6,0,2016-08-05 05:29:01,2015-10-31 12:00:22
+README.markdown,6ca53fd,Bardi Harborow,Rewrite and cleanup README.,7,7,Simonarde Lima,d6780a6,0,2016-08-05 05:29:01,2015-10-31 12:00:22
+README.markdown,25699e1,Nanda Kishore,Added README.txt with a possible usecase,6,6,,,0,2011-04-19 06:27:26,
+README.markdown,6ca53fd,Bardi Harborow,Rewrite and cleanup README.,3,3,Simonarde Lima,d6780a6,0,2016-08-05 05:29:01,2015-10-31 12:00:22
+README.markdown,6ca53fd,Bardi Harborow,Rewrite and cleanup README.,1,1,Simonarde Lima,d6780a6,0,2016-08-05 05:29:01,2015-10-31 12:00:22
+README.markdown,d6780a6,Simonarde Lima,just adjusting some texts :-),13,13,7rans,d9dca6e,0,2015-10-31 12:00:22,2013-11-19 22:31:01
+README.markdown,6ca53fd,Bardi Harborow,Rewrite and cleanup README.,9,9,Simonarde Lima,d6780a6,0,2016-08-05 05:29:01,2015-10-31 12:00:22
+README.markdown,18595f6,m5n,Add developer info.,14,15,7rans,d9dca6e,0,2013-11-26 16:28:06,2013-11-19 22:31:01
+README.markdown,18595f6,m5n,Add developer info.,10,12,7rans,d9dca6e,0,2013-11-26 16:28:06,2013-11-19 22:31:01
+views/error.html,8861a7d,u2,Update to HTML5,2,3,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+views/error.html,47aba3b,David Coallier,The initial github resumes repository,8,8,,,0,2011-02-06 14:36:30,
+views/error.html,47aba3b,David Coallier,The initial github resumes repository,11,11,,,0,2011-02-06 14:36:30,
+views/error.html,8861a7d,u2,Update to HTML5,5,7,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+views/error.html,47aba3b,David Coallier,The initial github resumes repository,1,1,,,0,2011-02-06 14:36:30,
+views/error.html,47aba3b,David Coallier,The initial github resumes repository,4,4,,,0,2011-02-06 14:36:30,
+views/error.html,8861a7d,u2,Update to HTML5,9,10,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+css/print.css,8861a7d,u2,Update to HTML5,16,16,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,29,36,,,0,2011-06-04 19:44:00,
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,1,15,,,0,2011-06-04 19:44:00,
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,41,45,,,0,2011-06-04 19:44:00,
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,17,27,,,0,2011-06-04 19:44:00,
+css/print.css,9def42b,okor,"added subtle background, added email and print links",28,28,NumEricR,90cc3f4,0,2012-08-29 17:09:10,2011-07-26 20:40:29
+css/print.css,8861a7d,u2,Update to HTML5,46,46,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,90cc3f4,NumEricR,Fixed layout issue with repositories URL on print stylesheet,37,40,NumEricR,df9d5c0,1,2011-07-26 20:40:29,2011-06-04 19:44:00
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,52,64,,,0,2011-06-04 19:44:00,
+css/print.css,8861a7d,u2,Update to HTML5,51,51,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,66,67,,,0,2011-06-04 19:44:00,
+css/print.css,8861a7d,u2,Update to HTML5,68,68,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,47,50,,,0,2011-06-04 19:44:00,
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,69,71,,,0,2011-06-04 19:44:00,
+css/print.css,8861a7d,u2,Update to HTML5,72,72,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,8861a7d,u2,Update to HTML5,65,65,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,73,99,,,0,2011-06-04 19:44:00,
+css/print.css,9def42b,okor,"added subtle background, added email and print links",100,100,NumEricR,90cc3f4,0,2012-08-29 17:09:10,2011-07-26 20:40:29
+css/print.css,8861a7d,u2,Update to HTML5,124,124,okor,9def42b,0,2016-02-17 15:34:25,2012-08-29 17:09:10
+css/print.css,df9d5c0,NumEricR,Added a print stylesheet on résumé,101,119,,,0,2011-06-04 19:44:00,
+css/print.css,9def42b,okor,"added subtle background, added email and print links",120,123,NumEricR,90cc3f4,0,2012-08-29 17:09:10,2011-07-26 20:40:29
+views/job.html,f23b2f9,u2,Change url http://github.com/resume/resume.github.com to https,3,3,Adrian Rangel,52b006a,0,2016-02-16 06:39:09,2013-12-18 03:15:45
+views/job.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",8,9,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/job.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",4,4,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/job.html,6e2c7ee,Alex Hicks,Fix #210,7,7,u2,12184a6,1,2016-05-05 19:18:55,2016-02-18 03:03:31
+views/job.html,a97a743,David Coallier,Remove the last line under the last job item.,1,1,Nicolas Perriault,ff944a0,0,2011-02-07 17:22:20,2011-02-07 12:18:45
+views/job.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",2,2,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/job.html,07d0354,u2,typo,5,5,Sean Allred,ad6a15a,0,2016-02-17 06:24:21,2016-02-17 06:17:37
+views/job.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",6,6,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/job.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",13,14,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/job.html,8861a7d,u2,Update to HTML5,10,12,u2,07d0354,0,2016-02-17 15:34:25,2016-02-17 06:24:21
+views/job.html,b605177,Nicolas Perriault,fixed indentation,15,15,Nicolas Perriault,6089b67,1,2011-02-07 10:17:23,2011-02-07 10:16:43
+views/org.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",1,6,David Coallier,353dfc4,0,2013-12-18 03:15:45,2012-09-04 08:02:01
+views/not_found.html,e915614,Joah Gerstenberg,Adds 404 handling,1,1,,,0,2013-12-06 19:00:27,
+views/not_found.html,8861a7d,u2,Update to HTML5,2,3,Joah Gerstenberg,e915614,0,2016-02-17 15:34:25,2013-12-06 19:00:27
+views/not_found.html,8861a7d,u2,Update to HTML5,5,5,Joah Gerstenberg,e915614,0,2016-02-17 15:34:25,2013-12-06 19:00:27
+views/not_found.html,e915614,Joah Gerstenberg,Adds 404 handling,4,4,,,0,2013-12-06 19:00:27,
+views/not_found.html,e915614,Joah Gerstenberg,Adds 404 handling,6,6,,,0,2013-12-06 19:00:27,
+views/not_found.html,8861a7d,u2,Update to HTML5,7,7,Joah Gerstenberg,e915614,0,2016-02-17 15:34:25,2013-12-06 19:00:27
+views/not_found.html,e915614,Joah Gerstenberg,Adds 404 handling,8,8,,,0,2013-12-06 19:00:27,
+views/not_found.html,8861a7d,u2,Update to HTML5,9,9,Joah Gerstenberg,e915614,0,2016-02-17 15:34:25,2013-12-06 19:00:27
+views/not_found.html,e915614,Joah Gerstenberg,Adds 404 handling,10,10,,,0,2013-12-06 19:00:27,
+views/opt_out.html,8861a7d,u2,Update to HTML5,2,3,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+views/opt_out.html,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",4,4,,,0,2013-11-18 16:45:56,
+views/opt_out.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",5,6,Răzvan,43be1ea,0,2013-12-18 03:15:45,2013-11-21 21:04:00
+views/opt_out.html,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",1,1,,,0,2013-11-18 16:45:56,
+views/opt_out.html,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",10,10,,,0,2013-11-18 16:45:56,
+views/opt_out.html,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",8,8,,,0,2013-11-18 16:45:56,
+views/opt_out.html,f23b2f9,u2,Change url http://github.com/resume/resume.github.com to https,7,7,Adrian Rangel,52b006a,0,2016-02-16 06:39:09,2013-12-18 03:15:45
+views/opt_out.html,8861a7d,u2,Update to HTML5,9,9,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+views/opt_out.html,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",12,12,,,0,2013-11-18 16:45:56,
+views/opt_out.html,8861a7d,u2,Update to HTML5,11,11,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+index.html,8861a7d,u2,Update to HTML5,5,6,Peter Dave Hello,98135ff,0,2016-02-17 15:34:25,2016-02-17 07:00:45
+index.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",4,4,7rans,d9dca6e,0,2013-12-18 03:15:45,2013-11-19 22:31:01
+index.html,47aba3b,David Coallier,The initial github resumes repository,3,3,,,0,2011-02-06 14:36:30,
+index.html,8861a7d,u2,Update to HTML5,1,2,Peter Dave Hello,98135ff,0,2016-02-17 15:34:25,2016-02-17 07:00:45
+index.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",9,10,7rans,d9dca6e,0,2013-12-18 03:15:45,2013-11-19 22:31:01
+index.html,672c1c0,Peter Dave Hello,"Update index.html  Load yui from cdnjs to benefit from http/2.0  yui-s.yahooapis.com doesn't support http/2.0 yet, load resource from the same domain can speed up, also more people uses CDNJS.",11,11,u2,8861a7d,0,2016-02-19 03:23:34,2016-02-17 15:34:25
+index.html,eda11c6,Peter Dave Hello,"Update index.html  Googlecode platform is going to close, so load html5shiv from CDNJS with https.",7,7,Peter Dave Hello,672c1c0,0,2016-02-20 14:23:19,2016-02-19 03:23:34
+index.html,8861a7d,u2,Update to HTML5,8,8,Peter Dave Hello,98135ff,0,2016-02-17 15:34:25,2016-02-17 07:00:45
+index.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",12,13,7rans,d9dca6e,0,2013-12-18 03:15:45,2013-11-19 22:31:01
+index.html,25f60bf,Himanshu Shekhar,Added favicon icon,18,19,Peter Dave Hello,eda11c6,0,2016-05-19 11:35:15,2016-02-20 14:23:19
+index.html,98135ff,Peter Dave Hello,use minified mustcache on cdnjs,16,16,u2,7877994,0,2016-02-17 07:00:45,2016-02-17 03:05:37
+index.html,3d9880a,u2,update jQuery version and using Goolge host jQuery,14,14,Aleksa Sarai,ed05dee,0,2016-02-17 03:01:24,2016-02-16 13:56:22
+index.html,c9398a5,Nicolas Perriault,added lang attr to html tag + more consistent indentation,21,21,,,0,2011-02-07 11:06:30,
+index.html,47aba3b,David Coallier,The initial github resumes repository,20,20,,,0,2011-02-06 14:36:30,
+index.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",17,17,7rans,d9dca6e,0,2013-12-18 03:15:45,2013-11-19 22:31:01
+index.html,7877994,u2,fallback to local for jquery cdn,15,15,u2,3d9880a,0,2016-02-17 03:05:37,2016-02-17 03:01:24
+index.html,47aba3b,David Coallier,The initial github resumes repository,24,24,,,0,2011-02-06 14:36:30,
+index.html,c9398a5,Nicolas Perriault,added lang attr to html tag + more consistent indentation,23,23,,,0,2011-02-07 11:06:30,
+index.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",22,22,,,0,2013-12-18 03:15:45,
+views/index.html,8861a7d,u2,Update to HTML5,2,3,u2,f23b2f9,0,2016-02-17 15:34:25,2016-02-16 06:39:09
+views/index.html,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,15,15,David Coallier,98b611d,0,2011-02-06 18:25:17,2011-02-06 16:20:36
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",5,14,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",16,17,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,1,1,,,0,2011-02-06 14:36:30,
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,4,4,,,0,2011-02-06 14:36:30,
+views/index.html,70d6911,Himanshu Shekhar,Autofocus added to index.html  index.html has now autofocus on text input.,18,18,Peter Dave Hello,0ea9185,0,2016-05-07 05:39:38,2016-02-22 02:41:21
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",19,21,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,98b611d,David Coallier,Added a list of popular users and some small additions.,22,23,David Coallier,02dac9d,0,2011-02-06 16:20:36,2011-02-06 15:19:41
+views/index.html,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,24,24,David Coallier,98b611d,0,2011-02-06 18:25:17,2011-02-06 16:20:36
+views/index.html,98b611d,David Coallier,Added a list of popular users and some small additions.,25,25,David Coallier,02dac9d,0,2011-02-06 16:20:36,2011-02-06 15:19:41
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",31,34,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",26,30,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",35,38,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,98b611d,David Coallier,Added a list of popular users and some small additions.,39,41,David Coallier,02dac9d,0,2011-02-06 16:20:36,2011-02-06 15:19:41
+views/index.html,e963465,Adrian Rangel,"replace tabs with spaces, added a missing </div>",42,51,David Coallier,353dfc4,0,2013-12-18 03:18:28,2012-09-04 08:02:01
+views/index.html,8861a7d,u2,Update to HTML5,53,53,David Coallier,353dfc4,0,2016-02-17 15:34:25,2012-09-04 08:02:01
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,52,52,,,0,2011-02-06 14:36:30,
+views/index.html,98b611d,David Coallier,Added a list of popular users and some small additions.,54,54,David Coallier,02dac9d,0,2011-02-06 16:20:36,2011-02-06 15:19:41
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,56,59,,,0,2011-02-06 14:36:30,
+views/index.html,8861a7d,u2,Update to HTML5,55,55,David Coallier,353dfc4,0,2016-02-17 15:34:25,2012-09-04 08:02:01
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,64,66,,,0,2011-02-06 14:36:30,
+views/index.html,47aba3b,David Coallier,The initial github resumes repository,61,61,,,0,2011-02-06 14:36:30,
+views/index.html,47a540b,Nicolas Perriault,using a real form and native event to process the form,62,63,David Coallier,98b611d,0,2011-02-07 12:53:06,2011-02-06 16:20:36
+views/index.html,47a540b,Nicolas Perriault,using a real form and native event to process the form,60,60,David Coallier,98b611d,0,2011-02-07 12:53:06,2011-02-06 16:20:36
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,1,1,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,12,12,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,3,3,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",5,11,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",2,2,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,4,4,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",13,21,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,22,22,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,23,23,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",25,26,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,24,24,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",28,33,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,27,27,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,38,38,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",35,37,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,34,34,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",42,46,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,3012f7a,Ado Matejov,organizations,40,41,,,0,2012-09-27 17:19:15,
+views/resumeOrgs.html,176d9cb,NumEricR,Update public repositories link URL,39,39,David Coallier,949e732,0,2013-06-01 12:52:27,2013-05-20 20:54:04
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",48,51,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",53,58,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,52,52,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,47,47,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,64,64,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",60,63,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,59,59,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",65,79,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,80,80,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,82,82,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,81,81,,,0,2012-09-04 21:26:22,
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",83,83,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,8861a7d,u2,Update to HTML5,84,84,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resumeOrgs.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",85,86,Joah Gerstenberg,d74faf4,0,2013-12-18 03:15:45,2013-12-05 19:47:49
+views/resumeOrgs.html,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,87,88,,,0,2012-09-04 21:26:22,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,9,12,,,0,2011-02-06 14:36:30,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,1,2,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,13,27,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,4,7,,,0,2011-02-06 14:36:30,
+css/resume.css,9def42b,okor,"added subtle background, added email and print links",8,8,NumEricR,7ab9ffa,0,2012-08-29 17:09:10,2011-07-29 20:28:49
+css/resume.css,3b265e1,okor,hacked around YUI insanity,29,34,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,28,28,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,3,3,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,37,42,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,43,51,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,35,36,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,62,66,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,55,55,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,3b265e1,okor,hacked around YUI insanity,54,54,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,52,53,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,56,59,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,67,67,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,8861a7d,u2,Update to HTML5,60,61,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,3b265e1,okor,hacked around YUI insanity,74,74,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,72,73,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,3b265e1,okor,hacked around YUI insanity,68,71,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,75,75,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,3b265e1,okor,hacked around YUI insanity,76,78,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,81,81,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,83,87,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,91,103,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,104,118,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,90,90,,,0,2011-02-06 14:36:30,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,79,80,,,0,2011-02-06 14:36:30,
+css/resume.css,8861a7d,u2,Update to HTML5,82,82,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,88,89,,,0,2011-02-06 14:36:30,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,149,151,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,119,148,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,191,191,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,c4560f5,Joah Gerstenberg,Addresses #70. Makes Repository description bigger than meta data.,172,176,mosampaio,c13eba3,0,2013-12-02 21:13:47,2013-11-23 00:53:20
+css/resume.css,3b265e1,okor,hacked around YUI insanity,152,171,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,8861a7d,u2,Update to HTML5,193,193,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,c4560f5,Joah Gerstenberg,Addresses #70. Makes Repository description bigger than meta data.,192,192,mosampaio,c13eba3,0,2013-12-02 21:13:47,2013-11-23 00:53:20
+css/resume.css,3b265e1,okor,hacked around YUI insanity,177,190,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,195,201,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,c4560f5,Joah Gerstenberg,Addresses #70. Makes Repository description bigger than meta data.,194,194,mosampaio,c13eba3,0,2013-12-02 21:13:47,2013-11-23 00:53:20
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,202,202,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,203,203,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,209,209,,,0,2011-02-06 14:36:30,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,204,204,,,0,2011-02-06 14:36:30,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,211,212,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,205,208,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,210,210,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,213,213,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,246,247,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,f896082,NumEricR,CSS Optimization,214,214,,,0,2011-04-03 10:03:07,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,245,245,,,0,2011-02-06 14:36:30,
+css/resume.css,98b611d,David Coallier,Added a list of popular users and some small additions.,244,244,,,0,2011-02-06 16:20:36,
+css/resume.css,47aba3b,David Coallier,The initial github resumes repository,227,228,,,0,2011-02-06 14:36:30,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,230,243,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,215,226,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,f896082,NumEricR,CSS Optimization,229,229,,,0,2011-04-03 10:03:07,
+css/resume.css,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,253,253,,,0,2011-02-06 18:25:17,
+css/resume.css,b3202f0,NumEricR,Add message if JS is disabled,257,258,,,0,2011-04-10 15:36:04,
+css/resume.css,98b611d,David Coallier,Added a list of popular users and some small additions.,248,248,,,0,2011-02-06 16:20:36,
+css/resume.css,6d86f53,NumEricR,Merge branch 'NumEricR/hCard' into hCard  Conflicts: 	css/resume.css 	views/resume.html,263,263,,,0,2011-07-29 20:16:10,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,259,262,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,254,256,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,249,251,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,98b611d,David Coallier,Added a list of popular users and some small additions.,252,252,,,0,2011-02-06 16:20:36,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,271,275,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,9def42b,okor,"added subtle background, added email and print links",264,265,,,0,2012-08-29 17:09:10,
+css/resume.css,3b265e1,okor,hacked around YUI insanity,278,283,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,285,285,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,3b265e1,okor,hacked around YUI insanity,266,268,okor,9def42b,0,2012-09-04 15:05:22,2012-08-29 17:09:10
+css/resume.css,9def42b,okor,"added subtle background, added email and print links",269,270,,,0,2012-08-29 17:09:10,
+css/resume.css,9def42b,okor,"added subtle background, added email and print links",284,284,,,0,2012-08-29 17:09:10,
+css/resume.css,9def42b,okor,"added subtle background, added email and print links",276,277,,,0,2012-08-29 17:09:10,
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,286,287,NumEricR,667c318,0,2013-11-23 00:47:34,2013-03-25 20:34:59
+css/resume.css,8861a7d,u2,Update to HTML5,294,294,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,b7794c4,u2,Add contributions repos,288,291,u2,8861a7d,0,2016-02-18 16:09:25,2016-02-17 15:34:25
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,292,293,NumEricR,667c318,0,2013-11-23 00:47:34,2013-03-25 20:34:59
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,302,307,NumEricR,667c318,0,2013-11-23 00:47:34,2013-03-25 20:34:59
+css/resume.css,8861a7d,u2,Update to HTML5,299,301,Joah Gerstenberg,c4560f5,0,2016-02-17 15:34:25,2013-12-02 21:13:47
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,295,298,NumEricR,667c318,0,2013-11-23 00:47:34,2013-03-25 20:34:59
+css/resume.css,8861a7d,u2,Update to HTML5,308,308,NumEricR,667c318,0,2016-02-17 15:34:25,2013-03-25 20:34:59
+css/resume.css,c13eba3,mosampaio,adding responsiveness for max-width=60em,348,354,NumEricR,667c318,0,2013-11-23 00:53:20,2013-03-25 20:34:59
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,309,347,NumEricR,667c318,0,2013-11-23 00:47:34,2013-03-25 20:34:59
+css/resume.css,1aec12c,mosampaio,adding responsiveness for max-width=60em,355,365,,,0,2013-11-23 00:47:34,
+css/resume.css,8861a7d,u2,Update to HTML5,366,366,,,0,2016-02-17 15:34:25,
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,6,6,,,0,2011-02-06 14:36:30,
+views/resume.html,9def42b,okor,"added subtle background, added email and print links",4,5,NumEricR,df9d5c0,0,2012-08-29 17:09:10,2011-06-04 19:44:00
+views/resume.html,8861a7d,u2,Update to HTML5,10,10,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",2,3,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),9,9,David Coallier,0db8e99,0,2011-02-07 12:18:45,2011-02-06 18:58:53
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",8,8,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,9def42b,okor,"added subtle background, added email and print links",7,7,NumEricR,df9d5c0,0,2012-08-29 17:09:10,2011-06-04 19:44:00
+views/resume.html,9def42b,okor,"added subtle background, added email and print links",1,1,NumEricR,df9d5c0,0,2012-08-29 17:09:10,2011-06-04 19:44:00
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",11,15,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,16,16,,,0,2011-02-06 14:36:30,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",17,25,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,8861a7d,u2,Update to HTML5,26,26,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",29,30,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,31,31,,,0,2011-02-06 14:36:30,
+views/resume.html,8861a7d,u2,Update to HTML5,28,28,Adrian Rangel,52b006a,0,2016-02-17 15:34:25,2013-12-18 03:15:45
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,27,27,,,0,2011-02-06 14:36:30,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",32,55,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,b7794c4,u2,Add contributions repos,56,62,u2,8861a7d,0,2016-02-18 16:09:25,2016-02-17 15:34:25
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",63,66,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,67,67,,,0,2011-02-06 14:36:30,
+views/resume.html,b7794c4,u2,Add contributions repos,69,79,u2,8861a7d,0,2016-02-18 16:09:25,2016-02-17 15:34:25
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",80,81,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",68,68,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),82,82,,,0,2011-02-07 12:18:45,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",84,86,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,b7794c4,u2,Add contributions repos,83,83,u2,8861a7d,0,2016-02-18 16:09:25,2016-02-17 15:34:25
+views/resume.html,b7794c4,u2,Add contributions repos,89,89,u2,8861a7d,0,2016-02-18 16:09:25,2016-02-17 15:34:25
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,87,87,,,0,2011-02-06 14:36:30,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",88,88,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",90,91,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,92,92,,,0,2011-02-06 18:25:17,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",93,107,Joah Gerstenberg,063dce1,0,2013-12-18 03:15:45,2013-12-06 17:30:07
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,109,109,,,0,2011-02-06 14:36:30,
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,113,113,,,0,2011-02-06 14:36:30,
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,115,115,,,0,2011-02-06 14:36:30,
+views/resume.html,8861a7d,u2,Update to HTML5,110,110,,,0,2016-02-17 15:34:25,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",111,111,,,0,2013-12-18 03:15:45,
+views/resume.html,47aba3b,David Coallier,The initial github resumes repository,116,116,,,0,2011-02-06 14:36:30,
+views/resume.html,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",114,114,,,0,2013-12-18 03:15:45,
+views/resume.html,8861a7d,u2,Update to HTML5,112,112,,,0,2016-02-17 15:34:25,
+views/resume.html,8861a7d,u2,Update to HTML5,108,108,,,0,2016-02-17 15:34:25,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,1,1,,,0,2011-02-06 14:36:30,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,3,3,,,0,2011-02-07 17:10:44,
+js/githubresume.js,5ea1186,Nicolas Perriault,removed hardcoded GA tracker ID (\!),2,2,,,0,2011-02-07 13:23:34,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,13,13,,,0,2011-02-06 14:36:30,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,15,16,,,0,2011-02-06 14:36:30,
+js/githubresume.js,5ea1186,Nicolas Perriault,removed hardcoded GA tracker ID (\!),4,4,,,0,2011-02-07 13:23:34,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,5,11,,,0,2011-02-06 14:36:30,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),12,12,,,0,2011-02-07 12:18:45,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,17,25,,,0,2011-02-06 14:36:30,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),31,31,,,0,2011-02-07 12:18:45,
+js/githubresume.js,549b1fd,Nicolas Perriault,now catching exceptions in case a console instance is missing,26,30,,,0,2011-02-07 10:05:26,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),14,14,,,0,2011-02-07 12:18:45,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,32,55,,,0,2011-02-06 14:36:30,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,58,58,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,57,57,Conor McDermottroe,63d834b,0,2012-06-26 00:23:30,2012-06-23 13:14:55
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,56,56,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,59,59,,,0,2011-02-06 14:36:30,
+js/githubresume.js,56c155c,u2,per_page maximum only 100,62,62,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,63,63,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),64,64,,,0,2011-02-07 12:18:45,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,60,61,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,65,65,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,b7794c4,u2,Add contributions repos,66,66,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,56c155c,u2,per_page maximum only 100,70,70,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,71,76,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,67,68,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,77,77,,,0,2011-02-06 14:36:30,
+js/githubresume.js,b7794c4,u2,Add contributions repos,78,79,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,69,69,Conor McDermottroe,63d834b,0,2012-06-26 00:23:30,2012-06-23 13:14:55
+js/githubresume.js,b7794c4,u2,Add contributions repos,81,88,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,56c155c,u2,per_page maximum only 100,80,80,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,56c155c,u2,per_page maximum only 100,89,89,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,b7794c4,u2,Add contributions repos,90,96,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,97,97,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,99,100,Andrew Tulloch,dea1207,0,2012-06-23 13:14:55,2011-12-13 18:08:47
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,98,98,Andrew Tulloch,dea1207,0,2012-06-26 00:23:30,2011-12-13 18:08:47
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,106,106,Christophe Naud-Dulude,a00f17e,0,2013-11-19 22:31:01,2013-11-18 21:10:08
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,101,105,Lawrence MacGuire,c7b7c2e,1,2013-12-02 20:08:44,2013-11-28 15:19:56
+js/githubresume.js,56c155c,u2,per_page maximum only 100,108,108,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,107,107,Lawrence MacGuire,c7b7c2e,1,2013-12-02 20:08:44,2013-11-28 15:19:56
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,110,110,Lawrence MacGuire,c7b7c2e,1,2013-12-02 20:08:44,2013-11-28 15:19:56
+js/githubresume.js,d6b807d,Joah Gerstenberg,Change variable name to increase semanticity,109,109,Joah Gerstenberg,e915614,0,2013-12-06 19:05:44,2013-12-06 19:00:27
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,113,114,Christophe Naud-Dulude,a00f17e,0,2013-11-19 22:31:01,2013-11-18 21:10:08
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,112,112,Lawrence MacGuire,c7b7c2e,1,2013-12-02 20:08:44,2013-11-28 15:19:56
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,115,116,Lawrence MacGuire,c7b7c2e,1,2013-12-02 20:08:44,2013-11-28 15:19:56
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,111,111,Christophe Naud-Dulude,a00f17e,0,2013-11-19 22:31:01,2013-11-18 21:10:08
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,117,119,Joah Gerstenberg,d74faf4,0,2013-12-06 18:25:27,2013-12-05 19:47:49
+js/githubresume.js,d6b807d,Joah Gerstenberg,Change variable name to increase semanticity,120,120,Joah Gerstenberg,d74faf4,0,2013-12-06 19:05:44,2013-12-05 19:47:49
+js/githubresume.js,e915614,Joah Gerstenberg,Adds 404 handling,121,121,Joah Gerstenberg,d74faf4,0,2013-12-06 19:00:27,2013-12-05 19:47:49
+js/githubresume.js,d6b807d,Joah Gerstenberg,Change variable name to increase semanticity,122,122,Joah Gerstenberg,d74faf4,0,2013-12-06 19:05:44,2013-12-05 19:47:49
+js/githubresume.js,d6b807d,Joah Gerstenberg,Change variable name to increase semanticity,127,128,Joah Gerstenberg,d74faf4,0,2013-12-06 19:05:44,2013-12-05 19:47:49
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,123,123,Joah Gerstenberg,d74faf4,0,2013-12-06 18:25:27,2013-12-05 19:47:49
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,124,125,Christophe Naud-Dulude,a00f17e,0,2013-11-19 22:31:01,2013-11-18 21:10:08
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,129,130,Joah Gerstenberg,d74faf4,0,2013-12-06 18:25:27,2013-12-05 19:47:49
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,131,132,okor,9def42b,0,2013-11-19 22:31:01,2012-08-29 17:09:10
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,133,133,Christophe Naud-Dulude,a00f17e,1,2013-12-02 20:08:44,2013-11-18 21:10:08
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,126,126,okor,9def42b,0,2013-11-19 22:31:01,2012-08-29 17:09:10
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,137,141,Christophe Naud-Dulude,a00f17e,1,2013-12-02 20:08:44,2013-11-18 21:10:08
+js/githubresume.js,5cb4936,chocolateboy,stop iterating starred repos if a match is found,134,135,okor,9def42b,0,2013-11-20 19:58:46,2012-08-29 17:09:10
+js/githubresume.js,56c155c,u2,per_page maximum only 100,142,142,u2,b7794c4,0,2016-02-19 04:23:55,2016-02-18 16:09:25
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,136,136,okor,9def42b,0,2013-11-19 22:31:01,2012-08-29 17:09:10
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,149,149,,,0,2011-02-06 14:36:30,
+js/githubresume.js,d9dca6e,7rans,Opt-in by starring resume.github.com project.,147,148,NumEricR,c19167b,0,2013-11-19 22:31:01,2012-09-04 21:41:41
+js/githubresume.js,7c7f0eb,7rans,Fix pageing of starred repos.,143,146,okor,9def42b,1,2013-12-02 20:08:44,2012-08-29 17:09:10
+js/githubresume.js,319b134,NumEricR,JS clean up,151,151,NumEricR,45f0a4b,0,2011-07-30 19:02:01,2011-07-30 18:26:03
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,152,154,Joah Gerstenberg,d74faf4,0,2013-12-06 18:25:27,2013-12-05 19:47:49
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,156,160,Christophe Naud-Dulude,a00f17e,0,2013-12-06 18:25:27,2013-11-18 21:10:08
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,150,150,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,e915614,Joah Gerstenberg,Adds 404 handling,161,169,Joah Gerstenberg,d74faf4,0,2013-12-06 19:00:27,2013-12-05 19:47:49
+js/githubresume.js,b7794c4,u2,Add contributions repos,155,155,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,c5e49dd,Joah Gerstenberg,Adds 403 Handling,170,183,Joah Gerstenberg,d74faf4,0,2013-12-06 18:25:27,2013-12-05 19:47:49
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,187,187,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,5f23ac2,August Lilleaas,"Adding a way to opt out, and opting myself out.",184,186,okor,9def42b,0,2013-11-18 16:45:56,2012-08-29 17:09:10
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,188,188,NumEricR,45f0a4b,0,2012-06-26 00:23:30,2011-07-30 18:26:03
+js/githubresume.js,5298fe4,NumEricR,Added some extra points on user status algorithm,190,190,Herman J. Radtke III,3fcbd8c,0,2011-06-08 19:02:49,2011-05-13 03:11:36
+js/githubresume.js,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,189,189,,,0,2012-09-04 21:26:22,
+js/githubresume.js,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,191,192,,,0,2012-09-04 21:26:22,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,202,202,,,0,2011-02-06 14:36:30,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,204,204,Herman J. Radtke III,3fcbd8c,0,2012-06-23 13:14:55,2011-05-13 03:11:36
+js/githubresume.js,47d8f62,NumEricR,Add relative dates for user account creation,193,193,,,0,2011-04-24 13:37:19,
+js/githubresume.js,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,194,201,,,0,2012-09-04 21:26:22,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,206,206,,,0,2011-02-06 18:25:17,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,203,203,,,0,2011-02-06 18:25:17,
+js/githubresume.js,319b134,NumEricR,JS clean up,205,205,NumEricR,45f0a4b,0,2011-07-30 19:02:01,2011-07-30 18:26:03
+js/githubresume.js,f046b8a,David Coallier,Added a check for missing http:// in the links.,207,207,,,0,2011-02-06 16:35:11,
+js/githubresume.js,a775134,chocolateboy,"fix view.name for accounts without a ""friendly"" name",208,210,okor,9def42b,1,2013-12-03 10:09:42,2012-08-29 17:09:10
+js/githubresume.js,a6c2168,David Coallier,"Added a fun ""Papa Bear"" name in the event one doesnt have a name. Added a title modification.",214,215,,,0,2011-02-06 21:39:33,
+js/githubresume.js,b2b16fc,David Coallier,Removed papa bear and put the username instead of the name when the name isnt present.,211,211,,,0,2011-02-06 21:41:51,
+js/githubresume.js,a775134,chocolateboy,"fix view.name for accounts without a ""friendly"" name",212,212,okor,9def42b,1,2013-12-03 10:09:42,2012-08-29 17:09:10
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,213,213,Herman J. Radtke III,3fcbd8c,0,2012-06-23 13:14:55,2011-05-13 03:11:36
+js/githubresume.js,3012f7a,Ado Matejov,organizations,216,221,Conor McDermottroe,63d834b,0,2012-09-27 17:19:15,2012-06-23 13:14:55
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),223,223,,,0,2011-02-07 12:18:45,
+js/githubresume.js,3012f7a,Ado Matejov,organizations,224,224,Conor McDermottroe,63d834b,0,2012-09-27 17:19:15,2012-06-23 13:14:55
+js/githubresume.js,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,227,227,,,0,2012-09-04 21:26:22,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,222,222,,,0,2011-02-06 14:36:30,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,225,226,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,228,229,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,235,235,,,0,2011-02-06 14:36:30,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,231,234,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",237,238,Conor McDermottroe,63d834b,0,2012-08-29 17:09:10,2012-06-23 13:14:55
+js/githubresume.js,3012f7a,Ado Matejov,organizations,230,230,Conor McDermottroe,63d834b,0,2012-09-27 17:19:15,2012-06-23 13:14:55
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,236,236,NumEricR,45f0a4b,1,2012-09-04 21:41:41,2011-07-30 18:26:03
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,239,239,,,0,2011-02-06 14:36:30,
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",240,240,Joah Gerstenberg,d6b807d,0,2013-12-18 03:15:45,2013-12-06 19:05:44
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,244,244,,,0,2011-02-06 18:25:17,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,241,241,Herman J. Radtke III,3fcbd8c,1,2012-09-04 21:41:41,2011-05-13 03:11:36
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,246,256,Nick Novitski,fa3b0a2,0,2011-06-02 18:53:34,2011-06-01 17:11:02
+js/githubresume.js,a04f2bf,NumEricR,Merge branch 'refs/heads/master' into Profile  Conflicts: 	js/githubresume.js 	views/resume.html,243,243,,,0,2012-09-04 21:26:22,
+js/githubresume.js,a00f17e,Christophe Naud-Dulude,Github founders are also early adopters (before 2008),242,242,NumEricR,45f0a4b,0,2013-11-18 21:10:08,2011-07-30 18:26:03
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",245,245,chocolateboy,a775134,0,2013-12-18 03:15:45,2013-12-03 10:09:42
+js/githubresume.js,5298fe4,NumEricR,Added some extra points on user status algorithm,257,257,Nick Novitski,d2ca7c2,0,2011-06-08 19:02:49,2011-06-01 18:12:27
+js/githubresume.js,195a0fd,NumEricR,Merge branch 'refs/heads/master' into userStatus  Conflicts: 	js/githubresume.js 	views/resume.html,262,262,,,0,2012-09-04 20:05:47,
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",263,263,Andrew Tulloch,dea1207,0,2013-12-18 03:15:45,2011-12-13 18:08:47
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",258,258,Conor McDermottroe,b5671ce,0,2013-12-18 03:15:45,2012-06-26 00:23:30
+js/githubresume.js,457fb21,Julien Sagot,"Made link in ""Languages"" section point to search page of user's repo using this language  (Improved by @Walkman100 and @u2).",259,261,Conor McDermottroe,b5671ce,0,2016-02-08 11:36:06,2012-06-26 00:23:30
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",270,273,Conor McDermottroe,63d834b,0,2013-12-18 03:15:45,2012-06-23 13:14:55
+js/githubresume.js,5298fe4,NumEricR,Added some extra points on user status algorithm,264,269,Herman J. Radtke III,3fcbd8c,0,2011-06-08 19:02:49,2011-05-13 03:11:36
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,274,274,,,0,2011-06-02 18:53:34,
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,279,280,,,0,2011-06-02 18:53:34,
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,276,277,,,0,2011-06-02 18:53:34,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,278,278,Herman J. Radtke III,3fcbd8c,1,2012-09-04 21:41:41,2011-05-13 03:11:36
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,285,286,,,0,2011-06-02 18:53:34,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,275,275,Herman J. Radtke III,3fcbd8c,1,2012-09-04 21:41:41,2011-05-13 03:11:36
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,282,283,,,0,2011-06-02 18:53:34,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,287,287,Conor McDermottroe,b5671ce,1,2012-09-04 21:41:41,2012-06-26 00:23:30
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,288,289,,,0,2011-06-02 18:53:34,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,284,284,Herman J. Radtke III,3fcbd8c,1,2012-09-04 21:41:41,2011-05-13 03:11:36
+js/githubresume.js,15b5255,NumEricR,User status is now defined using several parameters,291,291,,,0,2011-06-02 18:53:34,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,281,281,Herman J. Radtke III,3fcbd8c,1,2012-09-04 21:41:41,2011-05-13 03:11:36
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,294,294,NumEricR,45f0a4b,0,2012-06-23 13:14:55,2011-07-30 18:26:03
+js/githubresume.js,195a0fd,NumEricR,Merge branch 'refs/heads/master' into userStatus  Conflicts: 	js/githubresume.js 	views/resume.html,292,292,,,0,2012-09-04 20:05:47,
+js/githubresume.js,c19167b,NumEricR,Fix format of GitHub wordings,290,290,Conor McDermottroe,b5671ce,1,2012-09-04 21:41:41,2012-06-26 00:23:30
+js/githubresume.js,52b006a,Adrian Rangel,"replace tabs with spaces, remove some whitespace at EOL",293,293,NumEricR,45f0a4b,0,2013-12-18 03:15:45,2011-07-30 18:26:03
+js/githubresume.js,3012f7a,Ado Matejov,organizations,300,300,Conor McDermottroe,b5671ce,0,2012-09-27 17:19:15,2012-06-26 00:23:30
+js/githubresume.js,3012f7a,Ado Matejov,organizations,298,298,Conor McDermottroe,b5671ce,0,2012-09-27 17:19:15,2012-06-26 00:23:30
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,296,297,,,0,2011-02-06 18:25:17,
+js/githubresume.js,d74faf4,Joah Gerstenberg,Changes all references of 'blog' to 'website' instead.,295,295,Conor McDermottroe,b5671ce,0,2013-12-05 19:47:49,2012-06-26 00:23:30
+js/githubresume.js,319b134,NumEricR,JS clean up,303,304,,,0,2011-07-30 19:02:01,
+js/githubresume.js,a6c2168,David Coallier,"Added a fun ""Papa Bear"" name in the event one doesnt have a name. Added a title modification.",306,306,,,0,2011-02-06 21:39:33,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,305,305,,,0,2011-02-06 14:36:30,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,301,302,,,0,2011-02-06 14:36:30,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,299,299,,,0,2011-02-06 14:36:30,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,311,314,,,0,2011-02-06 14:36:30,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",307,310,NumEricR,45f0a4b,0,2012-08-29 17:09:10,2011-07-30 18:26:03
+js/githubresume.js,319b134,NumEricR,JS clean up,317,318,,,0,2011-07-30 19:02:01,
+js/githubresume.js,63d834b,Conor McDermottroe,Switch to GitHub API V3  API V2 has been shut off since 1st June 2012. I also took the time to remove github.js since we weren't using much of it.  Fixes #35,315,316,,,0,2012-06-23 13:14:55,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,319,319,,,0,2011-02-06 14:36:30,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),328,328,,,0,2011-02-07 12:18:45,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,320,321,NumEricR,2e3612e,0,2012-06-26 00:23:30,2011-06-02 13:08:13
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,325,327,NumEricR,2e3612e,0,2012-06-26 00:23:30,2011-06-02 13:08:13
+js/githubresume.js,c0d8579,Nicolas Perriault,forks are no more included in language statistics (ping @naholyr),322,323,,,0,2011-02-07 13:25:55,
+js/githubresume.js,44d4075,David Coallier,"Revert ""Make the ""My Popular Repositories"" be built from your complete list of repositories.  Must have at least one contribution to be counted.""  This reverts commit 3fcbd8c4b1d47e9f6f9ab28f9da6d5bf387345ce.",324,324,,,0,2011-05-16 22:14:47,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,329,329,,,0,2012-06-26 00:23:30,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,337,341,,,0,2011-02-06 14:36:30,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),330,332,,,0,2011-02-07 12:18:45,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),336,336,,,0,2011-02-07 12:18:45,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,335,335,,,0,2011-02-06 14:36:30,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,343,343,,,0,2011-02-07 17:10:44,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),342,342,,,0,2011-02-07 12:18:45,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,333,334,,,0,2012-06-26 00:23:30,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),344,345,,,0,2011-02-07 12:18:45,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),347,354,,,0,2011-02-07 12:18:45,
+js/githubresume.js,457fb21,Julien Sagot,"Made link in ""Languages"" section point to search page of user's repo using this language  (Improved by @Walkman100 and @u2).",355,355,Conor McDermottroe,b5671ce,0,2016-02-08 11:36:06,2012-06-26 00:23:30
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),362,362,,,0,2011-02-07 12:18:45,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,360,361,,,0,2011-02-07 17:10:44,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),358,359,,,0,2011-02-07 12:18:45,
+js/githubresume.js,5302ed4,Shakeel Mohamed,Fix broken languages link  This especially broke the link when the language is C++ because the + characters weren't encoded properly,356,356,Joao Andrade,825763d,1,2016-06-03 08:51:00,2016-05-26 14:35:46
+js/githubresume.js,319b134,NumEricR,JS clean up,346,346,,,0,2011-07-30 19:02:01,
+js/githubresume.js,457fb21,Julien Sagot,"Made link in ""Languages"" section point to search page of user's repo using this language  (Improved by @Walkman100 and @u2).",357,357,Conor McDermottroe,63d834b,0,2016-02-08 11:36:06,2012-06-23 13:14:55
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),364,366,,,0,2011-02-07 12:18:45,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),368,370,,,0,2011-02-07 12:18:45,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,371,374,,,0,2011-02-06 14:36:30,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",363,363,,,0,2012-08-29 17:09:10,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,375,377,,,0,2011-02-07 17:10:44,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",367,367,,,0,2012-08-29 17:09:10,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",380,380,,,0,2012-08-29 17:09:10,
+js/githubresume.js,319b134,NumEricR,JS clean up,378,379,,,0,2011-07-30 19:02:01,
+js/githubresume.js,e89a29c,David Coallier,Tiny bug on the display of the languages,386,386,,,1,2011-02-07 17:18:06,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,381,381,,,0,2012-06-26 00:23:30,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,382,382,,,0,2011-02-07 17:10:44,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,383,384,,,0,2012-06-26 00:23:30,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,387,396,,,0,2011-02-07 17:10:44,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",385,385,,,0,2012-08-29 17:09:10,
+js/githubresume.js,6343f91,David Coallier,Added the changes from n1k0 and a few other things.,397,397,,,0,2011-02-07 17:10:44,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,400,402,,,0,2011-02-06 18:25:17,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),398,399,,,0,2011-02-07 12:18:45,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,406,408,,,0,2011-02-06 18:25:17,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",404,404,,,0,2012-08-29 17:09:10,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,411,411,,,0,2011-02-06 18:25:17,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),409,409,,,0,2011-02-07 12:18:45,
+js/githubresume.js,319b134,NumEricR,JS clean up,403,403,,,0,2011-07-30 19:02:01,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,405,405,,,0,2012-06-26 00:23:30,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,410,410,,,0,2012-06-26 00:23:30,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,412,412,,,0,2012-06-26 00:23:30,
+js/githubresume.js,6e2c7ee,Alex Hicks,Fix #210,419,421,u2,56c155c,1,2016-05-05 19:18:55,2016-02-19 04:23:55
+js/githubresume.js,5928163,Joao Andrade,Fix processing empty descriptions for private repositories,422,422,Alex Hicks,6e2c7ee,1,2016-05-26 14:33:08,2016-05-05 19:18:55
+js/githubresume.js,07d0354,u2,typo,417,417,Conor McDermottroe,b5671ce,0,2016-02-17 06:24:21,2012-06-26 00:23:30
+js/githubresume.js,6a70e0a,NumEricR,Fixed code style,418,418,,,1,2011-07-29 19:32:23,
+js/githubresume.js,825763d,Joao Andrade,Fix spacing,423,423,Joao Andrade,5928163,1,2016-05-26 14:35:46,2016-05-26 14:33:08
+js/githubresume.js,319b134,NumEricR,JS clean up,424,424,,,0,2011-07-30 19:02:01,
+js/githubresume.js,6a70e0a,NumEricR,Fixed code style,413,416,,,1,2011-07-29 19:32:23,
+js/githubresume.js,6a70e0a,NumEricR,Fixed code style,426,426,,,1,2011-07-29 19:32:23,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,427,428,,,0,2012-06-26 00:23:30,
+js/githubresume.js,12184a6,u2,Add homepage for repo,429,429,Lawrence MacGuire,90bf1cf,0,2016-02-18 03:03:31,2013-11-28 12:26:01
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,430,430,,,0,2011-02-06 18:25:17,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,425,425,,,0,2012-06-26 00:23:30,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,435,435,,,0,2011-02-06 18:25:17,
+js/githubresume.js,f33e3ac,Andrew Radev,"Fix wording for 0 items  Should say ""0 forks"" instead of ""0 fork"".",434,434,,,1,2012-11-14 11:48:10,
+js/githubresume.js,05a621d,danprince,fix name of watchers field,433,433,NumEricR,45f0a4b,1,2015-08-30 22:43:58,2011-07-30 18:26:03
+js/githubresume.js,a97a743,David Coallier,Remove the last line under the last job item.,437,437,,,0,2011-02-07 17:22:20,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),436,436,,,0,2011-02-07 12:18:45,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,431,432,,,0,2012-06-26 00:23:30,
+js/githubresume.js,319b134,NumEricR,JS clean up,441,442,,,0,2011-07-30 19:02:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,438,440,,,0,2011-02-06 18:25:17,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,443,447,,,0,2011-02-06 18:25:17,
+js/githubresume.js,90bf1cf,Lawrence MacGuire,"Slight semantic fix for ""I do not have any public repos""  In the ""GitHub Profile"" section, it will display ""$user is a developer with X public repositories. ...""  However, if the user in question only has other people's forks, it will display ""I have no public repositories"". Two conflicting statements.  The section now states ""All my repositories are forks"" if that's the case.",448,448,,,1,2013-11-28 12:26:01,
+js/githubresume.js,b7794c4,u2,Add contributions repos,458,510,u2,4bfb180,0,2016-02-18 16:09:25,2016-02-18 08:43:30
+js/githubresume.js,90bf1cf,Lawrence MacGuire,"Slight semantic fix for ""I do not have any public repos""  In the ""GitHub Profile"" section, it will display ""$user is a developer with X public repositories. ...""  However, if the user in question only has other people's forks, it will display ""I have no public repositories"". Two conflicting statements.  The section now states ""All my repositories are forks"" if that's the case.",452,452,,,1,2013-11-28 12:26:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,453,457,,,0,2011-02-06 18:25:17,
+js/githubresume.js,c7b7c2e,Lawrence MacGuire,Fixing 1st vs 3rd person texts,451,451,,,0,2013-11-28 15:19:56,
+js/githubresume.js,90bf1cf,Lawrence MacGuire,"Slight semantic fix for ""I do not have any public repos""  In the ""GitHub Profile"" section, it will display ""$user is a developer with X public repositories. ...""  However, if the user in question only has other people's forks, it will display ""I have no public repositories"". Two conflicting statements.  The section now states ""All my repositories are forks"" if that's the case.",450,450,,,1,2013-11-28 12:26:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,512,513,,,0,2011-02-06 18:25:17,
+js/githubresume.js,c7b7c2e,Lawrence MacGuire,Fixing 1st vs 3rd person texts,449,449,,,0,2013-11-28 15:19:56,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,519,528,,,0,2011-02-06 18:25:17,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,514,515,,,0,2012-06-26 00:23:30,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,518,518,,,0,2012-06-26 00:23:30,
+js/githubresume.js,319b134,NumEricR,JS clean up,530,530,,,0,2011-07-30 19:02:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,516,517,,,0,2011-02-06 18:25:17,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",529,529,,,0,2012-08-29 17:09:10,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,511,511,,,0,2012-06-26 00:23:30,
+js/githubresume.js,9def42b,okor,"added subtle background, added email and print links",531,531,,,0,2012-08-29 17:09:10,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,536,536,,,0,2012-06-26 00:23:30,
+js/githubresume.js,319b134,NumEricR,JS clean up,537,537,,,0,2011-07-30 19:02:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,539,540,,,0,2011-02-06 18:25:17,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),541,541,,,0,2011-02-07 12:18:45,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,533,535,,,0,2011-02-06 18:25:17,
+js/githubresume.js,b5671ce,Conor McDermottroe,JSON -> JSONP  - Add missing `?callback=?` to calls to `$.getJSON` to turn them into   JSONP calls to avoid same-origin lockdown. - Move from `.forEach` to `$.each` to work around intermittent breakage   with `.forEach`.,532,532,,,0,2012-06-26 00:23:30,
+js/githubresume.js,45f0a4b,NumEricR,Display organizations login if name isn't available,538,538,,,0,2011-07-30 18:26:03,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,542,544,,,0,2011-02-06 18:25:17,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,548,551,,,0,2011-02-06 18:25:17,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,554,556,,,0,2011-02-06 14:36:30,
+js/githubresume.js,319b134,NumEricR,JS clean up,545,546,,,0,2011-07-30 19:02:01,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,557,557,,,0,2011-02-06 18:25:17,
+js/githubresume.js,ff944a0,Nicolas Perriault,added language statistics (+ indentation and code formatting),547,547,,,0,2011-02-07 12:18:45,
+js/githubresume.js,d8c933d,David Coallier,Added a testing organization page and added links back tot he resume templates. Also added a loading for information.,552,553,,,0,2011-02-06 18:25:17,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,558,559,,,0,2011-02-06 14:36:30,
+js/githubresume.js,db06a1c,David Coallier,Added google analytics,571,571,,,0,2011-02-06 14:46:36,
+js/githubresume.js,5ea1186,Nicolas Perriault,removed hardcoded GA tracker ID (\!),560,560,,,0,2011-02-07 13:23:34,
+js/githubresume.js,5ea1186,Nicolas Perriault,removed hardcoded GA tracker ID (\!),570,570,,,0,2011-02-07 13:23:34,
+js/githubresume.js,47aba3b,David Coallier,The initial github resumes repository,572,572,,,0,2011-02-06 14:36:30,
+js/githubresume.js,5ea1186,Nicolas Perriault,removed hardcoded GA tracker ID (\!),562,562,,,0,2011-02-07 13:23:34,
+js/githubresume.js,db06a1c,David Coallier,Added google analytics,563,569,,,0,2011-02-06 14:46:36,
+js/githubresume.js,db06a1c,David Coallier,Added google analytics,561,561,,,0,2011-02-06 14:46:36,
